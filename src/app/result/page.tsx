@@ -4,6 +4,7 @@ import { useSearchParams } from "next/navigation";
 import { useState, useEffect, useCallback, Suspense } from "react";
 import ItineraryCard from "@/components/ItineraryCard";
 import { useFavorites } from "@/lib/favorites";
+import { usePocketList } from "@/lib/usePocketList";
 import { districtDisplay } from "@/lib/districts";
 import type { Itinerary } from "@/types";
 import Link from "next/link";
@@ -21,6 +22,8 @@ function ResultContent() {
   const [loading, setLoading] = useState(true);
   const [excluded, setExcluded] = useState<string[]>([]);
   const { isFavorite, toggle } = useFavorites();
+  // 把使用者自己的口袋名單（Firestore）帶進產生請求，與共用 catalog 合併
+  const { places: pocketList } = usePocketList();
 
   const district = searchParams.get("district") ?? "不限";
   const typeParam = searchParams.get("type") ?? "all";
@@ -39,6 +42,7 @@ function ResultContent() {
             type: types,
             setting,
             exclude: excludeIds,
+            pocketList,
           }),
         });
         const data = await res.json();
@@ -49,7 +53,7 @@ function ResultContent() {
         setLoading(false);
       }
     },
-    [district, typeParam, setting]
+    [district, typeParam, setting, pocketList]
   );
 
   useEffect(() => {

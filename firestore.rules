@@ -1,0 +1,18 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // 每個使用者只能讀寫自己 users/{uid} 底下的資料（口袋名單、最愛）。
+    // 沒有這條 = 任何人都能讀寫所有人的資料。上線前務必部署：
+    //   firebase deploy --only firestore:rules
+    match /users/{uid}/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // 其餘一律拒絕
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

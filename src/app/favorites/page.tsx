@@ -5,6 +5,7 @@ import Link from "next/link";
 import PlaceItem from "@/components/PlaceItem";
 import ItineraryCard from "@/components/ItineraryCard";
 import { useFavorites } from "@/lib/favorites";
+import SignInGate from "@/components/SignInGate";
 import type { Place, Itinerary } from "@/types";
 
 const TYPE_TABS = [
@@ -163,6 +164,7 @@ export default function FavoritesPage() {
           &larr; 返回首頁
         </Link>
 
+        <SignInGate message="登入以查看我的最愛">
         <div className="mb-4 flex items-center justify-between">
           <div>
             <h1 className="text-2xl font-bold text-gray-900 dark:text-gray-50">
@@ -295,6 +297,7 @@ export default function FavoritesPage() {
             ))}
           </div>
         )}
+        </SignInGate>
       </div>
     </main>
   );

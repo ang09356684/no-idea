@@ -13,7 +13,6 @@ import { khamPlaces } from "@/lib/sync/kham";
 import { mnaPlaces } from "@/lib/sync/mna";
 import { opentixPlaces } from "@/lib/sync/opentix";
 import { kktixPlaces } from "@/lib/sync/kktix";
-import { readRawJson } from "@/lib/data";
 import { normalizeDistrict } from "@/lib/districts";
 import type { Place } from "@/types";
 
@@ -23,7 +22,7 @@ import type { Place } from "@/types";
  * - remove whitespace, punctuation, special chars
  * - normalize Chinese brackets
  */
-function normalizeForDedup(name: string): string {
+export function normalizeForDedup(name: string): string {
   return name
     .trim()
     .toLowerCase()
@@ -59,15 +58,13 @@ export function combineAllPlaces(): Place[] {
     ...taoyuanPlaces(),
   ];
 
-  // 餐廳/美食資料只來自使用者自己加入的口袋名單，不從 sync 來源帶入
-  const customPlaces = readRawJson<Place[]>("pocket-list.json");
-
+  // 注意：餐廳/美食只來自「使用者自己的口袋名單」，現在存在各使用者的 Firestore，
+  // 不再是全域檔案，因此不在這裡併入共用 catalog；改在 generate 時由 client 帶入合併。
   const all = [
     ...exhibitions,
     ...performances,
     ...movies,
     ...attractions,
-    ...customPlaces,
   ].map((p) => ({
     // 跨縣市同名行政區對策 A：統一在此把各來源的 district 正規化成「縣市+區」複合鍵
     ...p,

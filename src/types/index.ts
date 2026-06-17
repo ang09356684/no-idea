@@ -35,6 +35,8 @@ export interface GenerateRequest {
   type: ("all" | "exhibition" | "concert" | "music" | "theater" | "movie" | "attraction" | "food")[];
   setting: "indoor" | "outdoor" | "both";
   exclude?: string[];
+  /** 使用者自己的口袋名單（存在各使用者的 Firestore），由 client 帶上來與共用 catalog 合併 */
+  pocketList?: Place[];
 }
 
 export interface GenerateResponse {

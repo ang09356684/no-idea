@@ -1,7 +1,32 @@
 import { readCombinedPlaces } from "@/lib/data";
-import { CITY_FULL, addressCity, placeDistrictKey } from "@/lib/districts";
+import {
+  CITY_FULL,
+  addressCity,
+  placeDistrictKey,
+  normalizeDistrict,
+} from "@/lib/districts";
+import { normalizeForDedup } from "@/lib/combine";
 import type { Place, Itinerary, GenerateRequest } from "@/types";
 import { randomUUID } from "crypto";
+
+/**
+ * 把使用者帶上來的口袋名單併入共用 catalog：
+ * - 對口袋項目套用與 catalog 相同的 district 正規化（複合鍵），地點篩選才一致
+ * - 依正規化名稱去重；catalog 優先（同名口袋項目捨棄），口袋內部也去重
+ */
+function mergeWithPocket(catalog: Place[], pocketList?: Place[]): Place[] {
+  if (!pocketList || pocketList.length === 0) return catalog;
+  const seen = new Set(catalog.map((p) => normalizeForDedup(p.name)));
+  const pocket = pocketList
+    .map((p) => ({ ...p, district: normalizeDistrict(p.address, p.district) }))
+    .filter((p) => {
+      const key = normalizeForDedup(p.name);
+      if (!key || seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  return [...catalog, ...pocket];
+}
 
 function shuffle<T>(arr: T[]): T[] {
   const result = [...arr];
@@ -92,7 +117,7 @@ export function generateItineraries(
   req: GenerateRequest,
   count: number = 2
 ): Itinerary[] {
-  const allPlaces = readCombinedPlaces();
+  const allPlaces = mergeWithPocket(readCombinedPlaces(), req.pocketList);
   const excludeSet = new Set(req.exclude ?? []);
 
   // Filter by base criteria (type, setting) — district handled separately

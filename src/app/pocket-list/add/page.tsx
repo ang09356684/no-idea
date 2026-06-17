@@ -4,6 +4,8 @@ import { useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import type { PlaceType } from "@/types";
+import { usePocketList } from "@/lib/usePocketList";
+import SignInGate from "@/components/SignInGate";
 
 const GMAP_URL_RE =
   /^https?:\/\/(?:maps\.app\.goo\.gl|goo\.gl|share\.google|(?:www\.|maps\.)?google\.com\/maps)/i;
@@ -56,6 +58,7 @@ function extractDistrict(address: string): string {
 
 export default function AddCustomPlacePage() {
   const router = useRouter();
+  const { add } = usePocketList();
   const [type, setType] = useState<PlaceType>("food");
   const [category, setCategory] = useState<"indoor" | "outdoor" | "both">(
     "both"
@@ -152,20 +155,14 @@ export default function AddCustomPlacePage() {
 
     try {
       const district = extractDistrict(address.trim());
-      const res = await fetch("/api/pocket-list", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: name.trim(),
-          type,
-          category,
-          address: address.trim(),
-          district,
-          goodFor: "both" as const,
-        }),
+      await add({
+        name: name.trim(),
+        type,
+        category,
+        address: address.trim(),
+        district,
+        goodFor: "both",
       });
-
-      if (!res.ok) throw new Error("儲存失敗");
       router.push("/pocket-list");
     } catch {
       setError("儲存失敗，請稍後再試");
@@ -184,6 +181,7 @@ export default function AddCustomPlacePage() {
           &larr; 返回口袋名單
         </Link>
 
+        <SignInGate message="登入以新增口袋名單">
         <h1 className="mb-6 text-2xl font-bold text-gray-900 dark:text-gray-50">
           新增項目
         </h1>
@@ -346,6 +344,7 @@ export default function AddCustomPlacePage() {
         >
           {saving ? "儲存中..." : "儲存"}
         </button>
+        </SignInGate>
       </div>
     </main>
   );

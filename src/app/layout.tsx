@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import PaletteSwitcher from "@/components/PaletteSwitcher";
+import AuthProvider from "@/components/AuthProvider";
+import AuthButton from "@/components/AuthButton";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -43,8 +45,11 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-full flex flex-col bg-white text-gray-900 dark:bg-gray-950 dark:text-gray-100 transition-colors">
-        <PaletteSwitcher />
-        {children}
+        <AuthProvider>
+          <AuthButton />
+          <PaletteSwitcher />
+          {children}
+        </AuthProvider>
       </body>
     </html>
   );

@@ -32,6 +32,8 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+# 範本檔不含機密，納入版控供隊友參考實際要設哪些 NEXT_PUBLIC_FIREBASE_* 變數
+!.env.example
 
 # vercel
 .vercel
@@ -43,11 +45,14 @@ test-*.mjs
 # claude internal
 .claude/
 
-# data files (keep directories only)
+# data files
+# raw/ 是中間產物（sync 抓下來的原始資料），不進 git。
+# combined/ 是「共用活動 catalog」build 產物，要隨部署出貨，所以納入版控。
 data/**
 !data/
 !data/raw/
 !data/combined/
+!data/combined/*.json
 !data/**/.gitkeep
 
 # typescript

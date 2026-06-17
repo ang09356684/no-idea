@@ -61,6 +61,15 @@ const SLOW_SOURCES: { name: string; fn: () => Promise<SyncResult> }[] = [
 const TOTAL = FAST_SOURCES.length + SLOW_SOURCES.length;
 
 export async function POST() {
+  // sync 會寫入本機檔案、且部分來源依賴 Playwright，無法在 serverless（如 Vercel）執行。
+  // 它是本機/CI 維護工具：本機跑 → commit data/combined → 重新部署。production 一律擋下。
+  if (process.env.NODE_ENV === "production") {
+    return new Response(
+      JSON.stringify({ error: "sync 僅供本機維護使用，線上停用" }),
+      { status: 403, headers: { "Content-Type": "application/json" } }
+    );
+  }
+
   const encoder = new TextEncoder();
   let progress = 0;
 
