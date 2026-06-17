@@ -73,7 +73,9 @@ export function atmoviesPlaces(): Place[] {
     type: "movie" as const,
     source: "atmovies",
     category: "indoor" as const,
-    address: "台北市各大影城",
+    // 電影本無固定地點（全台各大影城皆有上映）；用不含縣市字樣的中性標籤，
+    // 讓嚴格地點篩選把它視為「地點不明」，可在任何縣市/區作為補充（plan 14）
+    address: "全台各大影城",
     district: "不限",
     sourceUrl: item.link,
     startDate: item.releaseDate,

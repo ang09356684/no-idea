@@ -95,3 +95,46 @@ export function districtShortLabel(district: string): string {
   const short = district.replace(/[區鄉鎮市]$/, "");
   return short.length >= 2 ? short : district;
 }
+
+// 全台縣市關鍵字（含未支援的縣市），供 addressCity 判定「地址確定在哪個縣市」。
+// 用於嚴格地點篩選（plan 14）：排除確定在其他縣市的資料，不跨縣市補。
+export const ALL_CITY_KEYWORDS: Record<string, string[]> = {
+  台北: ["臺北", "台北"],
+  新北: ["新北"],
+  桃園: ["桃園"],
+  台中: ["臺中", "台中"],
+  台南: ["臺南", "台南"],
+  高雄: ["高雄"],
+  基隆: ["基隆"],
+  新竹: ["新竹"],
+  宜蘭: ["宜蘭"],
+  苗栗: ["苗栗"],
+  彰化: ["彰化"],
+  南投: ["南投"],
+  雲林: ["雲林"],
+  嘉義: ["嘉義"],
+  屏東: ["屏東"],
+  花蓮: ["花蓮"],
+  台東: ["臺東", "台東"],
+  澎湖: ["澎湖"],
+  金門: ["金門"],
+  連江: ["連江"],
+};
+
+// 地址中出現的縣市（全台），回傳正規化 key（台北/高雄/…）；判不出回 null。
+// 第一個命中者為準（地址通常以縣市開頭，極少同時含兩個縣市）。
+// 注意「台北」排在「台中/台南/台東」前，避免子字串誤判。
+export function addressCity(address: string): string | null {
+  for (const city of Object.keys(ALL_CITY_KEYWORDS)) {
+    if (ALL_CITY_KEYWORDS[city].some((kw) => address.includes(kw))) return city;
+  }
+  return null;
+}
+
+// place.district 若為「縣市+區」複合鍵則回傳該鍵，否則 null（"不限"/"其他" → null）。
+export function placeDistrictKey(district: string): string | null {
+  for (const full of Object.values(CITY_FULL)) {
+    if (district.startsWith(full) && district.length > full.length) return district;
+  }
+  return null;
+}

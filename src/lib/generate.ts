@@ -1,5 +1,5 @@
 import { readCombinedPlaces } from "@/lib/data";
-import { CITY_KEYWORDS } from "@/lib/districts";
+import { CITY_FULL, addressCity, placeDistrictKey } from "@/lib/districts";
 import type { Place, Itinerary, GenerateRequest } from "@/types";
 import { randomUUID } from "crypto";
 
@@ -98,50 +98,47 @@ export function generateItineraries(
   // Filter by base criteria (type, setting) — district handled separately
   const baseFiltered = allPlaces.filter((p) => matchesBase(p, req, excludeSet));
 
-  // Determine filter mode
+  // Determine filter mode from the district param:
+  //  - "不限"         → no location filter
+  //  - "X-all"        → city-wide（只該縣市）
+  //  - "臺北市大安區" → specific district（複合鍵，只該區）
   const district = req.district ?? "不限";
   const isCityWide = district.endsWith("-all"); // e.g. "台北-all", "桃園-all"
-  const isSpecific = district !== "不限" && !isCityWide; // e.g. "大安區"
+  const isSpecific = district !== "不限" && !isCityWide; // e.g. "臺北市大安區"
 
-  const cityName = isCityWide ? district.replace("-all", "") : "";
-
-  function matchesCity(place: Place, city: string): boolean {
-    const keywords = CITY_KEYWORDS[city] ?? [city];
-    return keywords.some((kw) => place.address.includes(kw));
-  }
-
-  // Split into 3 tiers by location priority
-  let exactMatch: Place[];
-  let agnostic: Place[];
-  let otherDistrict: Place[];
+  // 嚴格地點篩選（plan 14）：排除「確定在其他縣市 / 其他行政區」的資料，
+  // 只放行「確定在所選範圍」或「地點判不出」者；不跨區、不跨縣市補資料。
+  // 地點判不出者（如無地址的電影）作為補充（tier2，排在精準命中之後）。
+  let prioritized: Place[];
 
   if (!isSpecific && !isCityWide) {
-    // "不限" — no filter
-    exactMatch = baseFiltered;
-    agnostic = [];
-    otherDistrict = [];
+    // 不限 — 全部
+    prioritized = shuffle(baseFiltered);
   } else if (isCityWide) {
-    // City-wide: e.g. "台北-all" → prioritize all places in that city
-    exactMatch = baseFiltered.filter((p) => matchesCity(p, cityName));
-    agnostic = baseFiltered.filter((p) => p.district === "不限");
-    otherDistrict = baseFiltered.filter(
-      (p) => !matchesCity(p, cityName) && p.district !== "不限"
-    );
+    // 只選縣市：保留地址確定在該縣市者 + 地點不明者；排除確定在其他縣市者
+    const selCity = district.replace("-all", "");
+    const kept = baseFiltered.filter((p) => {
+      const ac = addressCity(p.address);
+      return ac === null || ac === selCity;
+    });
+    const exact = kept.filter((p) => addressCity(p.address) === selCity);
+    const unknown = kept.filter((p) => addressCity(p.address) === null);
+    prioritized = [...shuffle(exact), ...shuffle(unknown)];
   } else {
-    // Specific district: e.g. "大安區"
-    exactMatch = baseFiltered.filter((p) => p.district === district);
-    agnostic = baseFiltered.filter((p) => p.district === "不限");
-    otherDistrict = baseFiltered.filter(
-      (p) => p.district !== district && p.district !== "不限"
-    );
+    // 指定行政區（複合鍵）：排除其他縣市與其他行政區；保留該區 + 區不明者
+    const selCity =
+      Object.keys(CITY_FULL).find((c) => district.startsWith(CITY_FULL[c])) ?? null;
+    const kept = baseFiltered.filter((p) => {
+      const ac = addressCity(p.address);
+      if (ac !== null && ac !== selCity) return false; // 其他縣市
+      const dk = placeDistrictKey(p.district);
+      if (dk !== null && dk !== district) return false; // 其他行政區（含同縣市他區）
+      return true;
+    });
+    const exact = kept.filter((p) => placeDistrictKey(p.district) === district);
+    const backfill = kept.filter((p) => placeDistrictKey(p.district) !== district);
+    prioritized = [...shuffle(exact), ...shuffle(backfill)];
   }
-
-  // Priority order: exact match > agnostic > other district
-  const prioritized = [
-    ...shuffle(exactMatch),
-    ...shuffle(agnostic),
-    ...shuffle(otherDistrict),
-  ];
 
   const activities = prioritized.filter(isActivity);
   const foods = prioritized.filter(isFood);
