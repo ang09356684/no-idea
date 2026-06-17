@@ -1,4 +1,5 @@
 import { readCombinedPlaces } from "@/lib/data";
+import { CITY_KEYWORDS } from "@/lib/districts";
 import type { Place, Itinerary, GenerateRequest } from "@/types";
 import { randomUUID } from "crypto";
 
@@ -103,12 +104,6 @@ export function generateItineraries(
   const isSpecific = district !== "不限" && !isCityWide; // e.g. "大安區"
 
   const cityName = isCityWide ? district.replace("-all", "") : "";
-
-  const CITY_KEYWORDS: Record<string, string[]> = {
-    台北: ["臺北", "台北"],
-    桃園: ["桃園"],
-    宜蘭: ["宜蘭"],
-  };
 
   function matchesCity(place: Place, city: string): boolean {
     const keywords = CITY_KEYWORDS[city] ?? [city];

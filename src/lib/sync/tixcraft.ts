@@ -121,7 +121,13 @@ export function tixcraftPlaces(): Place[] {
       type: "concert" as const,
       source: "tixcraft",
       category: "indoor" as const,
-      address: item.venue || "台北市",
+      // 此來源已過濾為台北場館，但部分場館名（如「大巨蛋」）不含縣市字樣，
+      // 補上「臺北市」前綴，讓 combine 的 normalizeDistrict 能正確產生複合鍵
+      address: item.venue
+        ? /臺北|台北/.test(item.venue)
+          ? item.venue
+          : `臺北市${item.venue}`
+        : "臺北市",
       district: venueToDistrict(item.venue),
       imageUrl: item.imageUrl,
       sourceUrl: item.link,

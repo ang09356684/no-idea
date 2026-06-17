@@ -4,8 +4,16 @@ import { useSearchParams } from "next/navigation";
 import { useState, useEffect, useCallback, Suspense } from "react";
 import ItineraryCard from "@/components/ItineraryCard";
 import { useFavorites } from "@/lib/favorites";
+import { districtDisplay } from "@/lib/districts";
 import type { Itinerary } from "@/types";
 import Link from "next/link";
+
+// 篩選標籤顯示：不限 / 城市(city-wide) / 行政區（複合鍵去縣市前綴）
+function districtLabel(district: string): string {
+  if (district === "不限") return "不限";
+  if (district.endsWith("-all")) return district.replace("-all", "");
+  return districtDisplay(district);
+}
 
 function ResultContent() {
   const searchParams = useSearchParams();
@@ -69,15 +77,7 @@ function ResultContent() {
 
         <div className="mb-6 flex flex-wrap gap-2 text-sm text-gray-500 dark:text-gray-400">
           <span className="rounded-full bg-gray-100 dark:bg-gray-800 px-3 py-1">
-            {district === "不限"
-              ? "不限"
-              : district === "台北-all"
-                ? "台北"
-                : district === "桃園-all"
-                  ? "桃園"
-                  : district === "宜蘭-all"
-                    ? "宜蘭"
-                    : district}
+            {districtLabel(district)}
           </span>
           {types.map((t) => (
             <span key={t} className="rounded-full bg-gray-100 dark:bg-gray-800 px-3 py-1">

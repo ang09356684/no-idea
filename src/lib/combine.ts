@@ -10,9 +10,11 @@ import { taoyuanPlaces } from "@/lib/sync/taoyuan";
 import { tixcraftPlaces } from "@/lib/sync/tixcraft";
 import { eraTicketPlaces } from "@/lib/sync/era-ticket";
 import { khamPlaces } from "@/lib/sync/kham";
+import { mnaPlaces } from "@/lib/sync/mna";
 import { opentixPlaces } from "@/lib/sync/opentix";
 import { kktixPlaces } from "@/lib/sync/kktix";
 import { readRawJson } from "@/lib/data";
+import { normalizeDistrict } from "@/lib/districts";
 import type { Place } from "@/types";
 
 /**
@@ -45,25 +47,32 @@ export function combineAllPlaces(): Place[] {
     ...tixcraftPlaces(),
     ...eraTicketPlaces(),
     ...khamPlaces(),
+    ...mnaPlaces(),
     ...opentixPlaces(),
     ...kktixPlaces(),
   ];
 
   const movies = atmoviesPlaces();
 
-  const restaurants: Place[] = [
-    ...readRawJson<Place[]>("restaurants-curated.json"),
-    ...readRawJson<Place[]>("restaurants-taoyuan-curated.json"),
-  ];
-
   const attractions = [
     ...taipeiAttractionPlaces(),
     ...taoyuanPlaces(),
   ];
 
+  // 餐廳/美食資料只來自使用者自己加入的口袋名單，不從 sync 來源帶入
   const customPlaces = readRawJson<Place[]>("pocket-list.json");
 
-  const all = [...exhibitions, ...performances, ...movies, ...restaurants, ...attractions, ...customPlaces];
+  const all = [
+    ...exhibitions,
+    ...performances,
+    ...movies,
+    ...attractions,
+    ...customPlaces,
+  ].map((p) => ({
+    // 跨縣市同名行政區對策 A：統一在此把各來源的 district 正規化成「縣市+區」複合鍵
+    ...p,
+    district: normalizeDistrict(p.address, p.district),
+  }));
 
   // Deduplicate by normalized name
   const seen = new Set<string>();
