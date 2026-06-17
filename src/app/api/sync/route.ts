@@ -9,6 +9,7 @@ import { syncTaoyuan } from "@/lib/sync/taoyuan";
 import { syncTixcraft } from "@/lib/sync/tixcraft";
 import { syncEraTicket } from "@/lib/sync/era-ticket";
 import { syncKham } from "@/lib/sync/kham";
+import { syncMna } from "@/lib/sync/mna";
 import { syncOpentix } from "@/lib/sync/opentix";
 import { syncKktix } from "@/lib/sync/kktix";
 import { combineAllPlaces } from "@/lib/combine";
@@ -28,6 +29,7 @@ const SOURCE_LABELS: Record<string, string> = {
   tixcraft: "拓元售票",
   "era-ticket": "年代售票",
   kham: "寬宏售票",
+  mna: "MNA年代",
   opentix: "兩廳院",
   kktix: "KKTIX",
 };
@@ -47,6 +49,7 @@ const FAST_SOURCES: { name: string; fn: () => Promise<SyncResult> }[] = [
   { name: "tixcraft", fn: syncTixcraft },
   { name: "era-ticket", fn: syncEraTicket },
   { name: "kham", fn: syncKham },
+  { name: "mna", fn: syncMna },
 ];
 
 // Slow sources (Playwright-based, run sequentially to avoid resource conflicts)
