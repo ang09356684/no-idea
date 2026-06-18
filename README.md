@@ -7,7 +7,7 @@
 ## 啟動
 
 ```bash
-cd where-to-date
+cd noidea
 npm install   # 第一次使用需安裝依賴
 npm run dev
 ```
@@ -28,10 +28,9 @@ npm run dev
 
 1. 啟動 server（`npm run dev`）
 2. 打開 http://localhost:3000
-3. 點底部「同步最新展覽 / 電影資料」按鈕 → 等待同步完成
-4. 選擇地點 / 類型 / 場景 → 點「幫我安排！」
+3. 選擇地點 / 類型 / 場景 → 點「幫我安排！」
 
-> 同步只需要做一次，資料會存在 `data/` 資料夾。之後想更新再點同步即可。
+> 共用活動資料（展覽 / 演出 / 電影 / 景點）已隨專案出貨，開箱即用。要抓最新資料見下方「更新資料（同步）」。
 
 ---
 
@@ -42,15 +41,15 @@ npm run dev
 | 幫我安排 | 依條件隨機產生 2 組行程，每組 3 個地點 |
 | 🎲 再給我一組 | 排除已顯示的地點，換一組新的 |
 | 瀏覽展覽 | 查看所有展覽列表，可按來源篩選 |
-| 瀏覽演唱會 | 查看演唱會列表（拓元/年代/寬宏/KKTIX 等） |
+| 瀏覽演唱會 | 查看演唱會列表（拓元 / 年代 / 寬宏 / MNA / KKTIX 等） |
 | 瀏覽音樂會 | 查看古典音樂、音樂會列表 |
 | 瀏覽戲劇 | 查看戲劇表演列表 |
 | 瀏覽電影 | 查看所有上映中電影列表 |
 | 瀏覽景點 | 查看台北 / 桃園景點列表 |
-| 瀏覽美食 | 查看精選餐廳、咖啡廳列表 |
-| 自訂地點 | 手動新增地點（名稱 + 地址），整合到行程產生 |
+| 瀏覽美食 | 查看美食列表（資料來自你的口袋名單）|
 | 我的最愛 | 收藏喜歡的地點，可從最愛直接安排行程 |
-| 同步資料 | 從外部網站抓取最新展覽 / 電影 / 演出 / 景點資料 |
+| 口袋名單 | 自己收集的地點（含美食 / 自訂地點），存雲端 Firestore、跨裝置同步 |
+| 更新資料 | 本機 `npm run sync`，或每週由 GitHub Action 自動同步（見下） |
 
 ## 篩選條件
 
@@ -59,6 +58,34 @@ npm run dev
 | 地點 | 不限 / 台北（可展開 12 區）/ 桃園（可展開 6 區）|
 | 類型 | 不限 / 展覽 / 演唱會 / 音樂會 / 戲劇 / 電影 / 景點 / 美食 |
 | 場景 | 都可以 / 室內 / 室外 |
+
+---
+
+## 更新資料（同步）
+
+共用活動 catalog（`data/combined/*.json`）是隨部署出貨的**靜態檔**。更新方式兩種：
+
+### 本機手動
+
+```bash
+npm run sync   # 抓最新 16 個來源 → 重新產生 data/combined/*.json
+```
+
+要讓**線上**也跟著更新，把產生的資料 commit 後推上去（push 到 `master` 會觸發 Vercel 自動部署）：
+
+```bash
+git add data/combined
+git commit -m "chore(data): sync"
+git push
+```
+
+> `npm run sync` 不需開 server / 瀏覽器；本機與 CI 跑的是同一支腳本 `scripts/sync.mts`。
+
+### 線上自動（每週）
+
+GitHub Action（`.github/workflows/weekly-sync.yml`）每週一 00:00（台灣時間）自動跑一次 sync，**若資料有變動**就 commit 回 repo 並觸發 Vercel 重新部署。也可到 GitHub → Actions → `weekly-sync` → Run workflow 手動觸發。**平時無需手動維護。**
+
+> 為什麼要 commit JSON？因為線上只服務「最後一次部署 commit 進去的那份資料」——sync 產生的 `data/combined/*.json` 不 commit 就到不了線上。
 
 ---
 
@@ -83,6 +110,7 @@ npm run dev
 | 拓元售票 | tixcraft.com |
 | 年代售票 | ticket.com.tw |
 | 寬宏售票 | kham.com.tw |
+| MNA 售票 | ticket.mna.com.tw |
 | 兩廳院 OPENTIX | opentix.life |
 | KKTIX | kktix.com |
 
@@ -99,22 +127,11 @@ npm run dev
 | 台北景點 | 手動精選 25 個（步道、公園、博物館等）|
 | 桃園觀光 API | travel.tycg.gov.tw（自動同步）|
 
-### 美食（手動精選）
+### 美食 / 自訂地點（使用者口袋名單，非同步來源）
 
-| 檔案 | 說明 |
-|------|------|
-| `data/raw/restaurants-curated.json` | 台北 50 筆 |
-| `data/raw/restaurants-taoyuan-curated.json` | 桃園 15 筆 |
+美食與使用者自訂地點**不再是共用同步來源**，改存各使用者的 **Cloud Firestore**（`users/{uid}`，見 `DEPLOYMENT.md`），於產生行程時由前端帶入合併。因此 `data/combined/restaurants.json` 恆為空陣列 `[]`。
 
-> 要新增美食？直接編輯上面兩個 JSON 檔案，或使用首頁「自訂地點」功能。
-
-### 自訂地點（手動新增）
-
-| 檔案 | 說明 |
-|------|------|
-| `data/raw/custom-places.json` | 使用者透過頁面新增的地點 |
-
-> 透過首頁「📍 自訂地點」→「新增地點」，選擇分類並輸入名稱與地址即可。
+> 新增方式：首頁「🔖 口袋名單」→ 新增地點，選分類（含「美食」）並填名稱 / 地址。
 
 ---
 
@@ -122,39 +139,43 @@ npm run dev
 
 ```
 data/
-├── raw/                                 ← 各來源原始資料（同步按鈕會更新這裡）
+├── raw/                                 ← 各來源原始資料（npm run sync 會更新；不進 git）
 │   ├── exhibitions-culture.json
 │   ├── exhibitions-huashan.json
 │   ├── exhibitions-songshan.json
 │   ├── exhibitions-twtc.json
 │   ├── exhibitions-ntsec.json
+│   ├── performances-music.json          ← 文化部音樂類
+│   ├── performances-theater.json        ← 文化部戲劇類
 │   ├── performances-tixcraft.json
-│   ├── performances-era-ticket.json
+│   ├── performances-era.json
 │   ├── performances-kham.json
+│   ├── performances-mna.json
 │   ├── performances-opentix.json
 │   ├── performances-kktix.json
 │   ├── movies-atmovies.json
 │   ├── attractions-taipei.json
-│   ├── attractions-taoyuan.json
-│   ├── restaurants-curated.json         ← 手動編輯
-│   ├── restaurants-taoyuan-curated.json ← 手動編輯
-│   └── custom-places.json              ← 自訂地點（頁面新增）
-└── combined/                            ← 程式自動彙整（不需手動修改）
+│   └── attractions-taoyuan.json
+└── combined/                            ← 程式自動彙整（隨部署出貨、進 git；勿手動改）
     ├── all-places.json
     ├── exhibitions.json
     ├── concerts.json
     ├── music.json
     ├── theater.json
     ├── movies.json
-    ├── restaurants.json
+    ├── restaurants.json                 ← 恆為 []（美食改存各使用者 Firestore）
     └── attractions.json
 ```
+
+> 口袋名單 / 最愛已改存 Cloud Firestore（見 `DEPLOYMENT.md`），不再是 `data/` 下的檔案。
 
 ---
 
 ## 技術架構
 
 - **Framework**: Next.js 16 + TypeScript + Tailwind CSS v4
-- **Storage**: JSON 檔案（無資料庫），收藏功能使用 localStorage
-- **資料抓取**: 文化部 JSON API + HTML scraping（華山/松菸/世貿/科教館/開眼電影/售票網站）+ 桃園觀光 XML API
-- **同步進度**: Server-Sent Events (SSE) 即時串流進度
+- **部署**: Vercel（前端 + API routes）；Google 登入 + Cloud Firestore（見 `DEPLOYMENT.md`）
+- **共用 catalog**: JSON 靜態檔（無資料庫），隨 build 出貨
+- **使用者資料**: 口袋名單 / 最愛存 Firestore；UI 偏好（配色 / 深淺色）存 localStorage
+- **資料抓取**: 文化部 JSON API + HTML scraping（華山 / 松菸 / 世貿 / 科教館 / 開眼 / 各售票網站）+ 桃園觀光 API；kktix 用 Playwright
+- **自動更新**: GitHub Actions 每週排程跑 `npm run sync` → commit → 觸發 Vercel 部署

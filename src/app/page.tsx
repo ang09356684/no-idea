@@ -1,6 +1,5 @@
 import Header from "@/components/Header";
 import InputForm from "@/components/InputForm";
-import SyncButton from "@/components/SyncButton";
 import Link from "next/link";
 
 const BROWSE_LINKS = [
@@ -54,8 +53,6 @@ export default function Home() {
           </Link>
         ))}
       </div>
-
-      <SyncButton />
     </main>
   );
 }
