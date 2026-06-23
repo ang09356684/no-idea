@@ -1,11 +1,6 @@
 import { writeRawJson, readRawJson } from "@/lib/data";
 import type { Place, SyncResult } from "@/types";
 
-// Use culture.tw for Taipei outdoor activities/attractions (category=15 = 其他)
-// and filter for outdoor-related keywords
-const CULTURE_URL =
-  "https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=15";
-
 // Curated list of popular Taipei outdoor attractions
 const CURATED_ATTRACTIONS: Place[] = [
   { id: "tpa-001", name: "象山步道", type: "attraction", source: "taipei-attraction", category: "outdoor", address: "臺北市信義區信義路五段150巷", district: "信義區", goodFor: "both" },

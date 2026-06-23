@@ -7,8 +7,6 @@ export default function ExhibitionsPage() {
       apiType="exhibition"
       icon="🎨"
       iconBg="bg-purple-100"
-      badgeBg="bg-purple-50"
-      badgeText="text-purple-600"
       sourceLabels={{
         culture: "文化部",
         huashan: "華山1914",

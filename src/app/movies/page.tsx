@@ -7,8 +7,6 @@ export default function MoviesPage() {
       apiType="movie"
       icon="🎬"
       iconBg="bg-blue-100"
-      badgeBg="bg-blue-50"
-      badgeText="text-blue-600"
       countLabel="部"
     />
   );

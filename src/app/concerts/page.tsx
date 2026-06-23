@@ -7,8 +7,6 @@ export default function ConcertsPage() {
       apiType="concert"
       icon="🎤"
       iconBg="bg-rose-100"
-      badgeBg="bg-rose-50"
-      badgeText="text-rose-600"
       sourceLabels={{
         "culture-music": "文化部",
         tixcraft: "拓元售票",
