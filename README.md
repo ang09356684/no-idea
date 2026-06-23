@@ -14,6 +14,10 @@ npm run dev
 
 啟動後打開瀏覽器：http://localhost:3000
 
+> **不需要設定 Firebase 也能跑。** 直接 `npm install && npm run dev` 就能瀏覽、搜尋、產生行程。
+> 若沒有填 `.env.local` 的 Firebase 設定：「Google 登入」會停用，「口袋名單 / 我的最愛」改存**這台瀏覽器的 localStorage**（僅本機、不跨裝置、不連雲端），其餘功能不受影響。
+> 要啟用跨裝置雲端同步，把 `.env.example` 複製成 `.env.local` 並填入自己的 Firebase 專案設定（見 `DEPLOYMENT.md`）。
+
 ## 關閉
 
 在執行 `npm run dev` 的終端按 `Ctrl + C`。
@@ -176,6 +180,6 @@ data/
 - **Framework**: Next.js 16 + TypeScript + Tailwind CSS v4
 - **部署**: Vercel（前端 + API routes）；Google 登入 + Cloud Firestore（見 `DEPLOYMENT.md`）
 - **共用 catalog**: JSON 靜態檔（無資料庫），隨 build 出貨
-- **使用者資料**: 口袋名單 / 最愛存 Firestore；UI 偏好（配色 / 深淺色）存 localStorage
+- **使用者資料**: 口袋名單 / 最愛存 Firestore（未設定 Firebase 時退存瀏覽器 localStorage，僅本機）；UI 偏好（配色 / 深淺色）存 localStorage
 - **資料抓取**: 文化部 JSON API + HTML scraping（華山 / 松菸 / 世貿 / 科教館 / 開眼 / 各售票網站）+ 桃園觀光 API；kktix 用 Playwright
 - **自動更新**: GitHub Actions 每週排程跑 `npm run sync` → commit → 觸發 Vercel 部署
