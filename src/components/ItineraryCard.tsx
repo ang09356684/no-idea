@@ -29,7 +29,7 @@ export default function ItineraryCard({
               <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-gray-900 dark:bg-gray-100 text-sm font-bold text-white dark:text-gray-900">
                 {i + 1}
               </div>
-              <div className="flex-1">
+              <div className="flex-1 min-w-0">
                 <PlaceItem
                   place={place}
                   isFavorite={isFavorite?.(place.id)}
