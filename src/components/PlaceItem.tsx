@@ -44,7 +44,7 @@ export default function PlaceItem({
           </span>
           <span className="text-xs text-gray-400">{place.source}</span>
         </div>
-        <h3 className="text-base font-semibold text-gray-900 dark:text-gray-50 truncate">
+        <h3 className="text-base font-semibold text-gray-900 dark:text-gray-50 line-clamp-2">
           {place.sourceUrl ? (
             <a
               href={place.sourceUrl}

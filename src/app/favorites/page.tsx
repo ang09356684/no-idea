@@ -59,6 +59,8 @@ export default function FavoritesPage() {
   }, [favorites]);
 
   useEffect(() => {
+    // checkExpired() 在 await fetch 之後才 setState（非同步），本來就安全；規則為靜態誤報。
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     checkExpired();
   }, [checkExpired]);
 

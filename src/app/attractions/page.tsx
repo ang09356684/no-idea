@@ -7,8 +7,6 @@ export default function AttractionsPage() {
       apiType="attraction"
       icon="🏞️"
       iconBg="bg-green-100"
-      badgeBg="bg-green-50"
-      badgeText="text-green-600"
       sourceLabels={{
         "taipei-attraction": "台北景點",
         taoyuan: "桃園觀光",

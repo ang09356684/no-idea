@@ -7,8 +7,6 @@ export default function MusicPage() {
       apiType="music"
       icon="🎼"
       iconBg="bg-indigo-100"
-      badgeBg="bg-indigo-50"
-      badgeText="text-indigo-600"
       sourceLabels={{
         "culture-music": "文化部",
       }}

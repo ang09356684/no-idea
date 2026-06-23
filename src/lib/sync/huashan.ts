@@ -26,15 +26,8 @@ export async function syncHuashan(): Promise<SyncResult> {
     const items: HuashanRaw[] = [];
     // Parse exhibition cards from HTML
     // Pattern: title in heading tags, date ranges, links
-    const cardRegex =
-      /<a[^>]*href="(\/w\/huashan1914\/exhibition_[^"]*)"[^>]*>[\s\S]*?<\/a>/gi;
-    const titleRegex = /<(?:h[2-4]|div|span)[^>]*class="[^"]*title[^"]*"[^>]*>([\s\S]*?)<\/(?:h[2-4]|div|span)>/i;
     const dateRegex = /(\d{4}\.\d{2}\.\d{2}\s*-\s*\d{4}\.\d{2}\.\d{2})/;
     const imgRegex = /<img[^>]*src="([^"]*)"[^>]*>/i;
-
-    // Simpler approach: find all exhibition links and nearby text
-    const blockRegex =
-      /class="[^"]*exhibition[^"]*"[\s\S]*?<a[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi;
     let match;
 
     // Fallback: extract all links to exhibition detail pages

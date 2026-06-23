@@ -5,7 +5,7 @@ import { useAuth } from "@/components/AuthProvider";
 
 /**
  * 把需要登入才能使用的內容包起來：
- * - 未設定 Firebase → 提示需設定
+ * - 未設定 Firebase → 直接放行（資料走 localStorage、不需登入，見 usePocketList / favorites）
  * - auth 載入中 → 顯示載入
  * - 未登入 → 顯示 Google 登入提示
  * - 已登入 → 顯示 children
@@ -20,14 +20,9 @@ export default function SignInGate({
   const { user, loading, configured, signInWithGoogle } = useAuth();
   const [busy, setBusy] = useState(false);
 
+  // 未設定 Firebase：不需登入，內容改由 localStorage 支撐（本地單機模式），直接放行。
   if (!configured) {
-    return (
-      <div className="py-16 text-center text-gray-400">
-        <p className="mb-4 text-4xl">⚙️</p>
-        <p className="text-lg">尚未設定 Firebase</p>
-        <p className="mt-2 text-sm">填入 .env.local 的 Firebase 設定後即可登入使用</p>
-      </div>
-    );
+    return <>{children}</>;
   }
 
   if (loading) {

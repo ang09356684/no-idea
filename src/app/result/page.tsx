@@ -1,7 +1,7 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import { useState, useEffect, useCallback, Suspense } from "react";
+import { useState, useEffect, useCallback, useMemo, Suspense } from "react";
 import ItineraryCard from "@/components/ItineraryCard";
 import { useFavorites } from "@/lib/favorites";
 import { usePocketList } from "@/lib/usePocketList";
@@ -27,7 +27,9 @@ function ResultContent() {
 
   const district = searchParams.get("district") ?? "不限";
   const typeParam = searchParams.get("type") ?? "all";
-  const types = typeParam.split(",").filter(Boolean);
+  // useMemo 穩定參考：types 由 typeParam 衍生，避免每次 render 產生新陣列
+  // 而讓下方 useCallback / effect 反覆重建（無限 fetch）。
+  const types = useMemo(() => typeParam.split(",").filter(Boolean), [typeParam]);
   const setting = searchParams.get("setting") ?? "both";
 
   const fetchItineraries = useCallback(
@@ -53,7 +55,7 @@ function ResultContent() {
         setLoading(false);
       }
     },
-    [district, typeParam, setting, pocketList]
+    [district, types, setting, pocketList]
   );
 
   useEffect(() => {

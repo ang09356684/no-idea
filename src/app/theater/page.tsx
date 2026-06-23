@@ -7,8 +7,6 @@ export default function TheaterPage() {
       apiType="theater"
       icon="🎭"
       iconBg="bg-fuchsia-100"
-      badgeBg="bg-fuchsia-50"
-      badgeText="text-fuchsia-600"
       sourceLabels={{
         "culture-theater": "文化部",
       }}

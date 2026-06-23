@@ -11,8 +11,6 @@ interface BrowseListProps {
   apiType: string;
   icon: string;
   iconBg: string;
-  badgeBg: string;
-  badgeText: string;
   sourceLabels?: Record<string, string>;
   countLabel?: string;
 }
@@ -22,8 +20,6 @@ export default function BrowseList({
   apiType,
   icon,
   iconBg,
-  badgeBg,
-  badgeText,
   sourceLabels = {},
   countLabel = "筆",
 }: BrowseListProps) {

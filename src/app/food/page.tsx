@@ -7,8 +7,6 @@ export default function RestaurantsPage() {
       apiType="food"
       icon="🍽️"
       iconBg="bg-orange-100"
-      badgeBg="bg-orange-50"
-      badgeText="text-orange-600"
       sourceLabels={{
         curated: "精選",
         "taoyuan-curated": "桃園精選",
