@@ -1,7 +1,7 @@
 import { writeRawJson, readRawJson } from "@/lib/data";
 import type { Place, SyncResult } from "@/types";
 
-const URL = "https://www.kham.com.tw/application/UTK01/UTK0101_.aspx?Type=1";
+const LIST_URL = "https://www.kham.com.tw/application/UTK01/UTK0101_.aspx?Type=1";
 
 interface KhamRaw {
   title: string;
@@ -11,7 +11,7 @@ interface KhamRaw {
 // Fetch Kham ticketing page, parse event names and PRODUCT_ID links
 export async function syncKham(): Promise<SyncResult> {
   try {
-    const res = await fetch(URL, { signal: AbortSignal.timeout(10000) });
+    const res = await fetch(LIST_URL, { signal: AbortSignal.timeout(10000) });
     const html = await res.text();
 
     const items: KhamRaw[] = [];
@@ -34,9 +34,9 @@ export async function syncKham(): Promise<SyncResult> {
 
       items.push({
         title,
-        link: link.startsWith("http")
-          ? link
-          : `https://www.kham.com.tw${link}`,
+        // href 多為相對路徑（如 ../UTK02/...）；用 new URL 以列表頁為基底正確解析，
+        // 避免字串相接產生 https://www.kham.com.tw../ 這種壞掉、會 404 的 URL。
+        link: new URL(link, LIST_URL).href,
       });
     }
 
