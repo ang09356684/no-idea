@@ -315,55 +315,105 @@
     "goodFor": "both"
   },
   {
-    "id": "era-2",
-    "name": "木與銅的對話-林子葇與黃芝庭聯合音樂會",
+    "id": "culture-music-6a5125ec26b32427d0604175",
+    "name": "Opus音樂節《開幕之夜：林易與朋友們》",
+    "type": "concert",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區中山南路21-1號，信義路側",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://www.opentix.life/program/2070047377542205440",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-04",
+    "goodFor": "both"
+  },
+  {
+    "id": "era-0",
+    "name": "翁倩玉 陽光般的60週年演唱會-時間之歌",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026063009301490390718_0519_450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P15ZKAE5",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607080917358268450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19E5BI0",
+    "goodFor": "both"
+  },
+  {
+    "id": "era-1",
+    "name": "Jason Mraz ASIA TOUR 2026 IN TAIPEI",
+    "type": "concert",
+    "source": "era-ticket",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607080919354764450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AT93WA",
+    "goodFor": "both"
+  },
+  {
+    "id": "era-2",
+    "name": "MISIA星空現場XIII GRAND HORIZON 台北公演",
+    "type": "concert",
+    "source": "era-ticket",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607080922313037450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P17C44OR",
     "goodFor": "both"
   },
   {
     "id": "era-3",
-    "name": "《旅店迴旋曲》-清水劇團2026年度公演",
+    "name": "李斯特．救贖之旅",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202606300932336400P1C4LT81.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C4LT81",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026070809245167890802_450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19S853P",
     "goodFor": "both"
   },
   {
     "id": "era-4",
+    "name": "雄頌管弦樂團音樂會-愛與命運-柴可夫斯基之樂",
+    "type": "concert",
+    "source": "era-ticket",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026070809261105230816_450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19CDUHI",
+    "goodFor": "both"
+  },
+  {
+    "id": "era-5",
     "name": "琴弦上的魔法:松田理奈與百年名琴",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202606300938518086450.jpg",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607080927558731450.jpg",
     "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B9VWOP",
     "goodFor": "both"
   },
   {
-    "id": "era-5",
-    "name": "「2026年國際沈文程日-小琉球情歌演唱會」",
+    "id": "kham-0",
+    "name": "LEE SUNG KYOUNG 2026 FAN SHOW IN TAIPEI〈咚咚 閃亮們〉",
     "type": "concert",
-    "source": "era-ticket",
+    "source": "kham",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202606300940216512450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P0WAULDW",
-    "goodFor": "both"
+    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1COQ5L9",
+    "goodFor": "date"
   },
   {
-    "id": "kham-0",
+    "id": "kham-1",
     "name": "2026 HYERI ASIA TOUR FANMEETING〈HYERIDE〉IN TAIPEI",
     "type": "concert",
     "source": "kham",
@@ -374,7 +424,7 @@
     "goodFor": "date"
   },
   {
-    "id": "kham-1",
+    "id": "kham-2",
     "name": "2026 KPOP PRIME",
     "type": "concert",
     "source": "kham",
@@ -385,7 +435,7 @@
     "goodFor": "date"
   },
   {
-    "id": "kham-2",
+    "id": "kham-3",
     "name": "李國修紀念作品《半里長城》笑噴版 2026台北加演場",
     "type": "concert",
     "source": "kham",
@@ -396,7 +446,7 @@
     "goodFor": "date"
   },
   {
-    "id": "kham-3",
+    "id": "kham-4",
     "name": "2026 游鴻明〈敵不過想念〉演唱會 高雄站",
     "type": "concert",
     "source": "kham",
@@ -407,25 +457,14 @@
     "goodFor": "date"
   },
   {
-    "id": "kham-4",
-    "name": "【門票】WILD WILD 2026 1ST FAN LIVE in Taipei : AFTER HOURS",
-    "type": "concert",
-    "source": "kham",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19Y9GK6",
-    "goodFor": "date"
-  },
-  {
     "id": "kham-5",
-    "name": "VOICE UP presents Little Glee Monster Taipei Special Live 2026",
+    "name": "蕭煌奇2026〈BRAVO〉演唱會 台北小巨蛋",
     "type": "concert",
     "source": "kham",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19ZFWBB",
+    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BG3E05",
     "goodFor": "date"
   },
   {
@@ -434,14 +473,14 @@
     "type": "concert",
     "source": "mna",
     "category": "indoor",
-    "address": "臺北國家戲劇院",
-    "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202606260502445863&#x81FA;&#x5317;640x480&#x66F4;.jpg",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AH1KJY",
+    "address": "臺中國家歌劇院",
+    "district": "臺中市西屯區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202606260506335441&#x81FA;&#x4E2D;640x480&#x66F4;.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AH1R17",
     "goodFor": "both"
   },
   {
-    "id": "mna-2",
+    "id": "mna-1",
     "name": "葛萊美爵士歌后 迪．迪．布里姬沃特 與 NYO Jazz",
     "type": "concert",
     "source": "mna",

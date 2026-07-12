@@ -117,19 +117,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-6a069cc4647a40ec65297a55",
-    "name": "楊芝涵 創作個展【環繞：未定的所在】",
-    "type": "exhibition",
-    "source": "culture",
-    "category": "indoor",
-    "address": "臺北市南京東路二段1號3F",
-    "district": "其他",
-    "imageUrl": "https://cloud.culture.twhttps://cloud.culture.tw/e_new_upload/signinImage/2026-05-15/826830d4-b46f-4f65-baca-46d053569252/楊芝涵-文宣_正方形.jpg",
-    "startDate": "2026-06-11",
-    "endDate": "2026-07-12",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-6a07581026b3243414ccc932",
     "name": "波隆那世界插畫大獎展",
     "type": "exhibition",
@@ -228,19 +215,6 @@
     "price": "優惠參觀券+150;團體參觀券+320;普通參觀券+350;至善園+20"
   },
   {
-    "id": "culture-6a28640e26b3243414ccd043",
-    "name": "《凝視的瞬間》陳芷若個展 〈Suspended in a Gaze〉Chen Tzu-Jo  Solo Exhibition",
-    "type": "exhibition",
-    "source": "culture",
-    "category": "indoor",
-    "address": "臺北市松山區",
-    "district": "臺北市松山區",
-    "sourceUrl": "https://sissyleelee1.wixsite.com/agallery/%E5%89%AF%E6%9C%AC-%E5%B1%95%E8%A6%BD%E8%A8%8A%E6%81%AF-1/",
-    "startDate": "2026-05-22",
-    "endDate": "2026-07-11",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-6a28641026b3243414ccd045",
     "name": "【光影重構萬象】許坤成油畫暨大漆個展",
     "type": "exhibition",
@@ -264,19 +238,6 @@
     "sourceUrl": "https://www.artmuse.ntnu.edu.tw/index.php/2026symbioticsplendor/",
     "startDate": "2026-06-09",
     "endDate": "2026-09-20",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-6a28641f26b3243414ccd054",
-    "name": "彩虹的骨頭：許旆誠個展 Ashes of A Rainbow: HSU Pei-Cheng Solo Exhibition",
-    "type": "exhibition",
-    "source": "culture",
-    "category": "indoor",
-    "address": "臺北市松山區",
-    "district": "臺北市松山區",
-    "sourceUrl": "https://gallerydesol.com.tw/ashes-of-a-rainbow/",
-    "startDate": "2026-05-30",
-    "endDate": "2026-07-12",
     "goodFor": "both"
   },
   {
@@ -366,8 +327,8 @@
     "address": "臺北市中山區玉門路1號",
     "district": "臺北市中山區",
     "sourceUrl": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BLGYZT",
-    "startDate": "2026-07-11",
-    "endDate": "2026-07-12",
+    "startDate": "2026-08-23",
+    "endDate": "2026-08-23",
     "goodFor": "both",
     "price": "580"
   },
@@ -590,6 +551,21 @@
     "goodFor": "both"
   },
   {
+    "id": "culture-6a4bdfe326b32427d0604132",
+    "name": "「雲在兩千米」｜北師美術館",
+    "type": "exhibition",
+    "source": "culture",
+    "category": "indoor",
+    "address": "臺北市大安區和平東路二段134號",
+    "district": "臺北市大安區",
+    "lat": 25.0246244,
+    "lng": 121.5446374,
+    "sourceUrl": "https://www.opentix.life/program/2064614366007234561",
+    "startDate": "2026-07-25",
+    "endDate": "2026-10-11",
+    "goodFor": "both"
+  },
+  {
     "id": "huashan-0",
     "name": "展演活動",
     "type": "exhibition",
@@ -598,40 +574,29 @@
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
     "imageUrl": "https://media.huashan1914.com/WebUPD/huashan1914/Header/Logo.png",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26061814485965863",
-    "goodFor": "both"
-  },
-  {
-    "id": "huashan-1",
-    "name": "29放光 • 慈濟60 慈濟人文特展",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26061116493125023",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26042209463686805",
     "goodFor": "both"
   },
   {
     "id": "huashan-2",
-    "name": "期間限定店",
+    "name": "2026 電影短片人才培訓計劃｜公開講座&#215;學員成果特映會",
     "type": "exhibition",
     "source": "huashan",
     "category": "indoor",
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26061617103091620",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26070610132223281",
     "goodFor": "both"
   },
   {
     "id": "huashan-3",
-    "name": "2026電影人才培訓計畫",
+    "name": "《天官賜福》動畫 天地流光原畫紀念活動",
     "type": "exhibition",
     "source": "huashan",
     "category": "indoor",
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26042209463686805",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26062413384986627",
     "goodFor": "both"
   },
   {
@@ -646,18 +611,18 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-6",
-    "name": "《天官賜福》動畫 天地流光原畫紀念活動",
+    "id": "huashan-5",
+    "name": "期間限定店",
     "type": "exhibition",
     "source": "huashan",
     "category": "indoor",
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26062413384986627",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26061117195751744",
     "goodFor": "both"
   },
   {
-    "id": "huashan-7",
+    "id": "huashan-6",
     "name": "李亭香 X 未來市",
     "type": "exhibition",
     "source": "huashan",
@@ -668,7 +633,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-8",
+    "id": "huashan-7",
     "name": "兔子在做陶 X 未來市",
     "type": "exhibition",
     "source": "huashan",
@@ -679,7 +644,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-9",
+    "id": "huashan-8",
     "name": "星際大戰華山限定快閃店_Mission Cantina",
     "type": "exhibition",
     "source": "huashan",
@@ -690,7 +655,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-10",
+    "id": "huashan-9",
     "name": "《Not Alone - 與你相伴 印德拉•多迪個展》",
     "type": "exhibition",
     "source": "huashan",
@@ -698,6 +663,17 @@
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
     "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26061811380375174",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-11",
+    "name": "【華山文旅學】台灣水果王國的危機與出路",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26070816140465503",
     "goodFor": "both"
   },
   {
@@ -742,17 +718,6 @@
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
     "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26060620531407778",
-    "goodFor": "both"
-  },
-  {
-    "id": "huashan-17",
-    "name": "PEANUTS夏日海灘祭",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26061109500377541",
     "goodFor": "both"
   },
   {
@@ -897,20 +862,6 @@
   },
   {
     "id": "songshan-10",
-    "name": "阿朗基 35 週年紀念「我們愛台灣」快閃店",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1781235314_0f34b3f81d6f742742ba.jpg",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/d3cc0ab1-9909-4472-9a91-7fac11fb421f",
-    "startDate": "2026-06-26",
-    "endDate": "2026-07-07",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-11",
     "name": "pickles the frog 萌蛙匹克 台北松菸快閃店",
     "type": "exhibition",
     "source": "songshan",
@@ -924,7 +875,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-12",
+    "id": "songshan-11",
     "name": "十年的小星球 – 恩宇的創作宇宙繪畫展",
     "type": "exhibition",
     "source": "songshan",
@@ -938,7 +889,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-13",
+    "id": "songshan-12",
     "name": "伊藤潤二展「誘惑」",
     "type": "exhibition",
     "source": "songshan",
@@ -952,7 +903,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-15",
+    "id": "songshan-14",
     "name": "逐光夜航：空服員工會紀念特展",
     "type": "exhibition",
     "source": "songshan",
@@ -966,7 +917,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-16",
+    "id": "songshan-15",
     "name": "永續好日子 3.0",
     "type": "exhibition",
     "source": "songshan",
@@ -980,7 +931,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-17",
+    "id": "songshan-16",
     "name": "我適文創快閃-夏日降溫計畫",
     "type": "exhibition",
     "source": "songshan",
@@ -994,7 +945,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-18",
+    "id": "songshan-17",
     "name": "《我獨自升級》展 SOLO LEVELING EXHIBITION",
     "type": "exhibition",
     "source": "songshan",
@@ -1008,7 +959,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-19",
+    "id": "songshan-18",
     "name": "MAYDAYLAND STORE @ 松山文創園區",
     "type": "exhibition",
     "source": "songshan",
@@ -1022,7 +973,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-20",
+    "id": "songshan-19",
     "name": "小熊維尼—友你相繪 100 週年限定快閃店",
     "type": "exhibition",
     "source": "songshan",
@@ -1036,7 +987,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-21",
+    "id": "songshan-20",
     "name": "擁抱五月天時光迴廊主題展",
     "type": "exhibition",
     "source": "songshan",
@@ -1050,7 +1001,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-22",
+    "id": "songshan-21",
     "name": "《Spotlight ─ 波蘭兒童插畫的狂歡舞台》",
     "type": "exhibition",
     "source": "songshan",
@@ -1064,21 +1015,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-23",
-    "name": "好享市集｜椰林漫遊",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1782884737_1d0c18bfdbbfb9ee9ce4.jpg",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/e96f68a3-321d-4299-a097-4cc759768508",
-    "startDate": "2026-07-04",
-    "endDate": "2026-07-05",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-24",
+    "id": "songshan-22",
     "name": "100% 哆啦 A 夢櫻花節 in 台北",
     "type": "exhibition",
     "source": "songshan",
@@ -1092,21 +1029,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-25",
-    "name": "台北蚤之市 第三十二回  Taipei Flea Market 2026",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1782964647_5dc5d710d4e4cc82ecab.jpg",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/546b3c75-0441-41f0-aafe-60b60114d6ba",
-    "startDate": "2026-07-10",
-    "endDate": "2026-07-12",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-26",
+    "id": "songshan-23",
     "name": "地底有秘密 : 土壤及地下水特展與技術論壇",
     "type": "exhibition",
     "source": "songshan",
@@ -1120,54 +1043,18 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-27",
-    "name": "長榮小小航空出任務-親子闖關活動",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1783095759_e97639b72ece8df43bda.png",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/1416d39f-96ef-4991-8fda-bc19903b61df",
-    "startDate": "2026-07-04",
-    "endDate": "2026-07-05",
-    "goodFor": "both"
-  },
-  {
     "id": "twtc-0",
-    "name": "2026台灣國際創意文具展‧2026台北設計玩創意展",
-    "type": "exhibition",
-    "source": "twtc",
-    "category": "indoor",
-    "address": "臺北市信義區信義路五段5號",
-    "district": "臺北市信義區",
-    "sourceUrl": "http://www.top-link.com.tw",
-    "goodFor": "both"
-  },
-  {
-    "id": "twtc-1",
-    "name": "2026展昭台北寵物用品展-經典場",
+    "name": "2026台北烈酒暨白色酒展",
     "type": "exhibition",
     "source": "twtc",
     "category": "indoor",
     "address": "臺北市南港區經貿二路1號",
     "district": "臺北市南港區",
-    "sourceUrl": "http://www.aquapets.com.tw",
+    "sourceUrl": "http://www.chanchao.com.tw",
     "goodFor": "both"
   },
   {
-    "id": "twtc-2",
-    "name": "第27屆台北3C數位影音家電展",
-    "type": "exhibition",
-    "source": "twtc",
-    "category": "indoor",
-    "address": "臺北市信義區信義路五段5號",
-    "district": "臺北市信義區",
-    "sourceUrl": "http://www.top-link.com.tw",
-    "goodFor": "both"
-  },
-  {
-    "id": "twtc-3",
+    "id": "twtc-1",
     "name": "2026台北國際戶外休閒運動用品展",
     "type": "exhibition",
     "source": "twtc",
@@ -1178,14 +1065,36 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-4",
-    "name": "2026台北烈酒暨白色酒展",
+    "id": "twtc-2",
+    "name": "2026台灣國際創意文具展‧2026台北設計玩創意展",
+    "type": "exhibition",
+    "source": "twtc",
+    "category": "indoor",
+    "address": "臺北市信義區信義路五段5號",
+    "district": "臺北市信義區",
+    "sourceUrl": "http://www.top-link.com.tw",
+    "goodFor": "both"
+  },
+  {
+    "id": "twtc-3",
+    "name": "2026展昭台北寵物用品展-經典場",
     "type": "exhibition",
     "source": "twtc",
     "category": "indoor",
     "address": "臺北市南港區經貿二路1號",
     "district": "臺北市南港區",
-    "sourceUrl": "http://www.chanchao.com.tw",
+    "sourceUrl": "http://www.aquapets.com.tw",
+    "goodFor": "both"
+  },
+  {
+    "id": "twtc-4",
+    "name": "第27屆台北3C數位影音家電展",
+    "type": "exhibition",
+    "source": "twtc",
+    "category": "indoor",
+    "address": "臺北市信義區信義路五段5號",
+    "district": "臺北市信義區",
+    "sourceUrl": "http://www.top-link.com.tw",
     "goodFor": "both"
   },
   {
@@ -1229,7 +1138,7 @@
     "category": "indoor",
     "address": "臺北市信義區信義路五段5號",
     "district": "臺北市信義區",
-    "sourceUrl": "http://furniture.paulchan.com.tw",
+    "sourceUrl": "https://furniture-expo.tw/2026tapei_furniture/",
     "goodFor": "both"
   },
   {
@@ -1619,42 +1528,18 @@
   },
   {
     "id": "ntsec-0",
-    "name": "UNIQUE 史萊姆夜光實驗室",
+    "name": "動物王國大探險展－比薩大學自然史博物館",
     "type": "exhibition",
     "source": "ntsec",
     "category": "indoor",
     "address": "臺北市士林區士商路189號",
     "district": "臺北市士林區",
-    "imageUrl": "https://www.ntsec.gov.tw/images/ArticleListPic/6051_2.png",
-    "sourceUrl": "https://www.ntsec.gov.tw/article/detail.aspx?a=6051",
+    "imageUrl": "https://www.ntsec.gov.tw/images/ArticleListPic/6078_2.jpg",
+    "sourceUrl": "https://www.ntsec.gov.tw/article/detail.aspx?a=6078",
     "goodFor": "both"
   },
   {
     "id": "ntsec-1",
-    "name": "《海洋未來式》The Ocean Will…巡迴特展",
-    "type": "exhibition",
-    "source": "ntsec",
-    "category": "indoor",
-    "address": "臺北市士林區士商路189號",
-    "district": "臺北市士林區",
-    "imageUrl": "https://www.ntsec.gov.tw/images/ArticleListPic/6038_2.jpg",
-    "sourceUrl": "https://www.ntsec.gov.tw/article/detail.aspx?a=6038",
-    "goodFor": "both"
-  },
-  {
-    "id": "ntsec-2",
-    "name": "侏羅紀恐龍奇遇記",
-    "type": "exhibition",
-    "source": "ntsec",
-    "category": "indoor",
-    "address": "臺北市士林區士商路189號",
-    "district": "臺北市士林區",
-    "imageUrl": "https://www.ntsec.gov.tw/images/ArticleListPic/6066_2.jpg",
-    "sourceUrl": "https://www.ntsec.gov.tw/article/detail.aspx?a=6066",
-    "goodFor": "both"
-  },
-  {
-    "id": "ntsec-3",
     "name": "anna & daniel 特展：A World of Wonder 奇想世界",
     "type": "exhibition",
     "source": "ntsec",
@@ -1666,7 +1551,43 @@
     "goodFor": "both"
   },
   {
+    "id": "ntsec-2",
+    "name": "UNIQUE 史萊姆夜光實驗室",
+    "type": "exhibition",
+    "source": "ntsec",
+    "category": "indoor",
+    "address": "臺北市士林區士商路189號",
+    "district": "臺北市士林區",
+    "imageUrl": "https://www.ntsec.gov.tw/images/ArticleListPic/6051_2.png",
+    "sourceUrl": "https://www.ntsec.gov.tw/article/detail.aspx?a=6051",
+    "goodFor": "both"
+  },
+  {
+    "id": "ntsec-3",
+    "name": "侏羅紀恐龍奇遇記",
+    "type": "exhibition",
+    "source": "ntsec",
+    "category": "indoor",
+    "address": "臺北市士林區士商路189號",
+    "district": "臺北市士林區",
+    "imageUrl": "https://www.ntsec.gov.tw/images/ArticleListPic/6066_2.jpg",
+    "sourceUrl": "https://www.ntsec.gov.tw/article/detail.aspx?a=6066",
+    "goodFor": "both"
+  },
+  {
     "id": "ntsec-4",
+    "name": "《海洋未來式》The Ocean Will…巡迴特展",
+    "type": "exhibition",
+    "source": "ntsec",
+    "category": "indoor",
+    "address": "臺北市士林區士商路189號",
+    "district": "臺北市士林區",
+    "imageUrl": "https://www.ntsec.gov.tw/images/ArticleListPic/6038_2.jpg",
+    "sourceUrl": "https://www.ntsec.gov.tw/article/detail.aspx?a=6038",
+    "goodFor": "both"
+  },
+  {
+    "id": "ntsec-5",
     "name": "《末日學校》特展",
     "type": "exhibition",
     "source": "ntsec",
@@ -1678,7 +1599,7 @@
     "goodFor": "both"
   },
   {
-    "id": "ntsec-5",
+    "id": "ntsec-6",
     "name": "設計我們的世界-科技性別化創新",
     "type": "exhibition",
     "source": "ntsec",
@@ -1690,7 +1611,7 @@
     "goodFor": "both"
   },
   {
-    "id": "ntsec-6",
+    "id": "ntsec-7",
     "name": "看見分子相遇的奇妙",
     "type": "exhibition",
     "source": "ntsec",
@@ -1702,7 +1623,7 @@
     "goodFor": "both"
   },
   {
-    "id": "ntsec-7",
+    "id": "ntsec-8",
     "name": "技職FUN星際介紹",
     "type": "exhibition",
     "source": "ntsec",
