@@ -60,21 +60,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-69fb748426b3243414ccc607",
-    "name": "《嶋聲》台大薰風國樂團 丙午年夏季巡迴公演",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區延平南路98號",
-    "district": "臺北市中正區",
-    "lat": 25.0425041,
-    "lng": 121.5103541,
-    "sourceUrl": "https://www.opentix.life/program/2048577525953077249",
-    "startDate": "2026-07-16",
-    "endDate": "2026-07-30",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6a15d2c326b3243414cccb6c",
     "name": "2026 Vocal Asia Festival 閉幕音樂會",
     "type": "concert",
@@ -230,12 +215,12 @@
     "type": "concert",
     "source": "culture-music",
     "category": "indoor",
-    "address": "嘉義市東區忠孝路275號",
-    "district": "其他",
-    "lat": 23.4879957,
-    "lng": 120.4524155,
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
     "sourceUrl": "https://www.opentix.life/program/2051593963001909249",
-    "startDate": "2026-07-16",
+    "startDate": "2026-07-21",
     "endDate": "2026-07-21",
     "goodFor": "both"
   },
@@ -331,42 +316,30 @@
   },
   {
     "id": "era-0",
-    "name": "翁倩玉 陽光般的60週年演唱會-時間之歌",
+    "name": "2026 洪榮宏 舊情綿綿演唱會",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607080917358268450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19E5BI0",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202605290238132365450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P15HP2TI",
     "goodFor": "both"
   },
   {
     "id": "era-1",
-    "name": "Jason Mraz ASIA TOUR 2026 IN TAIPEI",
+    "name": "「2026年國際沈文程日-小琉球情歌演唱會」",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607080919354764450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AT93WA",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202606300940216512450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P0WAULDW",
     "goodFor": "both"
   },
   {
     "id": "era-2",
-    "name": "MISIA星空現場XIII GRAND HORIZON 台北公演",
-    "type": "concert",
-    "source": "era-ticket",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607080922313037450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P17C44OR",
-    "goodFor": "both"
-  },
-  {
-    "id": "era-3",
     "name": "李斯特．救贖之旅",
     "type": "concert",
     "source": "era-ticket",
@@ -378,7 +351,7 @@
     "goodFor": "both"
   },
   {
-    "id": "era-4",
+    "id": "era-3",
     "name": "雄頌管弦樂團音樂會-愛與命運-柴可夫斯基之樂",
     "type": "concert",
     "source": "era-ticket",
@@ -390,14 +363,14 @@
     "goodFor": "both"
   },
   {
-    "id": "era-5",
+    "id": "era-4",
     "name": "琴弦上的魔法:松田理奈與百年名琴",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607080927558731450.jpg",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202606300938518086450.jpg",
     "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1B9VWOP",
     "goodFor": "both"
   },
@@ -489,6 +462,54 @@
     "district": "臺中市西屯區",
     "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202606180502275170.JPG",
     "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BCBHNO",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-2",
+    "name": "雙琴俠 世界巡演",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170446148755.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D3QYAN",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-4",
+    "name": "卡普松與傑洛米二重奏",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607160321027926.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CZJY88",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-5",
+    "name": "小提琴女神 瑪莉亞．杜尼亞絲 首度訪臺",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺中國家歌劇院",
+    "district": "臺中市西屯區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170702552001.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4T9",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-7",
+    "name": "富邦世紀音樂盛宴 小提琴女神 瑪莉亞．杜尼亞絲",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170703065086.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4TA",
     "goodFor": "both"
   }
 ]

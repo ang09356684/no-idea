@@ -25,7 +25,7 @@
     "lat": 25.0605877,
     "lng": 121.5232036,
     "sourceUrl": "https://www.opentix.life/program/1863403624657735681",
-    "startDate": "2026-07-15",
+    "startDate": "2026-07-22",
     "endDate": "2026-12-30",
     "goodFor": "both"
   },
@@ -79,12 +79,12 @@
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
-    "address": "高雄市鳳山區三多一路1號",
-    "district": "其他",
-    "lat": 22.6230179238508,
-    "lng": 120.342434118507,
+    "address": "臺中市西屯區惠來路二段101號",
+    "district": "臺中市西屯區",
+    "lat": 24.1626492,
+    "lng": 120.6403028,
     "sourceUrl": "https://www.opentix.life/program/2011615042313633793",
-    "startDate": "2026-07-18",
+    "startDate": "2026-08-14",
     "endDate": "2026-09-27",
     "goodFor": "both"
   },
@@ -99,7 +99,7 @@
     "lat": 25.0847069488325,
     "lng": 121.524399267913,
     "sourceUrl": "https://www.opentix.life/program/2014188763132530689",
-    "startDate": "2026-07-17",
+    "startDate": "2026-07-24",
     "endDate": "2026-07-26",
     "goodFor": "both"
   },
@@ -194,21 +194,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-theater-69cd4fb426b3242a48a9dfe0",
-    "name": "2026兒童戲曲藝術節：創造焦點《小丑八怪-蘭後呢？》",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市士林區文林路751號",
-    "district": "臺北市士林區",
-    "lat": 25.1022766,
-    "lng": 121.5197787,
-    "sourceUrl": "https://www.opentix.life/program/2028732112310956032",
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-theater-69cd4fb426b3242a48a9dfe3",
     "name": "2026兒童戲曲藝術節：昇平五洲園《阮是天頂上光的星》",
     "type": "theater",
@@ -294,23 +279,8 @@
     "lat": 25.0649291,
     "lng": 121.5441054,
     "sourceUrl": "https://www.opentix.life/program/2035978919460421633",
-    "startDate": "2026-07-15",
+    "startDate": "2026-08-26",
     "endDate": "2026-12-16",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-theater-69d538a526b3242a48a9e151",
-    "name": "【歌仔戲】正明龍歌劇團-經典再創《偷天換日之法外青天》青春承藝版",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市大同區迪化街一段21號9樓",
-    "district": "臺北市大同區",
-    "lat": 25.0552408,
-    "lng": 121.5103053,
-    "sourceUrl": "https://www.opentix.life/program/2035226415681060865",
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
     "goodFor": "both"
   },
   {
@@ -341,21 +311,6 @@
     "sourceUrl": "https://www.opentix.life/program/2035245605008674817",
     "startDate": "2026-08-29",
     "endDate": "2026-08-30",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-theater-69d7db9e26b3242a48a9e1cc",
-    "name": "【親子布袋戲】雷音劇坊《青盲龍佮青盲蛇》、《沉香救母》",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市大同區迪化街一段21號8樓",
-    "district": "臺北市大同區",
-    "lat": 25.0552408,
-    "lng": 121.5103053,
-    "sourceUrl": "https://www.opentix.life/program/2036006282886463489",
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
     "goodFor": "both"
   },
   {
@@ -569,21 +524,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-theater-69eba23826b3242a48a9e649",
-    "name": "2026臺北兒童藝術節：《飛吧！我的甲蟲朋友》",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市中正區羅斯福路四段92號10樓",
-    "district": "臺北市中正區",
-    "lat": 25.013614643862443,
-    "lng": 121.53490207369424,
-    "sourceUrl": "https://www.opentix.life/program/2043905180362145792",
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-19",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-theater-69eba23826b3242a48a9e64b",
     "name": "2026臺北兒童藝術節：《月亮找朋友》",
     "type": "theater",
@@ -669,7 +609,7 @@
     "lat": 25.084563707077805,
     "lng": 121.5235650057614,
     "sourceUrl": "https://www.opentix.life/program/2039524426554306560",
-    "startDate": "2026-07-18",
+    "startDate": "2026-07-25",
     "endDate": "2026-08-09",
     "goodFor": "both"
   },
@@ -1215,7 +1155,7 @@
   },
   {
     "id": "culture-theater-6a1dbbe026b3243414cccddd",
-    "name": "【2026 臺北藝穗節】凱莉！我在⋯⋯",
+    "name": "【2026臺北藝穗節】凱莉！我在⋯⋯",
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
@@ -1680,7 +1620,7 @@
   },
   {
     "id": "culture-theater-6a2c3c0b26b3243414ccd22b",
-    "name": "【2026 臺北藝穗節】《水邊尋夢人》讀演版",
+    "name": "【2026臺北藝穗節】《水邊尋夢人》讀演版",
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
@@ -1710,7 +1650,7 @@
   },
   {
     "id": "culture-theater-6a2edee426b3243414ccd2be",
-    "name": "【2026 臺北藝穗節】北投散步 —— 微溫的星光散策",
+    "name": "【2026臺北藝穗節】北投散步 —— 微溫的星光散策",
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
@@ -1830,7 +1770,7 @@
   },
   {
     "id": "culture-theater-6a30306826b3243414ccd2da",
-    "name": "【2026 臺北藝穗節】人从众",
+    "name": "【2026臺北藝穗節】人从众",
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
@@ -2150,7 +2090,7 @@
   },
   {
     "id": "culture-theater-6a3424df26b3243414ccd447",
-    "name": "【 2026 臺北藝穗節】小劉工作小劉忙《間諜舞台組》",
+    "name": "【 2026臺北藝穗節】小劉工作小劉忙《間諜舞台組》",
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
@@ -2180,7 +2120,7 @@
   },
   {
     "id": "culture-theater-6a3424df26b3243414ccd449",
-    "name": "【2026 臺北藝穗節】聚集創作坊《母親，我想對妳說》",
+    "name": "【2026臺北藝穗節】聚集創作坊《母親，我想對妳說》",
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
@@ -2285,7 +2225,7 @@
   },
   {
     "id": "culture-theater-6a36c7d526b3243414ccd474",
-    "name": "【2026 臺北藝穗節】即使世界末日還是想吃枝仔冰",
+    "name": "【2026臺北藝穗節】即使世界末日還是想吃枝仔冰",
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
@@ -2600,7 +2540,7 @@
   },
   {
     "id": "culture-theater-6a396ad126b3243414ccd4d8",
-    "name": "【2026 臺北藝穗節】《以前的我，謝囉！》",
+    "name": "【2026臺北藝穗節】《以前的我，謝囉！》",
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
@@ -4156,6 +4096,36 @@
     "sourceUrl": "https://www.opentix.life/program/2074023397003329537",
     "startDate": "2026-11-21",
     "endDate": "2026-12-06",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-theater-6a57bdbb26b32427d06041c2",
+    "name": "【2026臺北藝穗節】《呼麻二齒的阿德醫生》",
+    "type": "theater",
+    "source": "culture-theater",
+    "category": "indoor",
+    "address": "臺北市北投區新民路22巷9號",
+    "district": "臺北市北投區",
+    "lat": 25.13924930701558,
+    "lng": 121.50745667755419,
+    "sourceUrl": "https://www.opentix.life/program/2075184697495470081",
+    "startDate": "2026-08-18",
+    "endDate": "2026-08-22",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-theater-6a5a60c526b32427d06041f2",
+    "name": "音樂劇《跑跑殭丙仁》",
+    "type": "theater",
+    "source": "culture-theater",
+    "category": "indoor",
+    "address": "臺北市士林區劍潭路1號",
+    "district": "臺北市士林區",
+    "lat": 25.0847069488325,
+    "lng": 121.524399267913,
+    "sourceUrl": "https://www.opentix.life/program/2076511977710968833",
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-13",
     "goodFor": "both"
   }
 ]
