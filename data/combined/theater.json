@@ -25,7 +25,7 @@
     "lat": 25.0605877,
     "lng": 121.5232036,
     "sourceUrl": "https://www.opentix.life/program/1863403624657735681",
-    "startDate": "2026-07-22",
+    "startDate": "2026-07-29",
     "endDate": "2026-12-30",
     "goodFor": "both"
   },
@@ -89,32 +89,17 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-theater-697ce48326b32454e437c5ca",
-    "name": "2026臺北兒童藝術節：《幾米男孩的100次勇敢》",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市士林區劍潭路1號",
-    "district": "臺北市士林區",
-    "lat": 25.0847069488325,
-    "lng": 121.524399267913,
-    "sourceUrl": "https://www.opentix.life/program/2014188763132530689",
-    "startDate": "2026-07-24",
-    "endDate": "2026-07-26",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-theater-69837bd526b32454e437c6e7",
     "name": "果陀劇場《深夜小狗神秘習題》",
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
-    "address": "臺中市北區學士路98號",
-    "district": "臺中市北區",
-    "lat": 24.155298,
-    "lng": 120.682756,
+    "address": "桃園市桃園區中正路1188號",
+    "district": "桃園市桃園區",
+    "lat": 25.0175106,
+    "lng": 121.2986658,
     "sourceUrl": "https://www.opentix.life/program/2013457114793156609",
-    "startDate": "2026-07-25",
+    "startDate": "2026-08-01",
     "endDate": "2026-11-01",
     "goodFor": "both"
   },
@@ -129,7 +114,7 @@
     "lat": 25.0605877,
     "lng": 121.5232036,
     "sourceUrl": "https://www.opentix.life/program/2026933769952440320",
-    "startDate": "2026-07-26",
+    "startDate": "2026-08-30",
     "endDate": "2026-09-27",
     "goodFor": "both"
   },
@@ -146,36 +131,6 @@
     "sourceUrl": "https://www.opentix.life/program/2028435715586863105",
     "startDate": "2026-10-31",
     "endDate": "2026-11-01",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-theater-69b4436126b3242a48a9db76",
-    "name": "趴趴葉Papaya2026短劇專場《ㄅ》",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市中正區重慶南路二段51號B1",
-    "district": "臺北市中正區",
-    "lat": 25.0311993,
-    "lng": 121.5149255,
-    "sourceUrl": "https://www.opentix.life/program/2031635795404480513",
-    "startDate": "2026-07-24",
-    "endDate": "2026-07-25",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-theater-69c6b86e26b3242a48a9deb1",
-    "name": "2026新點子實驗場 Ihot Sinlay Cihek 卓家安《Ina與她們的產物》階段呈現",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號",
-    "district": "臺北市中正區",
-    "lat": 25.035361469223055,
-    "lng": 121.5181511421788,
-    "sourceUrl": "https://www.opentix.life/program/2033459240553635841",
-    "startDate": "2026-07-23",
-    "endDate": "2026-07-23",
     "goodFor": "both"
   },
   {
@@ -314,21 +269,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-theater-69d7db9e26b3242a48a9e1cd",
-    "name": "【掌中戲】真雲林閣掌中劇團《夢·斷·情河》（傳統版）",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市大同區迪化街一段21號8樓",
-    "district": "臺北市大同區",
-    "lat": 25.0552408,
-    "lng": 121.5103053,
-    "sourceUrl": "https://www.opentix.life/program/2036007774920761345",
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-25",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-theater-69d7db9e26b3242a48a9e1ce",
     "name": "【掌中戲】陳錫煌傳統掌中劇團《西遊記之火雲洞》",
     "type": "theater",
@@ -464,21 +404,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-theater-69e65c2d26b3242a48a9e57d",
-    "name": "一粒萬倍 A SEED 台灣公演",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2039175336378621953",
-    "startDate": "2026-07-21",
-    "endDate": "2026-07-21",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-theater-69e8ff2f26b3242a48a9e5de",
     "name": "叛逆研究社-笑著被記過",
     "type": "theater",
@@ -521,21 +446,6 @@
     "sourceUrl": "https://www.opentix.life/program/2037519395154640897",
     "startDate": "2026-10-01",
     "endDate": "2026-10-04",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-theater-69eba23826b3242a48a9e64b",
-    "name": "2026臺北兒童藝術節：《月亮找朋友》",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市中正區羅斯福路四段92號10樓",
-    "district": "臺北市中正區",
-    "lat": 25.013614643862443,
-    "lng": 121.53490207369424,
-    "sourceUrl": "https://www.opentix.life/program/2043941682610323457",
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
     "goodFor": "both"
   },
   {
@@ -609,7 +519,7 @@
     "lat": 25.084563707077805,
     "lng": 121.5235650057614,
     "sourceUrl": "https://www.opentix.life/program/2039524426554306560",
-    "startDate": "2026-07-25",
+    "startDate": "2026-08-01",
     "endDate": "2026-08-09",
     "goodFor": "both"
   },
@@ -641,21 +551,6 @@
     "sourceUrl": "https://www.opentix.life/program/2042439779702349825",
     "startDate": "2026-08-14",
     "endDate": "2026-08-16",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-theater-69f8d19126b3243414ccc56e",
-    "name": "界址創作《死人大哥大》",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號",
-    "district": "臺北市中正區",
-    "lat": 25.035109625324957,
-    "lng": 121.51862076759792,
-    "sourceUrl": "https://www.opentix.life/program/2046520672095342593",
-    "startDate": "2026-07-24",
-    "endDate": "2026-07-26",
     "goodFor": "both"
   },
   {
@@ -941,21 +836,6 @@
     "sourceUrl": "https://www.opentix.life/program/2052621362491457537",
     "startDate": "2026-11-06",
     "endDate": "2026-11-08",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-theater-6a0de98426b3243414ccca4c",
-    "name": "張哈利首次個人喜劇專場《梭哈囉！！》",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市中山區復興北路480號",
-    "district": "臺北市中山區",
-    "lat": 25.0649291,
-    "lng": 121.5441054,
-    "sourceUrl": "https://www.opentix.life/program/2053799078992662528",
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
     "goodFor": "both"
   },
   {
@@ -2114,7 +1994,7 @@
     "lat": 25.13586493072851,
     "lng": 121.5059957,
     "sourceUrl": "https://www.opentix.life/program/2064223837053476865",
-    "startDate": "2026-07-23",
+    "startDate": "2026-08-06",
     "endDate": "2026-08-06",
     "goodFor": "both"
   },
@@ -2219,7 +2099,7 @@
     "lat": 25.13097742691935,
     "lng": 121.49994031748794,
     "sourceUrl": "https://www.opentix.life/program/2065016759394521089",
-    "startDate": "2026-07-24",
+    "startDate": "2026-07-30",
     "endDate": "2026-08-09",
     "goodFor": "both"
   },
@@ -3074,7 +2954,7 @@
     "lat": 25.13117379790585,
     "lng": 121.50003230981847,
     "sourceUrl": "https://www.opentix.life/program/2069712364406038529",
-    "startDate": "2026-07-26",
+    "startDate": "2026-07-27",
     "endDate": "2026-07-29",
     "goodFor": "both"
   },
@@ -4100,7 +3980,7 @@
   },
   {
     "id": "culture-theater-6a57bdbb26b32427d06041c2",
-    "name": "【2026臺北藝穗節】《呼麻二齒的阿德醫生》",
+    "name": "(演出取消)【2026臺北藝穗節】《呼麻二齒的阿德醫生》",
     "type": "theater",
     "source": "culture-theater",
     "category": "indoor",
@@ -4126,6 +4006,51 @@
     "sourceUrl": "https://www.opentix.life/program/2076511977710968833",
     "startDate": "2026-12-04",
     "endDate": "2026-12-13",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-theater-6a5e554326b32427d06041fe",
+    "name": "動見体Ｘ橫山拓也《白條肉》",
+    "type": "theater",
+    "source": "culture-theater",
+    "category": "indoor",
+    "address": "臺北市中正區羅斯福路四段92號10樓",
+    "district": "臺北市中正區",
+    "lat": 25.013614643862443,
+    "lng": 121.53490207369424,
+    "sourceUrl": "https://www.opentix.life/program/2074024287509049345",
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-08",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-theater-6a6249ca26b32427d060424a",
+    "name": "狂想劇場《島上的最後晚餐》",
+    "type": "theater",
+    "source": "culture-theater",
+    "category": "indoor",
+    "address": "臺北市大安區羅斯福路四段1號臺灣大學禮賢樓B1",
+    "district": "臺北市大安區",
+    "lat": 25.014656376535928,
+    "lng": 121.53812417236932,
+    "sourceUrl": "https://www.opentix.life/program/2075129131158446080",
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-11",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-theater-6a6249ca26b32427d060424b",
+    "name": "面白放送",
+    "type": "theater",
+    "source": "culture-theater",
+    "category": "indoor",
+    "address": "臺北市大安區敦化南路一段233巷20號",
+    "district": "臺北市大安區",
+    "lat": 25.0403075,
+    "lng": 121.5503346,
+    "sourceUrl": "https://www.opentix.life/program/2077662622413549569",
+    "startDate": "2026-07-29",
+    "endDate": "2026-07-29",
     "goodFor": "both"
   }
 ]
