@@ -20,14 +20,21 @@ const TYPE_COLORS: Record<string, string> = {
   attraction: "bg-green-100 text-green-700",
 };
 
+// 跨頁共用的來源顯示名稱。個別分類頁的細部來源標籤走 BrowseList 的 sourceLabels prop，
+// 這裡只放到處都會出現的（口袋名單會混進分類頁、行程卡、最愛）。
+export const SOURCE_LABELS: Record<string, string> = { pocket: "口袋名單" };
+
 interface PlaceItemProps {
   place: Place;
+  /** 來源的顯示名稱；沒給就退回 SOURCE_LABELS，再退回 place.source */
+  sourceLabel?: string;
   isFavorite?: boolean;
   onToggleFavorite?: (place: Place) => void;
 }
 
 export default function PlaceItem({
   place,
+  sourceLabel,
   isFavorite,
   onToggleFavorite,
 }: PlaceItemProps) {
@@ -42,7 +49,9 @@ export default function PlaceItem({
           >
             {TYPE_LABELS[place.type] ?? place.type}
           </span>
-          <span className="text-xs text-gray-400">{place.source}</span>
+          <span className="text-xs text-gray-400">
+            {sourceLabel ?? SOURCE_LABELS[place.source] ?? place.source}
+          </span>
         </div>
         <h3 className="text-base font-semibold text-gray-900 dark:text-gray-50 line-clamp-2">
           {place.sourceUrl ? (

@@ -14,22 +14,8 @@ import { mnaPlaces } from "@/lib/sync/mna";
 import { opentixPlaces } from "@/lib/sync/opentix";
 import { kktixPlaces } from "@/lib/sync/kktix";
 import { normalizeDistrict } from "@/lib/districts";
+import { normalizeForDedup } from "@/lib/dedup";
 import type { Place } from "@/types";
-
-/**
- * Normalize a name for dedup comparison:
- * - lowercase
- * - remove whitespace, punctuation, special chars
- * - normalize Chinese brackets
- */
-export function normalizeForDedup(name: string): string {
-  return name
-    .trim()
-    .toLowerCase()
-    .replace(/[\s\u3000]+/g, "") // remove all whitespace
-    .replace(/[《》「」【】〈〉（）()[\]：:，,。.、／/\-—～~！!？?]/g, "") // remove punctuation
-    .replace(/&amp;/g, "");
-}
 
 export function combineAllPlaces(): Place[] {
   const exhibitions = [

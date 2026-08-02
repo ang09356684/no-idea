@@ -40,12 +40,14 @@ export default function FavoritesPage() {
 
   // Check which favorites are still in the latest data
   const checkExpired = useCallback(async () => {
-    if (favorites.length === 0) return;
+    // 口袋名單是使用者自己的項目，不在共用 catalog 裡，送去比對只會被判成已下架
+    const ids = favorites.filter((f) => f.source !== "pocket").map((f) => f.id);
+    if (ids.length === 0) return;
     try {
       const res = await fetch("/api/check-favorites", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ids: favorites.map((f) => f.id) }),
+        body: JSON.stringify({ ids }),
       });
       const { results } = await res.json();
       const expired = new Set<string>();

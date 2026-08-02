@@ -5,7 +5,7 @@ import {
   placeDistrictKey,
   normalizeDistrict,
 } from "@/lib/districts";
-import { normalizeForDedup } from "@/lib/combine";
+import { normalizeForDedup } from "@/lib/dedup";
 import type { Place, Itinerary, GenerateRequest } from "@/types";
 import { randomUUID } from "crypto";
 

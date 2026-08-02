@@ -37,7 +37,7 @@ function clean<T extends object>(obj: T): T {
  * 兩種模式對外介面相同：{ places, loading, add, remove, replaceAll }。
  */
 export function usePocketList() {
-  const { user, configured } = useAuth();
+  const { user, configured, loading: authLoading } = useAuth();
   const useLocal = !configured;
 
   // Firestore 模式：只在 onSnapshot callback 內 setState；以 uid 把關避免換帳號殘留。
@@ -69,9 +69,11 @@ export function usePocketList() {
           : [],
     [useLocal, local, user, snap]
   );
+  // loading = 「還不確定最終清單」。auth 尚未解析時也算，否則 user 從 null 變成已登入的瞬間
+  // 會先閃一次空清單（BrowseList 併口袋名單時看得出來）。
   const loading = useLocal
     ? local === null
-    : !!configured && !!user && !(snap && snap.uid === user.uid);
+    : authLoading || (!!user && !(snap && snap.uid === user.uid));
 
   const add = useCallback(
     async (input: Omit<Place, "id" | "source">) => {
