@@ -45,111 +45,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-6a1875c626b3243414cccc3b",
-    "name": "【TICF26台北國際合唱音樂節】貝多芬第九號交響曲《合唱》",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2055212208605011969",
-    "startDate": "2026-08-01",
-    "endDate": "2026-08-01",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a1875c626b3243414cccc3c",
-    "name": "【TICF26台北國際合唱音樂節】鈊象電子慈善音樂會 —莫札特《安魂曲》",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2055215906946084865",
-    "startDate": "2026-08-02",
-    "endDate": "2026-08-02",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a1875c626b3243414cccc3d",
-    "name": "【TICF26台北國際合唱音樂節】王道銀行集團慈善音樂會–台北國際合唱大賽：大獎賽",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2056634031067963393",
-    "startDate": "2026-07-31",
-    "endDate": "2026-07-31",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a1875c626b3243414cccc3e",
-    "name": "【TICF26台北國際合唱音樂節】永真慈善音樂會—  拉脫維亞Kamēr合唱團與德國圖林根室內合唱團",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2056639435379253249",
-    "startDate": "2026-07-27",
-    "endDate": "2026-07-27",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a1875c626b3243414cccc3f",
-    "name": "【TICF26台北國際合唱音樂節】斯洛維尼亞 美格隆室內合唱團",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2056645962244366336",
-    "startDate": "2026-07-28",
-    "endDate": "2026-07-28",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a1875c626b3243414cccc40",
-    "name": "【TICF26台北國際合唱音樂節】匈牙利 Cantemus 兒童合唱團",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2056647950104076289",
-    "startDate": "2026-07-29",
-    "endDate": "2026-07-29",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a1875c626b3243414cccc41",
-    "name": "【TICF26台北國際合唱音樂節】西班牙 SUHAR男聲合唱團",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2056649959273472001",
-    "startDate": "2026-07-30",
-    "endDate": "2026-07-30",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6a1f0d1126b3243414ccce19",
     "name": "2026 Taiwan Connection音樂節—《巔峰之上》",
     "type": "concert",
@@ -240,6 +135,21 @@
     "goodFor": "both"
   },
   {
+    "id": "culture-music-6a53cb4226b32427d060419b",
+    "name": "第一屆台北義大利音樂節｜四場《台北義大利美聲之夜》歌劇選粹音樂會——在台北體驗聯合國承認的人類非物質文化遺產",
+    "type": "concert",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市大安區龍安里青田街4-1號",
+    "district": "臺北市大安區",
+    "lat": 25.0283594,
+    "lng": 121.5318605,
+    "sourceUrl": "https://www.opentix.life/program/2069626421248565248",
+    "startDate": "2026-09-03",
+    "endDate": "2026-09-24",
+    "goodFor": "both"
+  },
+  {
     "id": "culture-music-6a639b4726b32427d0604252",
     "name": "力晶2026藝文饗宴-阿格麗希音樂節在台灣-台北場",
     "type": "concert",
@@ -252,6 +162,51 @@
     "sourceUrl": "https://www.opentix.life/program/2076925048527581185",
     "startDate": "2026-11-12",
     "endDate": "2026-11-12",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a68e15526b32427d06042d3",
+    "name": "2026藝本道荷蘭國際音樂節：華山樂週末 I",
+    "type": "concert",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "lat": 25.0432788,
+    "lng": 121.5293005,
+    "sourceUrl": "https://www.opentix.life/program/2080511174479077377",
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a68e15526b32427d06042d4",
+    "name": "2026藝本道荷蘭國際音樂節：華山樂週末 II",
+    "type": "concert",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "lat": 25.0432788,
+    "lng": 121.5293005,
+    "sourceUrl": "https://www.opentix.life/program/2080550613079678977",
+    "startDate": "2026-08-23",
+    "endDate": "2026-08-23",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a6b844f26b32427d06042fc",
+    "name": "建國中學校友管樂團2026暑期巡迴音樂會——《松影的彼方》",
+    "type": "concert",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2077290870417739777",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-19",
     "goodFor": "both"
   },
   {
@@ -268,18 +223,6 @@
   },
   {
     "id": "era-1",
-    "name": "Summer Lineup Concert",
-    "type": "concert",
-    "source": "era-ticket",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607220951318717450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C4DDZQ",
-    "goodFor": "both"
-  },
-  {
-    "id": "era-2",
     "name": "翁倩玉 陽光般的60週年演唱會-時間之歌",
     "type": "concert",
     "source": "era-ticket",
@@ -291,7 +234,7 @@
     "goodFor": "both"
   },
   {
-    "id": "era-3",
+    "id": "era-2",
     "name": "KOTOKO LIVE TOUR 2026 ”The Bible2” in TAIPEI",
     "type": "concert",
     "source": "era-ticket",
@@ -303,19 +246,42 @@
     "goodFor": "both"
   },
   {
-    "id": "era-5",
-    "name": "2026 洪榮宏 舊情綿綿演唱會",
+    "id": "era-3",
+    "name": "雄頌管弦樂團音樂會-愛與命運-柴可夫斯基之樂",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607221000309697450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P15HP2TI",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026070809261105230816_450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19CDUHI",
+    "goodFor": "both"
+  },
+  {
+    "id": "era-4",
+    "name": "「2026年國際沈文程日-小琉球情歌演唱會」",
+    "type": "concert",
+    "source": "era-ticket",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202607310201195859450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P0WAULDW",
     "goodFor": "both"
   },
   {
     "id": "kham-0",
+    "name": "國泰世華銀行 彭佳慧《數著時間的日子》巡迴演唱會",
+    "type": "concert",
+    "source": "kham",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D3G65D",
+    "goodFor": "date"
+  },
+  {
+    "id": "kham-1",
     "name": "2026吉卜力動畫音樂原唱歌手交響演唱會",
     "type": "concert",
     "source": "kham",
@@ -326,29 +292,7 @@
     "goodFor": "date"
   },
   {
-    "id": "kham-1",
-    "name": "梁文音 2026《約哪幾點？》讚聲演唱會-台中場",
-    "type": "concert",
-    "source": "kham",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D27F0J",
-    "goodFor": "date"
-  },
-  {
     "id": "kham-2",
-    "name": "2026邱鋒澤 Feng Ze Bend The Lines Concert",
-    "type": "concert",
-    "source": "kham",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19R2KJI",
-    "goodFor": "date"
-  },
-  {
-    "id": "kham-3",
     "name": "【10/24場次】MUSIC EXPO LIVE 2026 in TAIPEI",
     "type": "concert",
     "source": "kham",
@@ -359,7 +303,7 @@
     "goodFor": "date"
   },
   {
-    "id": "kham-4",
+    "id": "kham-3",
     "name": "【10/25場次】MUSIC EXPO LIVE 2026 in TAIPEI",
     "type": "concert",
     "source": "kham",
@@ -367,6 +311,17 @@
     "address": "台北市",
     "district": "不限",
     "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CXXK2O",
+    "goodFor": "date"
+  },
+  {
+    "id": "kham-4",
+    "name": "李國修紀念作品《半里長城》笑噴版 2026台北加演場",
+    "type": "concert",
+    "source": "kham",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P17IDZEW",
     "goodFor": "date"
   },
   {
@@ -395,30 +350,6 @@
   },
   {
     "id": "mna-4",
-    "name": "雙琴俠 世界巡演",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺中國家歌劇院",
-    "district": "臺中市西屯區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170446016526.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D3QYAL",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-10",
-    "name": "《魔女宅急便》音樂劇",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺中國家歌劇院",
-    "district": "臺中市西屯區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202606260506335441&#x81FA;&#x4E2D;640x480&#x66F4;.jpg",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AH1R17",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-11",
     "name": "葛萊美爵士歌后 迪．迪．布里姬沃特 與 NYO Jazz",
     "type": "concert",
     "source": "mna",
@@ -430,8 +361,20 @@
     "goodFor": "both"
   },
   {
-    "id": "mna-17",
-    "name": "卡普松與傑洛米二重奏",
+    "id": "mna-5",
+    "name": "BMW Concert 小提琴女神 瑪莉亞．杜尼亞絲",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607290424149142&#x552E;&#x7968;&#x7DB2;banner&#x6709;&#x8D0A;&#x52A9;BMW640x4801.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4TB",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-7",
+    "name": "卡普松與傑洛米 來自巴黎鐵塔的浪漫樂章",
     "type": "concert",
     "source": "mna",
     "category": "indoor",
@@ -439,6 +382,30 @@
     "district": "臺北市中正區",
     "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607160321027926.JPG",
     "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CZJY88",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-8",
+    "name": "World Premiere - Disney Hits LIVE!",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北流行音樂中心",
+    "district": "臺北市南港區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607280616009339.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DJYOXZ",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-10",
+    "name": "TWOSET VIOLIN World Tour《Sacrilegious Games》",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "高雄衛武營國家歌劇院",
+    "district": "其他",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607210317480096&#x9AD8;&#x96C4;640x480&#x66F4;.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D3QYAM",
     "goodFor": "both"
   }
 ]
