@@ -120,21 +120,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-695e91b026b3243dd4e6ac09",
-    "name": "高雄市管樂團《動畫楽ノ祭》－日本動漫交響音樂會3",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2005537019322753024",
-    "startDate": "2026-08-07",
-    "endDate": "2026-08-08",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6973ae8b26b32454e437c3cb",
     "name": "巴洛克獨奏家樂團《倫敦巴赫》",
     "type": "music",
@@ -200,12 +185,12 @@
     "type": "music",
     "source": "culture-music",
     "category": "indoor",
-    "address": "臺中市西屯區惠來路二段101號",
-    "district": "臺中市西屯區",
-    "lat": 24.1626492,
-    "lng": 120.6403028,
+    "address": "南投縣南投市建國路135號",
+    "district": "其他",
+    "lat": 23.9082732,
+    "lng": 120.681721,
     "sourceUrl": "https://www.opentix.life/program/2013099814073860097",
-    "startDate": "2026-08-06",
+    "startDate": "2026-08-15",
     "endDate": "2026-12-29",
     "goodFor": "both"
   },
@@ -600,21 +585,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-69f239a426b3242a48a9e76c",
-    "name": "2026 TMAF 大師巨星音樂會",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2046128925340798977",
-    "startDate": "2026-08-05",
-    "endDate": "2026-08-05",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-69f239a426b3242a48a9e771",
     "name": "寶塚OG夢幻舞台《築夢之橋》",
     "type": "music",
@@ -660,21 +630,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-69f8d18626b3243414ccc563",
-    "name": "2026華山親子表藝節《擁抱海洋永續親子音樂會》",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "lat": 25.0432788,
-    "lng": 121.5293005,
-    "sourceUrl": "https://www.opentix.life/program/2045080592636637185",
-    "startDate": "2026-08-08",
-    "endDate": "2026-08-09",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-69fcc5f126b3243414ccc645",
     "name": "陽明合唱團五十週年紀念公演《吾拾‧伍實》",
     "type": "music",
@@ -687,21 +642,6 @@
     "sourceUrl": "https://www.opentix.life/program/2048687274359005185",
     "startDate": "2026-08-23",
     "endDate": "2026-08-23",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-69fe177e26b3243414ccc6be",
-    "name": "透明邊界",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號",
-    "district": "臺北市中正區",
-    "lat": 25.035109625324957,
-    "lng": 121.51862076759792,
-    "sourceUrl": "https://www.opentix.life/program/2034145765439578112",
-    "startDate": "2026-08-07",
-    "endDate": "2026-08-09",
     "goodFor": "both"
   },
   {
@@ -795,21 +735,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-6a0de97b26b3243414ccca48",
-    "name": "【2026 TSO 夏日音樂漫步】唐文心、梁喬信與TSO",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區延平南路98號",
-    "district": "臺北市中正區",
-    "lat": 25.0425041,
-    "lng": 121.5103541,
-    "sourceUrl": "https://www.opentix.life/program/2056217180787720193",
-    "startDate": "2026-08-08",
-    "endDate": "2026-08-08",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6a0de97b26b3243414ccca49",
     "name": "【2026 TSO 夏日音樂漫步】布拉赫與TSO",
     "type": "music",
@@ -822,21 +747,6 @@
     "sourceUrl": "https://www.opentix.life/program/2056261233323556865",
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a0de97b26b3243414ccca4a",
-    "name": "【2026 TSO 夏日音樂漫步】美洲四季──唐文心、梁喬信與TSO音樂家",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市南港區忠孝東路七段508號",
-    "district": "臺北市南港區",
-    "lat": 25.052286,
-    "lng": 121.6103092,
-    "sourceUrl": "https://www.opentix.life/program/2056263424992681985",
-    "startDate": "2026-08-09",
-    "endDate": "2026-08-09",
     "goodFor": "both"
   },
   {
@@ -945,21 +855,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-6a15d2c326b3243414cccb70",
-    "name": "玉山文教基金會輕鬆自在場  2026兩廳院夏日爵士童樂會《節奏千層麵》",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2047621979487760385",
-    "startDate": "2026-08-07",
-    "endDate": "2026-08-09",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6a15d2c326b3243414cccb71",
     "name": "凱基雋永饗宴 2026兩廳院夏日爵士 彼得．厄斯金爵士五重奏《空中漫步》",
     "type": "music",
@@ -1020,21 +915,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-6a1dbbca26b3243414cccdc4",
-    "name": "「琴風．笛舞」劉志浩長笛獨奏會",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2051940836427104257",
-    "startDate": "2026-08-05",
-    "endDate": "2026-08-05",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6a1dbbca26b3243414cccdc9",
     "name": "《之間 In Between》孔裕慈打擊樂獨奏會",
     "type": "music",
@@ -1070,12 +950,12 @@
     "type": "music",
     "source": "culture-music",
     "category": "indoor",
-    "address": "臺南市中西區永華一街59號",
-    "district": "其他",
-    "lat": 22.9902883,
-    "lng": 120.1890952,
+    "address": "臺北市南港區忠孝東路七段508號",
+    "district": "臺北市南港區",
+    "lat": 25.052286,
+    "lng": 121.6103092,
     "sourceUrl": "https://www.opentix.life/program/2059546834508214273",
-    "startDate": "2026-08-09",
+    "startDate": "2026-08-16",
     "endDate": "2026-08-16",
     "goodFor": "both"
   },
@@ -1092,21 +972,6 @@
     "sourceUrl": "https://www.opentix.life/program/2052595469808627713",
     "startDate": "2026-09-28",
     "endDate": "2026-10-04",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a1f0d1126b3243414ccce12",
-    "name": "台灣耶魯室內樂團《水之形》",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2056994294598803457",
-    "startDate": "2026-08-06",
-    "endDate": "2026-08-06",
     "goodFor": "both"
   },
   {
@@ -1363,36 +1228,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-6a2aea5126b3243414ccd0ca",
-    "name": "「天籟之音~媽媽教我的歌」音樂會",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區延平南路98號",
-    "district": "臺北市中正區",
-    "lat": 25.0425041,
-    "lng": 121.5103541,
-    "sourceUrl": "https://www.opentix.life/program/2062179782314561537",
-    "startDate": "2026-08-05",
-    "endDate": "2026-08-05",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a2c3bea26b3243414ccd217",
-    "name": "碧聲芳華－碧華國中校友國樂團",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2062381529528143872",
-    "startDate": "2026-08-03",
-    "endDate": "2026-08-03",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6a2c3bea26b3243414ccd222",
     "name": "華麗的探戈｜皮亞佐拉五重奏",
     "type": "music",
@@ -1458,12 +1293,12 @@
     "type": "music",
     "source": "culture-music",
     "category": "indoor",
-    "address": "高雄市苓雅區和平一路116號（和平校區藝術大樓）",
-    "district": "其他",
-    "lat": 22.624056525288353,
-    "lng": 120.3210108120585,
+    "address": "臺北市中正區愛國西路1號",
+    "district": "臺北市中正區",
+    "lat": 25.036434268653736,
+    "lng": 121.5148114393195,
     "sourceUrl": "https://www.opentix.life/program/2062843273142194177",
-    "startDate": "2026-08-09",
+    "startDate": "2026-08-12",
     "endDate": "2026-08-14",
     "goodFor": "both"
   },
@@ -1573,21 +1408,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-6a32d34726b3243414ccd3aa",
-    "name": "2026與大師有約－劉文金作品音樂會",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區延平南路98號",
-    "district": "臺北市中正區",
-    "lat": 25.0425041,
-    "lng": 121.5103541,
-    "sourceUrl": "https://www.opentix.life/program/2064980623299751937",
-    "startDate": "2026-08-04",
-    "endDate": "2026-08-04",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6a3424d226b3243414ccd438",
     "name": "絢麗系列 — 洛薩科維契小提琴獨奏會",
     "type": "music",
@@ -1615,21 +1435,6 @@
     "sourceUrl": "https://www.opentix.life/program/2057380462921850881",
     "startDate": "2026-08-15",
     "endDate": "2026-08-15",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a3424d326b3243414ccd43b",
-    "name": "Ultra-rarefied《極限抽取》吳鎮宏薩克斯風獨奏會",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2062011495689371649",
-    "startDate": "2026-08-04",
-    "endDate": "2026-08-04",
     "goodFor": "both"
   },
   {
@@ -1675,18 +1480,6 @@
     "endDate": "2026-09-06",
     "goodFor": "both",
     "price": "3000、2200、1800、1400、1000"
-  },
-  {
-    "id": "culture-music-6a34413326b3243414ccd454",
-    "name": "115年文化在巷子裡音樂會-中山區復華里",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中山區",
-    "district": "臺北市中山區",
-    "startDate": "2026-08-08",
-    "endDate": "2026-08-08",
-    "goodFor": "both"
   },
   {
     "id": "culture-music-6a34413326b3243414ccd455",
@@ -1767,21 +1560,6 @@
     "sourceUrl": "https://www.opentix.life/program/2064989613489934337",
     "startDate": "2026-10-02",
     "endDate": "2026-11-08",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a396ac926b3243414ccd4c3",
-    "name": "2026《那米哥絲竹名曲選粹》",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2065332060070629376",
-    "startDate": "2026-08-03",
-    "endDate": "2026-08-03",
     "goodFor": "both"
   },
   {
@@ -2219,21 +1997,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-6a47eb6426b32427d060410e",
-    "name": "璀璨星聲Ⅱ-TCO明日之星國樂團音樂會",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2072215193857822721",
-    "startDate": "2026-08-04",
-    "endDate": "2026-08-06",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6a47eb6426b32427d060410f",
     "name": "臺灣國樂團《琴弦上的魔術師》",
     "type": "music",
@@ -2284,12 +2047,12 @@
     "type": "music",
     "source": "culture-music",
     "category": "indoor",
-    "address": "臺中市西屯區惠來路二段101號",
-    "district": "臺中市西屯區",
-    "lat": 24.1626492,
-    "lng": 120.6403028,
+    "address": "臺北市信義區菸廠路88號B1",
+    "district": "臺北市信義區",
+    "lat": 25.04475517961833,
+    "lng": 121.56143652677528,
     "sourceUrl": "https://www.opentix.life/program/2067504370472919041",
-    "startDate": "2026-08-09",
+    "startDate": "2026-08-15",
     "endDate": "2026-08-22",
     "goodFor": "both"
   },
@@ -2699,7 +2462,7 @@
   },
   {
     "id": "culture-music-6a5125ec26b32427d0604186",
-    "name": "NSO歲末饗宴《法蘭西群星》",
+    "name": "富邦世紀音樂盛宴：NSO歲末饗宴《法蘭西群星》",
     "type": "music",
     "source": "culture-music",
     "category": "indoor",
@@ -2804,7 +2567,7 @@
   },
   {
     "id": "culture-music-6a5125ec26b32427d060418d",
-    "name": "NSO室內樂《絃上行雲──聲音的形狀》",
+    "name": "NSO ✕ 麗寶彩雲室內樂系列 I《絃上行雲──聲音的形狀》",
     "type": "music",
     "source": "culture-music",
     "category": "indoor",
@@ -2849,7 +2612,7 @@
   },
   {
     "id": "culture-music-6a5125ed26b32427d0604190",
-    "name": "NSO室內樂《樂響四十．交織的歲月》",
+    "name": "NSO ✕ 麗寶彩雲室內樂系列 II《樂響四十．交織的歲月》",
     "type": "music",
     "source": "culture-music",
     "category": "indoor",
@@ -2864,7 +2627,7 @@
   },
   {
     "id": "culture-music-6a5125ed26b32427d0604191",
-    "name": "NSO歲末饗宴《璀璨維也納》",
+    "name": "富邦世紀音樂盛宴：NSO歲末饗宴《璀璨維也納》",
     "type": "music",
     "source": "culture-music",
     "category": "indoor",
@@ -3191,21 +2954,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-6a5a60bf26b32427d06041ed",
-    "name": "《Glaßingers 璃明之聲》五週年紀念音樂會",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市士林區臨溪路70號第二教研大樓二樓",
-    "district": "臺北市士林區",
-    "lat": 25.094490285992613,
-    "lng": 121.54711817237563,
-    "sourceUrl": "https://www.opentix.life/program/2076550389147492353",
-    "startDate": "2026-08-09",
-    "endDate": "2026-08-09",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6a5a60bf26b32427d06041ee",
     "name": "《愛與美N次方程式》2026慈善音樂會",
     "type": "music",
@@ -3522,7 +3270,7 @@
   },
   {
     "id": "culture-music-6a68e15526b32427d06042cc",
-    "name": "洄瀾2026中山建中校友國樂團第二十五屆定期公演",
+    "name": "洄瀾2026中山建中校友國樂團第二十五屆團慶音樂會",
     "type": "music",
     "source": "culture-music",
     "category": "indoor",
@@ -3776,7 +3524,458 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-0",
+    "id": "culture-music-6a70ca6826b32427d0604332",
+    "name": "手風琴家蔡偉靖、王學與台灣絃樂團《極致拉風摺學》",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區中山南路21-1號，信義路側",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://www.opentix.life/program/2078021008845074433",
+    "startDate": "2026-10-06",
+    "endDate": "2026-10-06",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a70ca6926b32427d0604333",
+    "name": "『孟德爾頌之間』～創樂者藝術管弦樂與合唱篇",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2080549427189858305",
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-04",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a70ca6926b32427d0604335",
+    "name": "趙恆振/蔡佩娟/呂超倫鋼琴三重奏音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區濟南路一段七號 B1",
+    "district": "臺北市中正區",
+    "lat": 25.0424335,
+    "lng": 121.5226514,
+    "sourceUrl": "https://www.opentix.life/program/2082009900763475969",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-19",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a70ca6926b32427d0604336",
+    "name": "浮生詩境－謝維庭2026鋼琴獨奏會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區中山南路21-1號，信義路側",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://www.opentix.life/program/2082315899354886144",
+    "startDate": "2026-10-29",
+    "endDate": "2026-10-29",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a70ca6926b32427d0604337",
+    "name": "天狼星口琴樂團《聽說口琴音樂故事》",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市大安區羅斯福路四段1號",
+    "district": "臺北市大安區",
+    "lat": 25.013768052329574,
+    "lng": 121.53867852510383,
+    "sourceUrl": "https://www.opentix.life/program/2068921826085556224",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a70ca6926b32427d0604338",
+    "name": "《第三章 莫札特》公益音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市大同區民族西路187巷4號",
+    "district": "臺北市大同區",
+    "lat": 25.0689926,
+    "lng": 121.5148226,
+    "sourceUrl": "https://www.opentix.life/program/2083115274410663937",
+    "startDate": "2026-10-31",
+    "endDate": "2026-10-31",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a721bf026b32427d0604345",
+    "name": "光譜－許心牧擊樂獨奏會（電子x現代x古典的擊樂美學）",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市南港區忠孝東路七段508號",
+    "district": "臺北市南港區",
+    "lat": 25.052286,
+    "lng": 121.6103092,
+    "sourceUrl": "https://www.opentix.life/program/2081988029722533889",
+    "startDate": "2026-09-04",
+    "endDate": "2026-09-04",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a721bf126b32427d0604346",
+    "name": "雙雙對對　共聲共舞─南藝大鋼合所教師聯合音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "高雄市鳳山區三多一路1號",
+    "district": "其他",
+    "lat": 22.6230179238508,
+    "lng": 120.342434118507,
+    "sourceUrl": "https://www.opentix.life/program/2074741865752825857",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-19",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a72567326b32427d060434c",
+    "name": "2026創價公演-古典樂的顛覆與狂想",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "桃園市桃園區中正路1188號",
+    "district": "桃園市桃園區",
+    "lat": 25.0175106,
+    "lng": 121.2986658,
+    "sourceUrl": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D3FOI9",
+    "startDate": "2026-10-07",
+    "endDate": "2026-10-17",
+    "goodFor": "both",
+    "price": "2000、1800、1500、1200、900"
+  },
+  {
+    "id": "culture-music-6a736fd626b32427d060434e",
+    "name": "2026誰與爭鋒音樂大賽得獎者音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市信義區菸廠路88號B1",
+    "district": "臺北市信義區",
+    "lat": 25.04475517961833,
+    "lng": 121.56143652677528,
+    "sourceUrl": "https://www.opentix.life/program/2083832132737597440",
+    "startDate": "2026-08-23",
+    "endDate": "2026-08-23",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a736fd626b32427d060434f",
+    "name": "小巨人絲竹樂團-青年演奏家系列【綻放XIX】",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區中山南路21-1號",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://www.opentix.life/program/2077271823146872833",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-22",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a736fd626b32427d0604354",
+    "name": "【樂興之時】末日後 狂喜",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市南港區忠孝東路七段508號",
+    "district": "臺北市南港區",
+    "lat": 25.052286,
+    "lng": 121.6103092,
+    "sourceUrl": "https://www.opentix.life/program/2061655298886311937",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-11",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a736fd626b32427d0604355",
+    "name": "【時光重逢的共鳴】",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區中山南路21-1號",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://www.opentix.life/program/2084471437956067329",
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d060436e",
+    "name": "【TCO】115學年度全國學生音樂比賽指定曲音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2077343247353778177",
+    "startDate": "2026-09-05",
+    "endDate": "2026-09-05",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d060436f",
+    "name": "梁祝．喬家大院—李昊冉 X 沈妤霖 X TCO情緣",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2077352113356304385",
+    "startDate": "2026-10-17",
+    "endDate": "2026-10-17",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d0604370",
+    "name": "【TCO】聽．繁星點點 Ⅵ－臺灣國樂青年音樂家繁星計畫",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2077594175783804929",
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-07",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d0604371",
+    "name": "【TCO】音緣－吳大江作品音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2077603220684337153",
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-26",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d0604372",
+    "name": "樂韻飛揚—郭勇德 & TCO",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2077605060833861633",
+    "startDate": "2027-01-09",
+    "endDate": "2027-01-09",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d0604373",
+    "name": "無界．旅人Ⅵ —莊東杰 & TCO",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2077606379895627776",
+    "startDate": "2027-01-23",
+    "endDate": "2027-01-23",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d0604374",
+    "name": "【TCO】聽見蘇文慶－2026/27樂季開季音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區中山南路21-1號，信義路側",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://www.opentix.life/program/2077607839858749441",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-15",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d0604375",
+    "name": "【TCO】當代國樂 & 爵士樂—温隆信第13號交響曲",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2077944191959756801",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d0604376",
+    "name": "逝去的時光—陸軼文 X 于源春 X TCO",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2078048579470028801",
+    "startDate": "2026-11-21",
+    "endDate": "2026-11-21",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d0604377",
+    "name": "【環遊世界】廖珮宜木笛與廖憲一手鐘音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市南港區忠孝東路七段508號",
+    "district": "臺北市南港區",
+    "lat": 25.052286,
+    "lng": 121.6103092,
+    "sourceUrl": "https://www.opentix.life/program/2081935455148396544",
+    "startDate": "2026-10-03",
+    "endDate": "2026-10-03",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d0604379",
+    "name": "2026台灣國際重唱藝術節-台灣盃現代阿卡貝拉大賽",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號-秀山門入場",
+    "district": "臺北市中正區",
+    "lat": 25.043132854974356,
+    "lng": 121.51010459577952,
+    "sourceUrl": "https://www.opentix.life/program/2083021294560403456",
+    "startDate": "2026-10-24",
+    "endDate": "2026-10-24",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106626b32427d060437c",
+    "name": "以你為語—湯詩渝與薩繆爾．尼德豪瑟鋼琴與大提琴二重奏音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區中山南路21-1號",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://www.opentix.life/program/2084130068362047489",
+    "startDate": "2026-11-07",
+    "endDate": "2026-11-13",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a76106726b32427d060437d",
+    "name": "拉什科夫斯基2026鋼琴獨奏會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區中山南路21-1號，信義路側",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://www.opentix.life/program/2084822311070875649",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-27",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a7761ee26b32427d060438a",
+    "name": "拾花 — 政大校友合唱團2026年度音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區延平南路98號",
+    "district": "臺北市中正區",
+    "lat": 25.0425041,
+    "lng": 121.5103541,
+    "sourceUrl": "https://www.opentix.life/program/2065359788266983425",
+    "startDate": "2026-08-31",
+    "endDate": "2026-08-31",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a7761ee26b32427d060438b",
+    "name": "當巴赫變成了碎片：艾莉莎．薇勒絲坦╳ 李欣芸的聲音美學對話",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區中山南路21-1號",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://www.opentix.life/program/2074678661978210305",
+    "startDate": "2026-09-12",
+    "endDate": "2026-09-12",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a7761ee26b32427d060438c",
+    "name": "福爾摩沙醇釀史冊",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "臺北市中正區中山南路21-1號，信義路側",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://www.opentix.life/program/2079127091824619521",
+    "startDate": "2026-09-21",
+    "endDate": "2026-09-21",
+    "goodFor": "both"
+  },
+  {
+    "id": "culture-music-6a7761ee26b32427d060438e",
+    "name": "拾光－2026天狼星口琴樂團音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "高雄市鳳山區三多一路1號",
+    "district": "其他",
+    "lat": 22.6230179238508,
+    "lng": 120.342434118507,
+    "sourceUrl": "https://www.opentix.life/program/2084197567053049856",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-28",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-1",
     "name": "國家兩廳院X紅玉滿赤心雞蛋糕",
     "type": "music",
     "source": "opentix",
@@ -3787,7 +3986,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-1",
+    "id": "opentix-2",
     "name": "衛武營主辦節目免費身障票專區",
     "type": "music",
     "source": "opentix",
@@ -3798,7 +3997,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-3",
+    "id": "opentix-4",
     "name": "工程師專用 驗票新手村",
     "type": "music",
     "source": "opentix",
@@ -3809,7 +4008,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-4",
+    "id": "opentix-5",
     "name": "《神明便利商店》音樂劇",
     "type": "music",
     "source": "opentix",
@@ -3820,7 +4019,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-6",
+    "id": "opentix-7",
     "name": "《老男孩》音樂劇",
     "type": "music",
     "source": "opentix",
@@ -3831,7 +4030,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-8",
+    "id": "opentix-9",
     "name": "文山劇場2026年《親子玩藝》活動系列",
     "type": "music",
     "source": "opentix",
@@ -3842,7 +4041,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-10",
+    "id": "opentix-11",
     "name": "卡通大冒險-親子音樂會",
     "type": "music",
     "source": "opentix",
@@ -3853,7 +4052,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-11",
+    "id": "opentix-12",
     "name": "2026風動室內樂團《公主百分百》魔鏡冒險",
     "type": "music",
     "source": "opentix",
@@ -3864,7 +4063,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-12",
+    "id": "opentix-13",
     "name": "【2026點點限時集】每月18號 限量免費搶100點",
     "type": "music",
     "source": "opentix",
@@ -3875,7 +4074,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-13",
+    "id": "opentix-14",
     "name": "屏東演藝廳《沙龍音樂會》",
     "type": "music",
     "source": "opentix",
@@ -3886,7 +4085,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-14",
+    "id": "opentix-15",
     "name": "國家兩廳院主辦節目免費身障票專區",
     "type": "music",
     "source": "opentix",
@@ -3897,7 +4096,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-15",
+    "id": "opentix-16",
     "name": "2026風動室內樂團《公主百分百2》生日驚喜",
     "type": "music",
     "source": "opentix",
@@ -3908,7 +4107,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-16",
+    "id": "opentix-17",
     "name": "2026屏東演藝廳『消失的密室』管風琴室導覽",
     "type": "music",
     "source": "opentix",
@@ -3919,7 +4118,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-17",
+    "id": "opentix-18",
     "name": "大型兒童魔術劇《怪盜神偷-阿呆警察的復仇》",
     "type": "music",
     "source": "opentix",
@@ -3930,7 +4129,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-18",
+    "id": "opentix-19",
     "name": "十鼓藝術季-2026魔法夜祭2 神之島",
     "type": "music",
     "source": "opentix",
@@ -3941,7 +4140,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-19",
+    "id": "opentix-20",
     "name": "狂美《璀璨經典百老匯》交響音樂會-2026震撼再現",
     "type": "music",
     "source": "opentix",
@@ -3952,7 +4151,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-21",
+    "id": "opentix-22",
     "name": "新手村 節目",
     "type": "music",
     "source": "opentix",
@@ -3963,7 +4162,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-22",
+    "id": "opentix-23",
     "name": "2026歌劇院主辦節目免費身障票專區",
     "type": "music",
     "source": "opentix",
@@ -3974,18 +4173,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-24",
-    "name": "《卡達》",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2000481698746286081",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-28",
+    "id": "opentix-27",
     "name": "2026臺北相聲大會",
     "type": "music",
     "source": "opentix",
@@ -3996,7 +4184,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-31",
+    "id": "opentix-30",
     "name": "十方樂集30週年特別企劃：系列音樂會&amp;講座",
     "type": "music",
     "source": "opentix",
@@ -4007,7 +4195,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-32",
+    "id": "opentix-31",
     "name": "魔幻樂章-銅管村嘉年華",
     "type": "music",
     "source": "opentix",
@@ -4018,7 +4206,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-33",
+    "id": "opentix-32",
     "name": "義興閣掌中劇團《天堂客棧》",
     "type": "music",
     "source": "opentix",
@@ -4029,7 +4217,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-37",
+    "id": "opentix-35",
     "name": "臺北爵士大樂隊 -老派趴踢Night",
     "type": "music",
     "source": "opentix",
@@ -4040,7 +4228,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-38",
+    "id": "opentix-36",
     "name": "《小小音樂大師課》孩子們的夏季交響樂・臺北",
     "type": "music",
     "source": "opentix",
@@ -4051,7 +4239,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-39",
+    "id": "opentix-37",
     "name": "《小小音樂大師課》孩子們的夏季交響樂・臺中",
     "type": "music",
     "source": "opentix",
@@ -4062,7 +4250,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-43",
+    "id": "opentix-41",
     "name": "世界古文明 沉浸體驗展 高雄站",
     "type": "music",
     "source": "opentix",
@@ -4073,7 +4261,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-44",
+    "id": "opentix-42",
     "name": "新藝境：慕夏百年經典特展",
     "type": "music",
     "source": "opentix",
@@ -4084,7 +4272,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-46",
+    "id": "opentix-44",
     "name": "《小小音樂大師課》孩子們的夏季交響樂・高雄",
     "type": "music",
     "source": "opentix",
@@ -4095,7 +4283,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-47",
+    "id": "opentix-45",
     "name": "《聲之響宴:宮崎駿動畫音樂會》",
     "type": "music",
     "source": "opentix",
@@ -4106,7 +4294,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-48",
+    "id": "opentix-46",
     "name": "《好了啦！達康！》第十季第二集－沒事沒事沒事～還真當我沒事啊！",
     "type": "music",
     "source": "opentix",
@@ -4117,7 +4305,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-49",
+    "id": "opentix-47",
     "name": "【音樂舞蹈親子體驗派對】享象x忠泰樂生活",
     "type": "music",
     "source": "opentix",
@@ -4125,6 +4313,17 @@
     "address": "台北市",
     "district": "不限",
     "sourceUrl": "https://www.opentix.life/event/2062159858281226240",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-48",
+    "name": "《聲動漫:ACG音樂祭》",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2032303556119486465",
     "goodFor": "both"
   }
 ]
