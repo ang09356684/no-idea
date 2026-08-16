@@ -269,19 +269,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-6a319e8c26b3243414ccd380",
-    "name": "歐陽羽童 創作個展 【重組自然】 Utong Aoieong Solo Exhibition: Material Abstraction",
-    "type": "exhibition",
-    "source": "culture",
-    "category": "indoor",
-    "address": "臺北市大同區",
-    "district": "臺北市大同區",
-    "sourceUrl": "https://www.kingcarart.org.tw/exhibitions-detail/257",
-    "startDate": "2026-06-30",
-    "endDate": "2026-08-16",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-6a319eb026b3243414ccd385",
     "name": "2026 帝門藝術市集",
     "type": "exhibition",
@@ -358,7 +345,7 @@
     "lat": 25.024109,
     "lng": 121.5281669,
     "sourceUrl": "https://www.opentix.life/program/2066781297784332289",
-    "startDate": "2026-08-15",
+    "startDate": "2026-08-19",
     "endDate": "2026-08-20",
     "goodFor": "both"
   },
@@ -437,7 +424,7 @@
     "lat": 25.0246244,
     "lng": 121.5446374,
     "sourceUrl": "https://www.opentix.life/program/2064614366007234561",
-    "startDate": "2026-08-11",
+    "startDate": "2026-08-18",
     "endDate": "2026-10-11",
     "goodFor": "both"
   },
@@ -474,6 +461,19 @@
     "goodFor": "both"
   },
   {
+    "id": "culture-6a76be81647ad700eb56cce1",
+    "name": "《二度刺秦宇宙》利志達個人畫展",
+    "type": "exhibition",
+    "source": "culture",
+    "category": "indoor",
+    "address": "臺北市中山區中山北路二段116巷12號",
+    "district": "臺北市中山區",
+    "sourceUrl": "https://www.facebook.com/zuandpi/?locale=zh_TW",
+    "startDate": "2026-08-29",
+    "endDate": "2026-09-13",
+    "goodFor": "both"
+  },
+  {
     "id": "huashan-0",
     "name": "展演活動",
     "type": "exhibition",
@@ -482,44 +482,33 @@
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
     "imageUrl": "https://media.huashan1914.com/WebUPD/huashan1914/Header/Logo.png",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26060920020053282",
-    "goodFor": "both"
-  },
-  {
-    "id": "huashan-1",
-    "name": "鎖住青春&#185; PITERA™ 體驗展",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26073017323871215",
-    "goodFor": "both"
-  },
-  {
-    "id": "huashan-2",
-    "name": "2026年華文朗讀節「一粒米：好土台灣」 徵件活動",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26062914174146705",
-    "goodFor": "both"
-  },
-  {
-    "id": "huashan-3",
-    "name": "「B-SIDE LABEL POP UP STORE in Taiwan」華山快閃店",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
     "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26060811015739534",
     "goodFor": "both"
   },
   {
-    "id": "huashan-8",
+    "id": "huashan-1",
+    "name": "SEGA Taiwan 卡片遊戲派對節",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26081015572829013",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-2",
+    "name": "extra&#174; x K-Pop 獵魔女團 夏日限定聯名館",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26081206570000760",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-3",
     "name": "「劇場版 吉伊卡哇 人魚島的秘密」華山快閃店",
     "type": "exhibition",
     "source": "huashan",
@@ -530,7 +519,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-9",
+    "id": "huashan-8",
     "name": "2026文博會聯名選品展 X 未來市",
     "type": "exhibition",
     "source": "huashan",
@@ -541,7 +530,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-10",
+    "id": "huashan-9",
     "name": "期間限定店",
     "type": "exhibition",
     "source": "huashan",
@@ -552,7 +541,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-11",
+    "id": "huashan-10",
     "name": "2026貓貓蟲咖波 咖波小浪漫快閃店臺北站",
     "type": "exhibition",
     "source": "huashan",
@@ -563,7 +552,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-12",
+    "id": "huashan-11",
     "name": "動漫最高祭 Anime Max Festival",
     "type": "exhibition",
     "source": "huashan",
@@ -574,7 +563,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-14",
+    "id": "huashan-13",
     "name": "PEANUTS夏日海灘祭",
     "type": "exhibition",
     "source": "huashan",
@@ -585,7 +574,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-15",
+    "id": "huashan-14",
     "name": "夏日萌盒祭",
     "type": "exhibition",
     "source": "huashan",
@@ -596,7 +585,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-16",
+    "id": "huashan-15",
     "name": "CHIIKAWA DAYS 台北特展",
     "type": "exhibition",
     "source": "huashan",
@@ -604,6 +593,17 @@
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
     "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26061619433530946",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-17",
+    "name": "散步時間Time to Wander 陳盈帆個展08.12-09.29",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26081009302082724",
     "goodFor": "both"
   },
   {
@@ -720,20 +720,6 @@
   },
   {
     "id": "songshan-9",
-    "name": "《我獨自升級》展 SOLO LEVELING EXHIBITION",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1782376464_64a8697320d55c9ee85f.jpg",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/2391ff28-68ff-4c14-a61a-82adc1a98a02",
-    "startDate": "2026-06-30",
-    "endDate": "2026-08-09",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-10",
     "name": "小熊維尼—友你相繪 100 週年限定快閃店",
     "type": "exhibition",
     "source": "songshan",
@@ -747,7 +733,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-11",
+    "id": "songshan-10",
     "name": "《Spotlight ─ 波蘭兒童插畫的狂歡舞台》",
     "type": "exhibition",
     "source": "songshan",
@@ -761,7 +747,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-12",
+    "id": "songshan-11",
     "name": "100% 哆啦 A 夢櫻花節 in 台北",
     "type": "exhibition",
     "source": "songshan",
@@ -775,21 +761,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-13",
-    "name": "115 年長者量六力互動式展覽「六力時光機，找回健康力」",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1784267023_52fa2e13fdcf715ea56b.png",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/f0318dda-c95a-47d3-8914-12612f54c3e7",
-    "startDate": "2026-08-05",
-    "endDate": "2026-08-09",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-14",
+    "id": "songshan-12",
     "name": "設計已讀 Echoes of Joy 2026 年 iF 學生設計獎獲獎作品展",
     "type": "exhibition",
     "source": "songshan",
@@ -803,7 +775,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-15",
+    "id": "songshan-13",
     "name": "LANDSCAPES TO-GO 地景選物店",
     "type": "exhibition",
     "source": "songshan",
@@ -817,7 +789,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-16",
+    "id": "songshan-14",
     "name": "PERCENTAGE《GHOST HOME》快閃店",
     "type": "exhibition",
     "source": "songshan",
@@ -831,7 +803,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-17",
+    "id": "songshan-15",
     "name": "PPULBATU &lt;Hey! APPUL Market&gt; POP-UP in TAIPEI",
     "type": "exhibition",
     "source": "songshan",
@@ -845,7 +817,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-18",
+    "id": "songshan-16",
     "name": "松山文創園區藝術窗框計畫",
     "type": "exhibition",
     "source": "songshan",
@@ -859,7 +831,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-19",
+    "id": "songshan-17",
     "name": "敲開屬於你的幸福時刻！OHAYO 焦糖烤布蕾冰淇淋 療癒餐車",
     "type": "exhibition",
     "source": "songshan",
@@ -873,7 +845,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-20",
+    "id": "songshan-18",
     "name": "小鳥時光 6.0｜Animal Party 動物派對",
     "type": "exhibition",
     "source": "songshan",
@@ -887,7 +859,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-21",
+    "id": "songshan-19",
     "name": "伊林娛樂-第十五屆璀璨之星決賽盛典",
     "type": "exhibition",
     "source": "songshan",
@@ -901,7 +873,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-22",
+    "id": "songshan-20",
     "name": "2026 蛋殼祭 Art Incubation Festival",
     "type": "exhibition",
     "source": "songshan",
@@ -915,21 +887,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-23",
-    "name": "水水情人節市集",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1785724341_8ad1a342dcb1cc3ec612.jpg",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/402e1d88-7dbe-494e-b824-500cbb6f7003",
-    "startDate": "2026-08-07",
-    "endDate": "2026-08-09",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-24",
+    "id": "songshan-21",
     "name": "500 甜 2026 甜點派對",
     "type": "exhibition",
     "source": "songshan",
@@ -943,7 +901,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-25",
+    "id": "songshan-22",
     "name": "2027 iF 設計獎說明會Ⅰ｜What the Jury Really Sees 評審看見了什麼？",
     "type": "exhibition",
     "source": "songshan",
@@ -957,7 +915,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-26",
+    "id": "songshan-23",
     "name": "2027 iF 設計獎說明會Ⅱ｜What the Jury Really Sees 評審看見了麼？",
     "type": "exhibition",
     "source": "songshan",
@@ -971,7 +929,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-27",
+    "id": "songshan-24",
     "name": "2026 國際住棚節文化市集",
     "type": "exhibition",
     "source": "songshan",
@@ -985,7 +943,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-28",
+    "id": "songshan-25",
     "name": "迷路森林夏季市集-迷路動物園",
     "type": "exhibition",
     "source": "songshan",
@@ -999,7 +957,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-29",
+    "id": "songshan-26",
     "name": "台灣設計榮耀 2025–2026 紅點設計獎特展",
     "type": "exhibition",
     "source": "songshan",
@@ -1013,7 +971,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-30",
+    "id": "songshan-27",
     "name": "2026 年 iF 設計新秀小聚 | 設計已讀 ECHOES OF JOY",
     "type": "exhibition",
     "source": "songshan",
@@ -1025,7 +983,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-31",
+    "id": "songshan-28",
     "name": "臨時公共空間的臨時展覽",
     "type": "exhibition",
     "source": "songshan",
@@ -1039,7 +997,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-32",
+    "id": "songshan-29",
     "name": "2026 音協認證｜【88顆芭樂籽 阿強】台灣音樂人如何進軍國際？ 曲風創作策略與市場思維",
     "type": "exhibition",
     "source": "songshan",
@@ -1051,7 +1009,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-33",
+    "id": "songshan-30",
     "name": "2026 音協認證｜【尤景文】從舞台到錄音室 職業樂手的實戰養成",
     "type": "exhibition",
     "source": "songshan",
@@ -1063,7 +1021,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-34",
+    "id": "songshan-31",
     "name": "2026 音協認證｜【利啟正】音樂創作者的 YouTube 國際內容策略 內容經營與觀眾建立",
     "type": "exhibition",
     "source": "songshan",
@@ -1072,6 +1030,72 @@
     "district": "臺北市信義區",
     "imageUrl": "https://www.songshanculturalpark.org/gallery/1786071204_59fbeeec2071eaac32f8.jpg",
     "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/588c5fd6-abaf-4931-99fa-f99135421aaa",
+    "goodFor": "both"
+  },
+  {
+    "id": "songshan-32",
+    "name": "KYBUBI POPUP STORE（台北站）",
+    "type": "exhibition",
+    "source": "songshan",
+    "category": "indoor",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1786329306_2c4d5c94343280d74e03.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/c5c7e237-cb4a-4c43-af9e-9a37131613cb",
+    "startDate": "2026-08-06",
+    "endDate": "2026-09-28",
+    "goodFor": "both"
+  },
+  {
+    "id": "songshan-33",
+    "name": "史努比的藝術人生：快閃小巡迴（台北站）",
+    "type": "exhibition",
+    "source": "songshan",
+    "category": "indoor",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1786329688_c72ab11a4cf9d91d6763.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/c64a0dee-b436-408d-b527-b141ab24a202",
+    "startDate": "2026-08-06",
+    "endDate": "2026-09-28",
+    "goodFor": "both"
+  },
+  {
+    "id": "songshan-34",
+    "name": "(NI)CHE 6th Tour「Morning Star」Exhibition 台灣小眾品牌聯合展",
+    "type": "exhibition",
+    "source": "songshan",
+    "category": "indoor",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1786330558_a13eddfb37a914151be4.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/da5b4085-f6de-4a95-89d7-54583130f1a7",
+    "startDate": "2026-08-14",
+    "endDate": "2026-08-16",
+    "goodFor": "both"
+  },
+  {
+    "id": "songshan-35",
+    "name": "從品牌到體驗：設計如何被記住 | 2026 年 iF 設計獎系列講座 (II)",
+    "type": "exhibition",
+    "source": "songshan",
+    "category": "indoor",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1786521777_1f9a707ddd0062c5a83d.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/d1d81f2a-65a0-4f0f-a557-d82785b4adb1",
+    "goodFor": "both"
+  },
+  {
+    "id": "songshan-36",
+    "name": "一場夜遊，如何改變一座城市？「森林夜遊」三年城市實驗大公開！",
+    "type": "exhibition",
+    "source": "songshan",
+    "category": "indoor",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1786527103_7adb0efd48bd67173535.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/bbcd2203-90e5-429b-876b-2d30ff349527",
     "goodFor": "both"
   },
   {
@@ -1208,17 +1232,17 @@
   },
   {
     "id": "twtc-12",
-    "name": "FUN!嗜100",
+    "name": "Fun! 嗜100",
     "type": "exhibition",
     "source": "twtc",
     "category": "indoor",
     "address": "臺北市信義區信義路五段5號",
     "district": "臺北市信義區",
-    "sourceUrl": "http://www.hobbynfun.com.tw",
+    "sourceUrl": "https://www.twtc.com.tw/exhibition_more.aspx?p=home&id=33111",
     "goodFor": "both"
   },
   {
-    "id": "twtc-13",
+    "id": "twtc-14",
     "name": "第11屆台北國際夏季旅展、台灣伴手禮觀光特產展",
     "type": "exhibition",
     "source": "twtc",
@@ -1229,7 +1253,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-14",
+    "id": "twtc-15",
     "name": "2026年第25屆漫畫博覽會、2026年第十屆台北國際電影玩具暨玩具創作大展",
     "type": "exhibition",
     "source": "twtc",
@@ -1240,7 +1264,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-15",
+    "id": "twtc-16",
     "name": "2026年第六屆台北國際娛樂數位內容整合展、2026年第八屆台灣國際電玩電競產業展、2026第六屆台灣國際虛擬/擴增實境應用展",
     "type": "exhibition",
     "source": "twtc",
@@ -1251,7 +1275,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-16",
+    "id": "twtc-17",
     "name": "2026秋冬季台北鞋展",
     "type": "exhibition",
     "source": "twtc",
@@ -1262,7 +1286,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-17",
+    "id": "twtc-18",
     "name": "AI WAVE SHOW -WORLD AI VISION EXHIBITION 2026",
     "type": "exhibition",
     "source": "twtc",
@@ -1273,7 +1297,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-18",
+    "id": "twtc-19",
     "name": "2026台灣美食展",
     "type": "exhibition",
     "source": "twtc",
@@ -1284,7 +1308,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-19",
+    "id": "twtc-20",
     "name": "2026台灣文化創意博覽會、2026臺灣文化創意博覽會「114年文化黑潮之臺灣圖像角色IP品牌發展徵案計畫成果展」",
     "type": "exhibition",
     "source": "twtc",
@@ -1295,7 +1319,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-20",
+    "id": "twtc-21",
     "name": "第三屆高齡健康產業博覽會",
     "type": "exhibition",
     "source": "twtc",
@@ -1306,7 +1330,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-21",
+    "id": "twtc-22",
     "name": "2026上聯台北國際美容美甲美髮展、2026韓國美容展",
     "type": "exhibition",
     "source": "twtc",
@@ -1317,7 +1341,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-22",
+    "id": "twtc-23",
     "name": "2026第十一屆台灣藝術博覽會",
     "type": "exhibition",
     "source": "twtc",
@@ -1328,7 +1352,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-23",
+    "id": "twtc-24",
     "name": "第32屆福爾摩莎家具展暨家設計用品採購節",
     "type": "exhibition",
     "source": "twtc",
@@ -1339,7 +1363,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-24",
+    "id": "twtc-25",
     "name": "創·迴響 2",
     "type": "exhibition",
     "source": "twtc",
@@ -1350,7 +1374,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-25",
+    "id": "twtc-26",
     "name": "2026台北國際自動化工業大展/2026臺灣機器人與智慧自動化展/2026台北國際數位化機械要素展",
     "type": "exhibition",
     "source": "twtc",
@@ -1361,7 +1385,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-26",
+    "id": "twtc-27",
     "name": "2026台灣國際雷射展/2026台北國際自動化工業大展/2026台灣機器人與智慧自動化展/2026台北國際流體傳動與智能控制展/2026台北國際模具暨智慧成型設備展/2026台灣3D列印暨積層製造設備...",
     "type": "exhibition",
     "source": "twtc",
@@ -1372,7 +1396,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-27",
+    "id": "twtc-28",
     "name": "2026台北國際精緻酒展(夏季)",
     "type": "exhibition",
     "source": "twtc",
@@ -1383,7 +1407,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-28",
+    "id": "twtc-29",
     "name": "第14屆台灣國際旅遊展(秋季)/2026台北兩岸旅展/2026台北食品暨伴手禮國際博覽會",
     "type": "exhibition",
     "source": "twtc",
@@ -1394,7 +1418,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-29",
+    "id": "twtc-30",
     "name": "第19屆台北國際蔬食養生．佛事用品工藝品展（秋季）/第17屆台北國際茶文化陶瓷展",
     "type": "exhibition",
     "source": "twtc",
@@ -1405,7 +1429,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-30",
+    "id": "twtc-31",
     "name": "第19屆台北新世代健康展",
     "type": "exhibition",
     "source": "twtc",
@@ -1416,7 +1440,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-31",
+    "id": "twtc-32",
     "name": "2026第五屆亞太永續博覽會",
     "type": "exhibition",
     "source": "twtc",
@@ -1427,7 +1451,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-32",
+    "id": "twtc-33",
     "name": "2026 Build for NextGen 國際永續智慧建築暨智慧建材展",
     "type": "exhibition",
     "source": "twtc",
@@ -1438,7 +1462,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-33",
+    "id": "twtc-34",
     "name": "2026國際半導體展",
     "type": "exhibition",
     "source": "twtc",
@@ -1449,7 +1473,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-34",
+    "id": "twtc-35",
     "name": "2026上聯台北寵物用品博覽會(秋季)",
     "type": "exhibition",
     "source": "twtc",
@@ -1460,7 +1484,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-35",
+    "id": "twtc-36",
     "name": "2026台北兩棲爬蟲展",
     "type": "exhibition",
     "source": "twtc",
@@ -1471,7 +1495,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-36",
+    "id": "twtc-37",
     "name": "第22屆台北3C電腦電器空調影音展",
     "type": "exhibition",
     "source": "twtc",
@@ -1482,7 +1506,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-37",
+    "id": "twtc-38",
     "name": "2026年臺灣智慧農漁週",
     "type": "exhibition",
     "source": "twtc",
@@ -1493,7 +1517,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-38",
+    "id": "twtc-39",
     "name": "2026台北國際室內設計家具名床大展暨居家生活用品展",
     "type": "exhibition",
     "source": "twtc",
@@ -1504,7 +1528,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-39",
+    "id": "twtc-40",
     "name": "CAKE 2026 職涯博覽會",
     "type": "exhibition",
     "source": "twtc",
@@ -1515,7 +1539,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-40",
+    "id": "twtc-41",
     "name": "台北國際塑橡膠工業展",
     "type": "exhibition",
     "source": "twtc",
@@ -1526,7 +1550,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-41",
+    "id": "twtc-42",
     "name": "台灣創新技術博覽會",
     "type": "exhibition",
     "source": "twtc",
@@ -1537,7 +1561,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-42",
+    "id": "twtc-43",
     "name": "日本留學展",
     "type": "exhibition",
     "source": "twtc",
@@ -1548,7 +1572,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-43",
+    "id": "twtc-44",
     "name": "WIRFORCE 2026",
     "type": "exhibition",
     "source": "twtc",
