@@ -1,20 +1,5 @@
 [
   {
-    "id": "culture-music-6a15d2c326b3243414cccb6f",
-    "name": "2026兩廳院夏日爵士 妮可．茱萊提斯演唱會",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號，信義路側",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2047251633170075648",
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-22",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-music-6a1f0d1126b3243414ccce19",
     "name": "2026 Taiwan Connection音樂節—《巔峰之上》",
     "type": "concert",
@@ -42,21 +27,6 @@
     "sourceUrl": "https://www.opentix.life/program/2065415507361705984",
     "startDate": "2026-09-13",
     "endDate": "2026-09-13",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a45485726b32427d0604026",
-    "name": "茱莉亞室內樂團ㄨ藝本道荷蘭國際音樂節 室內樂系列",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區中山南路21-1號",
-    "district": "臺北市中正區",
-    "lat": 25.0367564,
-    "lng": 121.519047,
-    "sourceUrl": "https://www.opentix.life/program/2071439127173529600",
-    "startDate": "2026-08-17",
-    "endDate": "2026-08-17",
     "goodFor": "both"
   },
   {
@@ -120,60 +90,15 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-music-6a68e15526b32427d06042d3",
-    "name": "2026藝本道荷蘭國際音樂節：華山樂週末 I",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "lat": 25.0432788,
-    "lng": 121.5293005,
-    "sourceUrl": "https://www.opentix.life/program/2080511174479077377",
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-22",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a68e15526b32427d06042d4",
-    "name": "2026藝本道荷蘭國際音樂節：華山樂週末 II",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "lat": 25.0432788,
-    "lng": 121.5293005,
-    "sourceUrl": "https://www.opentix.life/program/2080550613079678977",
-    "startDate": "2026-08-23",
-    "endDate": "2026-08-23",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a6b844f26b32427d06042fc",
-    "name": "建國中學校友管樂團2026暑期巡迴音樂會——《松影的彼方》",
-    "type": "concert",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "臺北市中正區延平南路98號",
-    "district": "臺北市中正區",
-    "lat": 25.0425041,
-    "lng": 121.5103541,
-    "sourceUrl": "https://www.opentix.life/program/2077290870417739777",
-    "startDate": "2026-08-19",
-    "endDate": "2026-08-19",
-    "goodFor": "both"
-  },
-  {
     "id": "era-0",
-    "name": "《管樂•Taiwan•金曲》",
+    "name": "2026馬聿明小提琴獨奏會",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026081410413689750830_450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C3DWHA",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202608211035450303450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19CDUHP",
     "goodFor": "both"
   },
   {
@@ -184,7 +109,7 @@
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026081410424610540905_450.jpg",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026082110383650800905_450.jpg",
     "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C3AYD7",
     "goodFor": "both"
   },
@@ -196,20 +121,20 @@
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026081410435490170906_450.jpg",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202608070246356711450.jpg",
     "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AS0EG7",
     "goodFor": "both"
   },
   {
-    "id": "era-5",
-    "name": "2026馬聿明小提琴獨奏會",
+    "id": "era-4",
+    "name": "2026林庭羽鋼琴獨奏會",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026081410514938430831_450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19CDUHP",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026082110454483520911_450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C9TYDZ",
     "goodFor": "both"
   },
   {
@@ -225,13 +150,13 @@
   },
   {
     "id": "kham-1",
-    "name": "2026 小宇 宋念宇《不，完美的人》演唱會",
+    "name": "李國修紀念作品《半里長城》笑噴版 2026台北加演場",
     "type": "concert",
     "source": "kham",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DF32E2",
+    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P17IDZEW",
     "goodFor": "date"
   },
   {
@@ -268,102 +193,7 @@
     "goodFor": "date"
   },
   {
-    "id": "kham-5",
-    "name": "EPEX 4th CONCERT〈ECHO〉IN TAIPEI",
-    "type": "concert",
-    "source": "kham",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXEGM5",
-    "goodFor": "date"
-  },
-  {
     "id": "mna-0",
-    "name": "凱基雋永饗宴—Yo-Yo Ma Live in Concert",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺北國家音樂廳",
-    "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608070945074110.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS27",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-2",
-    "name": "遠東璀璨饗宴—Yo-Yo Ma Live in Concert",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺北國家音樂廳",
-    "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608070945124897.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS28",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-4",
-    "name": "2026臺中國際巨星音樂節 Yo-Yo Ma Live in Concert",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺中國家歌劇院",
-    "district": "臺中市西屯區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608070945189145.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS2A",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-6",
-    "name": "World Premiere - Disney Hits LIVE!",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺北流行音樂中心",
-    "district": "臺北市南港區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607280616009339.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DJYOXZ",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-8",
-    "name": "富邦世紀音樂盛宴 小提琴女神 瑪莉亞．杜尼亞絲",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺北國家音樂廳",
-    "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170703065086.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4TA",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-10",
-    "name": "富邦世紀音樂盛宴 維也納愛樂在臺北",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺北國家音樂廳",
-    "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608061008021388.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS24",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-11",
-    "name": "2026臺中國際巨星音樂節 小提琴女神 瑪莉亞．杜尼亞絲",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺中國家歌劇院",
-    "district": "臺中市西屯區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608061125511350&#x552E;&#x7968;&#x7DB2;&#x53F0;&#x4E2D;640x480&#x66F4;1.jpg",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4T9",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-13",
     "name": "卡普松與傑洛米 來自巴黎鐵塔的浪漫樂章",
     "type": "concert",
     "source": "mna",
@@ -375,7 +205,7 @@
     "goodFor": "both"
   },
   {
-    "id": "mna-14",
+    "id": "mna-1",
     "name": "維也納愛樂在臺北",
     "type": "concert",
     "source": "mna",
@@ -387,7 +217,91 @@
     "goodFor": "both"
   },
   {
-    "id": "mna-15",
+    "id": "mna-2",
+    "name": "富邦世紀音樂盛宴 小提琴女神 瑪莉亞．杜尼亞絲",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170703065086.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4TA",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-4",
+    "name": "2026臺中國際巨星音樂節 小提琴女神 瑪莉亞．杜尼亞絲",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺中國家歌劇院",
+    "district": "臺中市西屯區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608061125511350&#x552E;&#x7968;&#x7DB2;&#x53F0;&#x4E2D;640x480&#x66F4;1.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4T9",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-6",
+    "name": "TWOSET VIOLIN World Tour《Sacrilegious Games》",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170446148755.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D3QYAN",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-7",
+    "name": "遠東璀璨饗宴—Yo-Yo Ma Live in Concert",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/2026082105435913401019&#x552E;&#x7968;&#x7DB2;640x480.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS28",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-9",
+    "name": "全球第一男高音 – 胡安・迪亞戈・佛瑞茲演唱會",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608170358083606.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EB5DN3",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-10",
+    "name": "World Premiere - Disney Hits LIVE!",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北流行音樂中心",
+    "district": "臺北市南港區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608210541053484&#x65B0;&#x552E;&#x7968;&#x7DB2;026404801.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DJYOXZ",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-12",
+    "name": "凱基雋永饗宴—Yo-Yo Ma Live in Concert",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/2026082105442758951018&#x552E;&#x7968;&#x7DB2;640x480.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS27",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-14",
     "name": "BMW Concert 小提琴女神 瑪莉亞．杜尼亞絲",
     "type": "concert",
     "source": "mna",
@@ -399,15 +313,27 @@
     "goodFor": "both"
   },
   {
-    "id": "mna-17",
-    "name": "TWOSET VIOLIN World Tour《Sacrilegious Games》",
+    "id": "mna-16",
+    "name": "富邦世紀音樂盛宴 維也納愛樂在臺北",
     "type": "concert",
     "source": "mna",
     "category": "indoor",
     "address": "臺北國家音樂廳",
     "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170446148755.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D3QYAN",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608061008021388.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS24",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-17",
+    "name": "2026臺中國際巨星音樂節 Yo-Yo Ma Live in Concert",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺中國家歌劇院",
+    "district": "臺中市西屯區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/2026082105441018661021&#x552E;&#x7968;&#x7DB2;640x4801.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS2A",
     "goodFor": "both"
   }
 ]
