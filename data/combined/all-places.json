@@ -84,18 +84,6 @@
     "goodFor": "both"
   },
   {
-    "id": "culture-6a17562f26b3243414cccbd2",
-    "name": "育藝深遠特展《客廳即劇場》",
-    "type": "exhibition",
-    "source": "culture",
-    "category": "indoor",
-    "address": "臺北市文山區景文街32號",
-    "district": "臺北市文山區",
-    "startDate": "2026-01-01",
-    "endDate": "2026-08-31",
-    "goodFor": "both"
-  },
-  {
     "id": "culture-6a1d470226b3243414cccdba",
     "name": "科技藝想樂園",
     "type": "exhibition",
@@ -161,18 +149,6 @@
     "sourceUrl": "https://museum.post.gov.tw/post/Postal_Museum/museum/index.jsp?ID=1525402172794&control_type=page&ne",
     "startDate": "2026-07-11",
     "endDate": "2026-12-31",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-6a319eb026b3243414ccd385",
-    "name": "2026 帝門藝術市集",
-    "type": "exhibition",
-    "source": "culture",
-    "category": "indoor",
-    "address": "臺北市大安區",
-    "district": "臺北市大安區",
-    "startDate": "2026-06-16",
-    "endDate": "2026-08-31",
     "goodFor": "both"
   },
   {
@@ -250,38 +226,6 @@
     "district": "臺北市大安區",
     "startDate": "2026-06-13",
     "endDate": "2026-10-26",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-6a66fa0026b32427d06042ae",
-    "name": "第廿九屆【金鴻獎】全國書法比賽優勝作品展",
-    "type": "exhibition",
-    "source": "culture",
-    "category": "indoor",
-    "address": "臺北市南海路四十七號",
-    "district": "其他",
-    "lat": 25.032319,
-    "lng": 121.51206,
-    "imageUrl": "https://cloud.culture.tw/e_new_upload/task/97b68b43-4653-4595-b7a0-a816818be7c5/4ab9777f22085865cb5fa5430a6ac1414c4ab3b3e866805e104c61f30bd60403a3039a1a33c8a5ac90d3d96f08c30136f39fd04db41f9603bcd699a523bc538c/939a5ec7fb00d6fc8f46202ccc5679608e4f96cf.jpg",
-    "sourceUrl": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4587",
-    "startDate": "2026-08-26",
-    "endDate": "2026-09-06",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-6a66fa0126b32427d06042af",
-    "name": "《流動與凝視》莊振鑫·周淑霞雙個展",
-    "type": "exhibition",
-    "source": "culture",
-    "category": "indoor",
-    "address": "臺北市南海路四十七號",
-    "district": "其他",
-    "lat": 25.032319,
-    "lng": 121.51206,
-    "imageUrl": "https://cloud.culture.tw/e_new_upload/task/97b68b43-4653-4595-b7a0-a816818be7c5/d9a965887bba17e4786083d129b37c525cf848b4a4756da4ab7dd78ca2fc7ee5c148b87245252ed6a88792d7b1e7e45cf6fd2d3b271c9ab9aac4783c916bc424/b10feb8aa2674bef5216cd34aaceef9c2f527869.jpg",
-    "sourceUrl": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4586",
-    "startDate": "2026-08-26",
-    "endDate": "2026-09-06",
     "goodFor": "both"
   },
   {
@@ -367,55 +311,11 @@
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
     "imageUrl": "https://media.huashan1914.com/WebUPD/huashan1914/Header/Logo.png",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26073017505992454",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26090417185573924",
     "goodFor": "both"
   },
   {
-    "id": "huashan-2",
-    "name": "期間限定店",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26072515351894532",
-    "goodFor": "both"
-  },
-  {
-    "id": "huashan-3",
-    "name": "2026貓貓蟲咖波 咖波小浪漫快閃店臺北站",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26060620421857466",
-    "goodFor": "both"
-  },
-  {
-    "id": "huashan-4",
-    "name": "動漫最高祭 Anime Max Festival",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26060620531407778",
-    "goodFor": "both"
-  },
-  {
-    "id": "huashan-5",
-    "name": "OSAMU GOODS 50週年展：原田治的OSAMU GOODS STYLE",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26070817500503214",
-    "goodFor": "both"
-  },
-  {
-    "id": "huashan-6",
+    "id": "huashan-1",
     "name": "MR. LIVING居家先生十週年展- 不將就的十年",
     "type": "exhibition",
     "source": "huashan",
@@ -426,7 +326,51 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-7",
+    "id": "huashan-2",
+    "name": "2026貓貓蟲咖波 咖波小浪漫快閃店臺北站",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26060620421857466",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-3",
+    "name": "動漫最高祭 Anime Max Festival",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26060620531407778",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-4",
+    "name": "OSAMU GOODS 50週年展：原田治的OSAMU GOODS STYLE",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26070817500503214",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-5",
+    "name": "期間限定店",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26072515351894532",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-6",
     "name": "PEANUTS夏日海灘祭",
     "type": "exhibition",
     "source": "huashan",
@@ -437,7 +381,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-8",
+    "id": "huashan-7",
     "name": "夏日萌盒祭",
     "type": "exhibition",
     "source": "huashan",
@@ -445,6 +389,17 @@
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
     "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26080418184795052",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-8",
+    "name": "2026台北國際造型藝術節",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26090114250738176",
     "goodFor": "both"
   },
   {
@@ -471,6 +426,28 @@
   },
   {
     "id": "huashan-11",
+    "name": "市集活動",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26090217051530502",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-12",
+    "name": "鄭豐喜義賣書展",
+    "type": "exhibition",
+    "source": "huashan",
+    "category": "indoor",
+    "address": "臺北市中正區八德路一段1號",
+    "district": "臺北市中正區",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26090114351964571",
+    "goodFor": "both"
+  },
+  {
+    "id": "huashan-13",
     "name": "散步時間Time to Wander 陳盈帆個展08.12-09.29",
     "type": "exhibition",
     "source": "huashan",
@@ -481,18 +458,7 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-12",
-    "name": "島嶼生花",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26061615453738958",
-    "goodFor": "both"
-  },
-  {
-    "id": "huashan-13",
+    "id": "huashan-15",
     "name": "《果子們 特展》",
     "type": "exhibition",
     "source": "huashan",
@@ -503,30 +469,19 @@
     "goodFor": "both"
   },
   {
-    "id": "huashan-15",
-    "name": "光合系 X 未來市",
-    "type": "exhibition",
-    "source": "huashan",
-    "category": "indoor",
-    "address": "臺北市中正區八德路一段1號",
-    "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26082712215776646",
-    "goodFor": "both"
-  },
-  {
     "id": "huashan-16",
-    "name": "JNP 紀念品 by plain-me  快閃店",
+    "name": "島嶼生花",
     "type": "exhibition",
     "source": "huashan",
     "category": "indoor",
     "address": "臺北市中正區八德路一段1號",
     "district": "臺北市中正區",
-    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26080712070005557",
+    "sourceUrl": "https://www.huashan1914.com/w/huashan1914/exhibition_26061615453738958",
     "goodFor": "both"
   },
   {
     "id": "songshan-0",
-    "name": "松山文創園區- 8月展演攻略",
+    "name": "松山文創園區- 9月展演攻略",
     "type": "exhibition",
     "source": "songshan",
     "category": "indoor",
@@ -534,8 +489,8 @@
     "district": "臺北市信義區",
     "imageUrl": "https://www.songshanculturalpark.org/gallery/1642315395_bfb15b6abaee351efd68.jpg",
     "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/757e4366-eb9c-4bf5-b199-c41487afb885",
-    "startDate": "2026-08-01",
-    "endDate": "2026-08-31",
+    "startDate": "2026-09-01",
+    "endDate": "2026-09-30",
     "goodFor": "both"
   },
   {
@@ -680,34 +635,6 @@
   },
   {
     "id": "songshan-11",
-    "name": "PERCENTAGE《GHOST HOME》快閃店",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1784871423_bd12a5cad1aa24f10055.jpg",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/82cc6a2f-f4e6-4eb4-9eb6-b32b89697e5b",
-    "startDate": "2026-07-29",
-    "endDate": "2026-08-30",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-12",
-    "name": "PPULBATU &lt;Hey! APPUL Market&gt; POP-UP in TAIPEI",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1784873882_87cbbc0407ad0efaaa63.jpg",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/e0053678-92f0-4331-a4dd-9e6bf1d996a8",
-    "startDate": "2026-07-30",
-    "endDate": "2026-08-30",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-13",
     "name": "松山文創園區藝術窗框計畫",
     "type": "exhibition",
     "source": "songshan",
@@ -721,7 +648,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-14",
+    "id": "songshan-12",
     "name": "小鳥時光 6.0｜Animal Party 動物派對",
     "type": "exhibition",
     "source": "songshan",
@@ -735,21 +662,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-15",
-    "name": "2027 iF 設計獎說明會Ⅱ｜What the Jury Really Sees 評審看見了麼？",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1785737487_9b06ab6aebe45f85f845.jpg",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/7ae2428e-b77d-47f3-af82-857ca683aba5",
-    "startDate": "2026-09-02",
-    "endDate": "2026-09-02",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-16",
+    "id": "songshan-13",
     "name": "2026 國際住棚節文化市集",
     "type": "exhibition",
     "source": "songshan",
@@ -763,7 +676,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-17",
+    "id": "songshan-14",
     "name": "台灣設計榮耀 2025–2026 紅點設計獎特展",
     "type": "exhibition",
     "source": "songshan",
@@ -777,7 +690,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-18",
+    "id": "songshan-15",
     "name": "臨時公共空間的臨時展覽",
     "type": "exhibition",
     "source": "songshan",
@@ -791,7 +704,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-19",
+    "id": "songshan-16",
     "name": "KYBUBI POPUP STORE（台北站）",
     "type": "exhibition",
     "source": "songshan",
@@ -805,7 +718,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-20",
+    "id": "songshan-17",
     "name": "史努比的藝術人生：快閃小巡迴（台北站）",
     "type": "exhibition",
     "source": "songshan",
@@ -819,19 +732,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-21",
-    "name": "從品牌到體驗：設計如何被記住 | 2026 年 iF 設計獎系列講座 (II)",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1786521777_1f9a707ddd0062c5a83d.jpg",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/d1d81f2a-65a0-4f0f-a557-d82785b4adb1",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-22",
+    "id": "songshan-18",
     "name": "偶像夢幻祭 2 聚光舞台主題快閃店 台北場",
     "type": "exhibition",
     "source": "songshan",
@@ -845,7 +746,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-23",
+    "id": "songshan-19",
     "name": "2026 史上最強球鞋與潮流展會",
     "type": "exhibition",
     "source": "songshan",
@@ -859,7 +760,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-24",
+    "id": "songshan-20",
     "name": "2026 琅琅原創：創作者大會",
     "type": "exhibition",
     "source": "songshan",
@@ -871,19 +772,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-25",
-    "name": "2026 臺北藝術進駐國際沙龍",
-    "type": "exhibition",
-    "source": "songshan",
-    "category": "indoor",
-    "address": "臺北市信義區光復南路133號",
-    "district": "臺北市信義區",
-    "imageUrl": "https://www.songshanculturalpark.org/gallery/1787128191_66e2a504984684500b6b.jpg",
-    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/b076f675-d5c7-4b7f-90bc-9967e047e803",
-    "goodFor": "both"
-  },
-  {
-    "id": "songshan-26",
+    "id": "songshan-21",
     "name": "毛孩藝術生活節 FURever Art Festival : IM”PAW”SIBLE",
     "type": "exhibition",
     "source": "songshan",
@@ -897,7 +786,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-27",
+    "id": "songshan-22",
     "name": "9/5-9/6 Fun 飛福島｜福島縣觀光物產展",
     "type": "exhibition",
     "source": "songshan",
@@ -911,7 +800,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-28",
+    "id": "songshan-23",
     "name": "2026 澳洲教育展 盛大開展",
     "type": "exhibition",
     "source": "songshan",
@@ -920,12 +809,12 @@
     "district": "臺北市信義區",
     "imageUrl": "https://www.songshanculturalpark.org/gallery/1787282013_fa81071c4237eee0a146.jpg",
     "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/ecb119a6-7dd6-4fe4-8c98-97180b206fd1",
-    "startDate": "2026-09-20",
-    "endDate": "2026-09-21",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20",
     "goodFor": "both"
   },
   {
-    "id": "songshan-29",
+    "id": "songshan-24",
     "name": "ANKYUNGMANDOO 眼鏡餃子小鎮 快閃店",
     "type": "exhibition",
     "source": "songshan",
@@ -939,7 +828,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-30",
+    "id": "songshan-25",
     "name": "想 · 未來 | 2026 年 iF 設計獎獲獎作品展 (IV)",
     "type": "exhibition",
     "source": "songshan",
@@ -953,7 +842,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-31",
+    "id": "songshan-26",
     "name": "ASPN Sports Tech Accelerator Batch 3 Demo Day｜運動科技",
     "type": "exhibition",
     "source": "songshan",
@@ -965,7 +854,7 @@
     "goodFor": "both"
   },
   {
-    "id": "songshan-32",
+    "id": "songshan-27",
     "name": "台灣馳翰 2026 秋季藝術品拍賣會",
     "type": "exhibition",
     "source": "songshan",
@@ -979,18 +868,91 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-0",
-    "name": "2026台北烈酒暨白色酒展",
+    "id": "songshan-28",
+    "name": "2026 原創服裝大賞頒獎典禮系列活動",
     "type": "exhibition",
-    "source": "twtc",
+    "source": "songshan",
     "category": "indoor",
-    "address": "臺北市南港區經貿二路1號",
-    "district": "臺北市南港區",
-    "sourceUrl": "http://www.chanchao.com.tw",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1788144062_2ef0f233d32a882fea0e.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/b57ef955-2d9a-4e67-81bc-f99af969f954",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-04",
     "goodFor": "both"
   },
   {
-    "id": "twtc-1",
+    "id": "songshan-29",
+    "name": "釜山・匯流成潮｜國際設計交流展 BUSAN VIBE: WAVE",
+    "type": "exhibition",
+    "source": "songshan",
+    "category": "indoor",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1788331212_5fd4420cf5aa4fad150e.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/ad5c73ca-d05a-450a-b4ce-fcd617e8b353",
+    "startDate": "2026-09-08",
+    "endDate": "2026-11-08",
+    "goodFor": "both"
+  },
+  {
+    "id": "songshan-30",
+    "name": "《Mundo Pixar Experience》皮克斯世界巡迴展 POP-UP 快閃活動",
+    "type": "exhibition",
+    "source": "songshan",
+    "category": "indoor",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1788402378_57639b9a730cebc1c3e3.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/180f0db1-3987-4756-859c-cbf76a695d50",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20",
+    "goodFor": "both"
+  },
+  {
+    "id": "songshan-31",
+    "name": "職感部落 WORK &amp; LIFE TRIBE",
+    "type": "exhibition",
+    "source": "songshan",
+    "category": "indoor",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1788414349_f1217913292660d9e095.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/34164cb7-bced-463a-9d83-66e141e39b8a",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-20",
+    "goodFor": "both"
+  },
+  {
+    "id": "songshan-32",
+    "name": "2026 國家公園低碳生態旅遊成果展",
+    "type": "exhibition",
+    "source": "songshan",
+    "category": "indoor",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1788416262_7a52aa971e9084d9d058.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/59fbad81-05ba-407c-a320-b2084ca00824",
+    "startDate": "2026-09-16",
+    "endDate": "2026-09-17",
+    "goodFor": "both"
+  },
+  {
+    "id": "songshan-33",
+    "name": "2026 臺灣文畫季",
+    "type": "exhibition",
+    "source": "songshan",
+    "category": "indoor",
+    "address": "臺北市信義區光復南路133號",
+    "district": "臺北市信義區",
+    "imageUrl": "https://www.songshanculturalpark.org/gallery/1788500994_cbb624571bd17e2a9884.jpg",
+    "sourceUrl": "https://www.songshanculturalpark.org/exhibition/activity/dd247a8e-4d32-45b0-8453-11629821fe06",
+    "startDate": "2026-09-11",
+    "endDate": "2026-09-13",
+    "goodFor": "both"
+  },
+  {
+    "id": "twtc-0",
     "name": "2026台北國際戶外休閒運動用品展",
     "type": "exhibition",
     "source": "twtc",
@@ -1001,7 +963,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-2",
+    "id": "twtc-1",
     "name": "2026台灣國際創意文具展‧2026台北設計玩創意展",
     "type": "exhibition",
     "source": "twtc",
@@ -1012,7 +974,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-3",
+    "id": "twtc-2",
     "name": "2026展昭台北寵物用品展-經典場",
     "type": "exhibition",
     "source": "twtc",
@@ -1023,7 +985,7 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-4",
+    "id": "twtc-3",
     "name": "第27屆台北3C數位影音家電展",
     "type": "exhibition",
     "source": "twtc",
@@ -1031,6 +993,17 @@
     "address": "臺北市信義區信義路五段5號",
     "district": "臺北市信義區",
     "sourceUrl": "http://www.top-link.com.tw",
+    "goodFor": "both"
+  },
+  {
+    "id": "twtc-4",
+    "name": "2026台北烈酒暨白色酒展",
+    "type": "exhibition",
+    "source": "twtc",
+    "category": "indoor",
+    "address": "臺北市南港區經貿二路1號",
+    "district": "臺北市南港區",
+    "sourceUrl": "http://www.chanchao.com.tw",
     "goodFor": "both"
   },
   {
@@ -1354,17 +1327,6 @@
   },
   {
     "id": "twtc-35",
-    "name": "2026上聯台北寵物用品博覽會(秋季)",
-    "type": "exhibition",
-    "source": "twtc",
-    "category": "indoor",
-    "address": "臺北市信義區信義路五段5號",
-    "district": "臺北市信義區",
-    "sourceUrl": "http://www.top-link.com.tw",
-    "goodFor": "both"
-  },
-  {
-    "id": "twtc-36",
     "name": "2026台北兩棲爬蟲展",
     "type": "exhibition",
     "source": "twtc",
@@ -1375,8 +1337,19 @@
     "goodFor": "both"
   },
   {
-    "id": "twtc-37",
+    "id": "twtc-36",
     "name": "第22屆台北3C電腦電器空調影音展",
+    "type": "exhibition",
+    "source": "twtc",
+    "category": "indoor",
+    "address": "臺北市信義區信義路五段5號",
+    "district": "臺北市信義區",
+    "sourceUrl": "http://www.top-link.com.tw",
+    "goodFor": "both"
+  },
+  {
+    "id": "twtc-37",
+    "name": "2026上聯台北寵物用品博覽會(秋季)",
     "type": "exhibition",
     "source": "twtc",
     "category": "indoor",
@@ -1499,18 +1472,6 @@
   },
   {
     "id": "ntsec-2",
-    "name": "UNIQUE 史萊姆夜光實驗室",
-    "type": "exhibition",
-    "source": "ntsec",
-    "category": "indoor",
-    "address": "臺北市士林區士商路189號",
-    "district": "臺北市士林區",
-    "imageUrl": "https://www.ntsec.gov.tw/images/ArticleListPic/6051_2.png",
-    "sourceUrl": "https://www.ntsec.gov.tw/article/detail.aspx?a=6051",
-    "goodFor": "both"
-  },
-  {
-    "id": "ntsec-3",
     "name": "侏羅紀恐龍奇遇記",
     "type": "exhibition",
     "source": "ntsec",
@@ -1522,7 +1483,7 @@
     "goodFor": "both"
   },
   {
-    "id": "ntsec-4",
+    "id": "ntsec-3",
     "name": "《海洋未來式》The Ocean Will…巡迴特展",
     "type": "exhibition",
     "source": "ntsec",
@@ -1534,7 +1495,7 @@
     "goodFor": "both"
   },
   {
-    "id": "ntsec-5",
+    "id": "ntsec-4",
     "name": "《末日學校》特展",
     "type": "exhibition",
     "source": "ntsec",
@@ -1546,7 +1507,7 @@
     "goodFor": "both"
   },
   {
-    "id": "ntsec-6",
+    "id": "ntsec-5",
     "name": "設計我們的世界-科技性別化創新",
     "type": "exhibition",
     "source": "ntsec",
@@ -1558,7 +1519,7 @@
     "goodFor": "both"
   },
   {
-    "id": "ntsec-7",
+    "id": "ntsec-6",
     "name": "看見分子相遇的奇妙",
     "type": "exhibition",
     "source": "ntsec",
@@ -1570,7 +1531,7 @@
     "goodFor": "both"
   },
   {
-    "id": "ntsec-8",
+    "id": "ntsec-7",
     "name": "技職FUN星際介紹",
     "type": "exhibition",
     "source": "ntsec",
@@ -1593,20 +1554,6 @@
     "startDate": "2026-09-22",
     "endDate": "2026-09-22",
     "goodFor": "both"
-  },
-  {
-    "id": "culture-music-6a3435b926b3243414ccd44e",
-    "name": "2026 岸部真明x伍伍慧台北演奏會 ",
-    "type": "music",
-    "source": "culture-music",
-    "category": "indoor",
-    "address": "台北市南港區中南里忠孝東路七段508號2樓",
-    "district": "臺北市南港區",
-    "sourceUrl": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BXQ4B5",
-    "startDate": "2026-09-06",
-    "endDate": "2026-09-06",
-    "goodFor": "both",
-    "price": "3000、2200、1800、1400、1000"
   },
   {
     "id": "culture-music-6a43972e26b32427d0603f75",
@@ -1653,6 +1600,22 @@
     "price": "2000、1800、1500、1200、900"
   },
   {
+    "id": "culture-music-6a9b2dc826b324165c32e36a",
+    "name": "2026新逸交響樂團年度公演Ⅳ 延續風中的愛公益音樂會",
+    "type": "music",
+    "source": "culture-music",
+    "category": "indoor",
+    "address": "台北市中正區中山南路21-1號",
+    "district": "臺北市中正區",
+    "lat": 25.0367564,
+    "lng": 121.519047,
+    "sourceUrl": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F8SPFR",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-09",
+    "goodFor": "both",
+    "price": "5000、2000、1500、1200、800、500"
+  },
+  {
     "id": "culture-theater-691e361026b32445dce6f05b",
     "name": "2026國光劇團《微劇場》",
     "type": "theater",
@@ -1694,50 +1657,62 @@
   },
   {
     "id": "era-0",
-    "name": "2026馬聿明小提琴獨奏會",
+    "name": "2026 岸部真明x伍伍慧台北演奏會",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/202608211035450303450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19CDUHP",
-    "goodFor": "both"
-  },
-  {
-    "id": "era-1",
-    "name": "「拾年聲華」-國際愛樂國樂團創團十週年音樂會",
-    "type": "concert",
-    "source": "era-ticket",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026082110383650800905_450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C3AYD7",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026083112024851670906_450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BXQ4B5",
     "goodFor": "both"
   },
   {
     "id": "era-2",
-    "name": "拉赫曼尼諾夫 — 音、畫、舞",
-    "type": "concert",
-    "source": "era-ticket",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026082604364145120906_450.jpg",
-    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AS0EG7",
-    "goodFor": "both"
-  },
-  {
-    "id": "era-4",
     "name": "2026林庭羽鋼琴獨奏會",
     "type": "concert",
     "source": "era-ticket",
     "category": "indoor",
     "address": "台北市",
     "district": "不限",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026082110454483520911_450.jpg",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026083112053034990911_450.jpg",
     "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C9TYDZ",
+    "goodFor": "both"
+  },
+  {
+    "id": "era-3",
+    "name": "哥雅畫冊：熱戀中的男女",
+    "type": "concert",
+    "source": "era-ticket",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026083112064835070915_450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CDES7P",
+    "goodFor": "both"
+  },
+  {
+    "id": "era-4",
+    "name": "《心情點播站》",
+    "type": "concert",
+    "source": "era-ticket",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026083112075949710920_450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DBS5V9",
+    "goodFor": "both"
+  },
+  {
+    "id": "era-5",
+    "name": "2026樂韻飛揚音樂會",
+    "type": "concert",
+    "source": "era-ticket",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/ERA//Images/ADImages/2026083112094269320926_450.jpg",
+    "sourceUrl": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DLR4TH",
     "goodFor": "both"
   },
   {
@@ -1753,6 +1728,28 @@
   },
   {
     "id": "kham-1",
+    "name": "2026 SHOW MUSICAL《WILD WILD》",
+    "type": "concert",
+    "source": "kham",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F4200H",
+    "goodFor": "date"
+  },
+  {
+    "id": "kham-2",
+    "name": "2026 N.Flying LIVE‘&CON5：into REM’IN KAOHSIUNG",
+    "type": "concert",
+    "source": "kham",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F24HRG",
+    "goodFor": "date"
+  },
+  {
+    "id": "kham-3",
     "name": "【2/27場次】BIGBANG 2026-2027 WORLD TOUR〈 XX：COSMOS 〉IN KAOHSIUNG",
     "type": "concert",
     "source": "kham",
@@ -1763,7 +1760,7 @@
     "goodFor": "date"
   },
   {
-    "id": "kham-2",
+    "id": "kham-4",
     "name": "【2/28場次】BIGBANG 2026-2027 WORLD TOUR〈 XX：COSMOS 〉IN KAOHSIUNG",
     "type": "concert",
     "source": "kham",
@@ -1774,7 +1771,7 @@
     "goodFor": "date"
   },
   {
-    "id": "kham-3",
+    "id": "kham-5",
     "name": "2026吉卜力動畫音樂原唱歌手交響演唱會",
     "type": "concert",
     "source": "kham",
@@ -1785,37 +1782,15 @@
     "goodFor": "date"
   },
   {
-    "id": "kham-4",
-    "name": "【10/24場次】MUSIC EXPO LIVE 2026 in TAIPEI",
-    "type": "concert",
-    "source": "kham",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CXNJEX",
-    "goodFor": "date"
-  },
-  {
-    "id": "kham-5",
-    "name": "國泰世華銀行 彭佳慧《數著時間的日子》巡迴演唱會",
-    "type": "concert",
-    "source": "kham",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D3G65D",
-    "goodFor": "date"
-  },
-  {
     "id": "mna-0",
-    "name": "全球第一男高音 – 胡安・迪亞戈・佛瑞茲演唱會",
+    "name": "玉山音樂饗宴—指揮大師提勒曼與柏林國家歌劇院管弦樂團",
     "type": "concert",
     "source": "mna",
     "category": "indoor",
     "address": "臺北國家音樂廳",
     "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608170358083606.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EB5DN3",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202609030545016374.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ETF1DD",
     "goodFor": "both"
   },
   {
@@ -1838,84 +1813,12 @@
     "category": "indoor",
     "address": "臺北國家音樂廳",
     "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170446148755.JPG",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202609030612286148.JPG",
     "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D3QYAN",
     "goodFor": "both"
   },
   {
     "id": "mna-4",
-    "name": "富邦世紀音樂盛宴 小提琴女神 瑪莉亞．杜尼亞絲",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺北國家音樂廳",
-    "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170703065086.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4TA",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-6",
-    "name": "2026臺中國際巨星音樂節 小提琴女神 瑪莉亞．杜尼亞絲",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺中國家歌劇院",
-    "district": "臺中市西屯區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608061125511350&#x552E;&#x7968;&#x7DB2;&#x53F0;&#x4E2D;640x480&#x66F4;1.jpg",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4T9",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-8",
-    "name": "維也納愛樂在臺北",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺北國家音樂廳",
-    "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608061008064604.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS26",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-9",
-    "name": "富邦世紀音樂盛宴 維也納愛樂在臺北",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺北國家音樂廳",
-    "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608061008021388.JPG",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS24",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-10",
-    "name": "凱基雋永饗宴—Yo-Yo Ma Live in Concert",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺北國家音樂廳",
-    "district": "臺北市中正區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/2026082105442758951018&#x552E;&#x7968;&#x7DB2;640x480.jpg",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS27",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-12",
-    "name": "2026臺中國際巨星音樂節 Yo-Yo Ma Live in Concert",
-    "type": "concert",
-    "source": "mna",
-    "category": "indoor",
-    "address": "臺中國家歌劇院",
-    "district": "臺中市西屯區",
-    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/2026082105441018661021&#x552E;&#x7968;&#x7DB2;640x4801.jpg",
-    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS2A",
-    "goodFor": "both"
-  },
-  {
-    "id": "mna-14",
     "name": "卡普松與傑洛米 來自巴黎鐵塔的浪漫樂章",
     "type": "concert",
     "source": "mna",
@@ -1927,7 +1830,7 @@
     "goodFor": "both"
   },
   {
-    "id": "mna-15",
+    "id": "mna-5",
     "name": "BMW Concert 小提琴女神 瑪莉亞．杜尼亞絲",
     "type": "concert",
     "source": "mna",
@@ -1939,7 +1842,115 @@
     "goodFor": "both"
   },
   {
+    "id": "mna-7",
+    "name": "富邦世紀音樂盛宴 維也納愛樂在臺北",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608061008021388.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS24",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-8",
+    "name": "2026臺中國際巨星音樂節 Yo-Yo Ma Live in Concert",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺中國家歌劇院",
+    "district": "臺中市西屯區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/2026082105441018661021&#x552E;&#x7968;&#x7DB2;640x4801.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS2A",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-10",
+    "name": "2026萬海慈善音樂饗宴—指揮大師提勒曼與柏林國家歌劇院管弦",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202609030623373121&#x552E;&#x7968;&#x7DB2;1122&#x7121;bmw640X480&#x66F4;.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ETF1DE",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-11",
+    "name": "指揮大師提勒曼與柏林國家歌劇院管弦樂團",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202609030545145304.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ETF1DF",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-12",
+    "name": "2026臺中國際巨星音樂節 小提琴女神 瑪莉亞．杜尼亞絲",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺中國家歌劇院",
+    "district": "臺中市西屯區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608061125511350&#x552E;&#x7968;&#x7DB2;&#x53F0;&#x4E2D;640x480&#x66F4;1.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4T9",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-14",
+    "name": "全球第一男高音 – 胡安・迪亞戈・佛瑞茲演唱會",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608170358083606.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EB5DN3",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-15",
+    "name": "富邦世紀音樂盛宴 小提琴女神 瑪莉亞．杜尼亞絲",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202607170703065086.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CNT4TA",
+    "goodFor": "both"
+  },
+  {
     "id": "mna-17",
+    "name": "凱基雋永饗宴—Yo-Yo Ma Live in Concert",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/2026082105442758951018&#x552E;&#x7968;&#x7DB2;640x480.jpg",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS27",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-19",
+    "name": "維也納愛樂在臺北",
+    "type": "concert",
+    "source": "mna",
+    "category": "indoor",
+    "address": "臺北國家音樂廳",
+    "district": "臺北市中正區",
+    "imageUrl": "https://imgs2.utiki.com.tw/Data/MNA1//Images/ADImages/202608061008064604.JPG",
+    "sourceUrl": "https://ticket.mna.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DXKS26",
+    "goodFor": "both"
+  },
+  {
+    "id": "mna-20",
     "name": "遠東璀璨饗宴—Yo-Yo Ma Live in Concert",
     "type": "concert",
     "source": "mna",
@@ -2281,29 +2292,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-31",
-    "name": "臺北爵士大樂隊 -老派趴踢Night",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2034103180744253440",
-    "goodFor": "both"
-  },
-  {
     "id": "opentix-32",
-    "name": "《小小音樂大師課》孩子們的夏季交響樂・臺北",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2047126673158291457",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-34",
     "name": "埃及木乃伊—永生傳說",
     "type": "music",
     "source": "opentix",
@@ -2314,7 +2303,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-35",
+    "id": "opentix-33",
     "name": "圓潤的魔法 波特羅特展",
     "type": "music",
     "source": "opentix",
@@ -2325,7 +2314,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-36",
+    "id": "opentix-34",
     "name": "世界古文明 沉浸體驗展 高雄站",
     "type": "music",
     "source": "opentix",
@@ -2336,7 +2325,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-37",
+    "id": "opentix-35",
     "name": "新藝境：慕夏百年經典特展",
     "type": "music",
     "source": "opentix",
@@ -2347,7 +2336,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-39",
+    "id": "opentix-37",
     "name": "《聲之響宴:宮崎駿動畫音樂會》",
     "type": "music",
     "source": "opentix",
@@ -2358,7 +2347,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-40",
+    "id": "opentix-38",
     "name": "《聲動漫:ACG音樂祭》",
     "type": "music",
     "source": "opentix",
@@ -2369,7 +2358,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-41",
+    "id": "opentix-39",
     "name": "職男人生11-開始新生活",
     "type": "music",
     "source": "opentix",
@@ -2380,7 +2369,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-43",
+    "id": "opentix-41",
     "name": "動物王國大探險展-比薩大學自然史博物館",
     "type": "music",
     "source": "opentix",
@@ -2391,18 +2380,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-44",
-    "name": "2026金曲迴響 經典再現 懷舊金曲音樂會",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2059475302770937856",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-45",
+    "id": "opentix-42",
     "name": "古典光影大師 林布蘭到哥雅－托雷多美術館珍藏展 I",
     "type": "music",
     "source": "opentix",
@@ -2413,7 +2391,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-46",
+    "id": "opentix-43",
     "name": "「雲在兩千米」｜北師美術館",
     "type": "music",
     "source": "opentix",
@@ -2424,29 +2402,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-47",
-    "name": "流光藝境",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2056265427831562240",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-48",
-    "name": "【朱宗慶打擊樂團２】2026豆莢寶寶兒童音樂會《咻咻～魔幻擊樂秀》",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2046829520049606657",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-49",
+    "id": "opentix-44",
     "name": "娛人時代 X 暴羅WALK《人在江湖，不在家》重出江湖",
     "type": "music",
     "source": "opentix",
@@ -2457,7 +2413,194 @@
     "goodFor": "both"
   },
   {
+    "id": "opentix-45",
+    "name": "躍演《勸世三姊妹》中文音樂劇",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2051591825313611777",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-46",
+    "name": "新手村 取票",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2064178939641864193",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-47",
+    "name": "【相聲瓦舍】《啖噓呵嘻吸吹呼》",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2048966343179272192",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-48",
+    "name": "愛上木笛",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2049025062059745280",
+    "goodFor": "both"
+  },
+  {
     "id": "atm-0",
+    "name": "希望：末日血戰",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fhko27369017/",
+    "startDate": "2026-9-4",
+    "goodFor": "both",
+    "price": "156分鐘"
+  },
+  {
+    "id": "atm-1",
+    "name": "墜2",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/ffen31192372/",
+    "startDate": "2026-9-4",
+    "goodFor": "both",
+    "price": "97分鐘"
+  },
+  {
+    "id": "atm-2",
+    "name": "天鵝與蝙蝠",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fgjp59474074/",
+    "startDate": "2026-9-4",
+    "goodFor": "both",
+    "price": "146分鐘"
+  },
+  {
+    "id": "atm-3",
+    "name": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fmja14521412/",
+    "startDate": "2026-9-4",
+    "goodFor": "both",
+    "price": "119分鐘"
+  },
+  {
+    "id": "atm-4",
+    "name": "超人力霸王．起源",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fojp43564240/",
+    "startDate": "2026-9-4",
+    "goodFor": "both",
+    "price": "105分鐘"
+  },
+  {
+    "id": "atm-5",
+    "name": "今晚我想來點棒的",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fgfr38607784/",
+    "startDate": "2026-9-4",
+    "goodFor": "both",
+    "price": "88分鐘"
+  },
+  {
+    "id": "atm-6",
+    "name": "我的爸爸是死刑犯",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fmcn88774296/",
+    "startDate": "2026-9-4",
+    "goodFor": "both",
+    "price": "111分鐘"
+  },
+  {
+    "id": "atm-7",
+    "name": "超時空甩尾 經典重映",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/frjp51714890/",
+    "startDate": "2021-2-19",
+    "goodFor": "both",
+    "price": "102分鐘"
+  },
+  {
+    "id": "atm-8",
+    "name": "愛在記憶褪色時",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fade39602467/",
+    "startDate": "2026-9-4",
+    "goodFor": "both",
+    "price": "102分鐘"
+  },
+  {
+    "id": "atm-9",
+    "name": "世界上最爛的人",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fwno10370710/",
+    "startDate": "2022-2-18",
+    "goodFor": "both",
+    "price": "127分鐘"
+  },
+  {
+    "id": "atm-10",
+    "name": "最後的作業",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fyko34539004/",
+    "startDate": "2026-9-4",
+    "goodFor": "both",
+    "price": "108分鐘"
+  },
+  {
+    "id": "atm-11",
     "name": "網紅老爸",
     "type": "movie",
     "source": "atmovies",
@@ -2465,12 +2608,12 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/fpcn46256167/",
-    "startDate": "2026-8-27",
+    "startDate": "2026-9-4",
     "goodFor": "both",
-    "price": "122分鐘"
+    "price": "108分鐘"
   },
   {
-    "id": "atm-1",
+    "id": "atm-12",
     "name": "粽邪4",
     "type": "movie",
     "source": "atmovies",
@@ -2480,218 +2623,10 @@
     "sourceUrl": "https://www.atmovies.com.tw/movie/frcn38633224/",
     "startDate": "2026-8-27",
     "goodFor": "both",
-    "price": "100分鐘"
-  },
-  {
-    "id": "atm-2",
-    "name": "寂地",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fden21285562/",
-    "startDate": "2026-8-27",
-    "goodFor": "both",
-    "price": "118分鐘"
-  },
-  {
-    "id": "atm-3",
-    "name": "尪某殺必死",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fjen36948232/",
-    "startDate": "2026-8-28",
-    "goodFor": "both",
-    "price": "96分鐘"
-  },
-  {
-    "id": "atm-4",
-    "name": "最終樂章 吹響吧！上低音號 前篇",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fsjp39123182/",
-    "startDate": "2026-8-28",
-    "goodFor": "both",
-    "price": "120分鐘"
-  },
-  {
-    "id": "atm-5",
-    "name": "驀然回首(2024)",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fljp31711040/",
-    "startDate": "2024-1-17",
-    "goodFor": "both",
-    "price": "57分鐘"
-  },
-  {
-    "id": "atm-6",
-    "name": "開放性邀請",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fien14173636/",
-    "startDate": "2026-8-28",
-    "goodFor": "both",
-    "price": "106分鐘"
-  },
-  {
-    "id": "atm-7",
-    "name": "航海王劇場版：強者天下",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fojp99902121/",
-    "startDate": "2010-1-29",
-    "goodFor": "both",
-    "price": "114分鐘"
-  },
-  {
-    "id": "atm-8",
-    "name": "攻殼機動隊1995",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fgjp50113568/",
-    "startDate": "2017-5-5",
-    "goodFor": "both",
-    "price": "83分鐘"
-  },
-  {
-    "id": "atm-9",
-    "name": "炎上",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fbjp39150067/",
-    "startDate": "2026-8-28",
-    "goodFor": "both",
-    "price": "103分鐘"
-  },
-  {
-    "id": "atm-10",
-    "name": "哈利波特：神祕的魔法石",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fhatm0894229/",
-    "startDate": "2021-12-3",
-    "goodFor": "both",
-    "price": "152分鐘"
-  },
-  {
-    "id": "atm-11",
-    "name": "世界末日愛上你",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fpfr33335204/",
-    "startDate": "2026-8-28",
-    "goodFor": "both",
-    "price": "100分鐘"
-  },
-  {
-    "id": "atm-12",
-    "name": "八月三十一我在奧斯陸",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fono91736633/",
-    "startDate": "2020-8-28",
-    "goodFor": "both",
-    "price": "95分鐘"
+    "price": "122分鐘"
   },
   {
     "id": "atm-13",
-    "name": "小鯊鯊出門去：大城市的小夥伴",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fsja36592995/",
-    "startDate": "2026-8-28",
-    "goodFor": "both",
-    "price": "72分鐘"
-  },
-  {
-    "id": "atm-14",
-    "name": "把哥哥變成可以攜帶的尺寸",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fbja38504671/",
-    "startDate": "2026-8-28",
-    "goodFor": "both",
-    "price": "127分鐘"
-  },
-  {
-    "id": "atm-15",
-    "name": "她復出的那天",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fdko39368030/",
-    "startDate": "2026-8-28",
-    "goodFor": "both",
-    "price": "84分鐘"
-  },
-  {
-    "id": "atm-16",
-    "name": "銀河寫手",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fgcn28350761/",
-    "startDate": "2026-8-28",
-    "goodFor": "both",
-    "price": "104分鐘"
-  },
-  {
-    "id": "atm-17",
-    "name": "大風殺",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/ftcn36375652/",
-    "startDate": "2026-8-28",
-    "goodFor": "both",
-    "price": "130分鐘"
-  },
-  {
-    "id": "atm-18",
     "name": "蜘蛛人：重生日",
     "type": "movie",
     "source": "atmovies",
@@ -2699,25 +2634,12 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/fsen22084616/",
-    "startDate": "2026-8-28",
+    "startDate": "2026-8-27",
     "goodFor": "both",
-    "price": "130分鐘"
+    "price": "100分鐘"
   },
   {
-    "id": "atm-19",
-    "name": "陰兒房：穿越陰深處",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fien32393988/",
-    "startDate": "2026-7-29",
-    "goodFor": "both",
-    "price": "145分鐘"
-  },
-  {
-    "id": "atm-20",
+    "id": "atm-14",
     "name": "奧德賽",
     "type": "movie",
     "source": "atmovies",
@@ -2725,51 +2647,12 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/foen33764258/",
-    "startDate": "2026-8-19",
+    "startDate": "2026-7-29",
     "goodFor": "both",
-    "price": "105分鐘"
+    "price": "145分鐘"
   },
   {
-    "id": "atm-21",
-    "name": "汪汪隊立大功：恐龍大電影",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fpen29356163/",
-    "startDate": "2026-7-17",
-    "goodFor": "both",
-    "price": "172分鐘"
-  },
-  {
-    "id": "atm-22",
-    "name": "橡樹街末日",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/feen27165187/",
-    "startDate": "2026-8-14",
-    "goodFor": "both",
-    "price": "88分鐘"
-  },
-  {
-    "id": "atm-23",
-    "name": "劇場版 吉伊卡哇 人魚島的秘密",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fnjp39026173/",
-    "startDate": "2026-8-12",
-    "goodFor": "both",
-    "price": "99分鐘"
-  },
-  {
-    "id": "atm-24",
+    "id": "atm-15",
     "name": "愛你致死不渝",
     "type": "movie",
     "source": "atmovies",
@@ -2777,12 +2660,51 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/foen37287335/",
+    "startDate": "2026-7-17",
+    "goodFor": "both",
+    "price": "172分鐘"
+  },
+  {
+    "id": "atm-16",
+    "name": "劇場版 吉伊卡哇 人魚島的秘密",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fnjp39026173/",
+    "startDate": "2026-8-7",
+    "goodFor": "both",
+    "price": "109分鐘"
+  },
+  {
+    "id": "atm-17",
+    "name": "汪汪隊立大功：恐龍大電影",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fpen29356163/",
     "startDate": "2026-7-31",
     "goodFor": "both",
     "price": "99分鐘"
   },
   {
-    "id": "atm-25",
+    "id": "atm-18",
+    "name": "寂地",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fden21285562/",
+    "startDate": "2026-8-14",
+    "goodFor": "both",
+    "price": "88分鐘"
+  },
+  {
+    "id": "atm-19",
     "name": "玩命航線",
     "type": "movie",
     "source": "atmovies",
@@ -2790,12 +2712,12 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/fmen32338669/",
-    "startDate": "2026-8-7",
+    "startDate": "2026-8-27",
     "goodFor": "both",
-    "price": "109分鐘"
+    "price": "118分鐘"
   },
   {
-    "id": "atm-26",
+    "id": "atm-20",
     "name": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
     "type": "movie",
     "source": "atmovies",
@@ -2808,20 +2730,137 @@
     "price": "95分鐘"
   },
   {
-    "id": "atm-27",
-    "name": "一夜限定",
+    "id": "atm-21",
+    "name": "橡樹街末日",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/foen37853455/",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/feen27165187/",
     "startDate": "2026-8-7",
     "goodFor": "both",
     "price": "100分鐘"
   },
   {
+    "id": "atm-22",
+    "name": "陰兒房：穿越陰深處",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fien32393988/",
+    "startDate": "2026-8-12",
+    "goodFor": "both",
+    "price": "99分鐘"
+  },
+  {
+    "id": "atm-23",
+    "name": "驀然回首(2024)",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fljp31711040/",
+    "startDate": "2026-8-19",
+    "goodFor": "both",
+    "price": "105分鐘"
+  },
+  {
+    "id": "atm-24",
+    "name": "航海王",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fojp91245632/",
+    "startDate": "2024-1-17",
+    "goodFor": "both",
+    "price": "57分鐘"
+  },
+  {
+    "id": "atm-25",
+    "name": "攻殼機動隊1995",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fgjp50113568/",
+    "startDate": "2006-10-5",
+    "goodFor": "both",
+    "price": "94分鐘"
+  },
+  {
+    "id": "atm-26",
+    "name": "八月三十一我在奧斯陸",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fono91736633/",
+    "startDate": "2017-5-5",
+    "goodFor": "both",
+    "price": "83分鐘"
+  },
+  {
+    "id": "atm-27",
+    "name": "Last Man ー全盲搜查官ー 劇場版",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/flja38691555/",
+    "startDate": "2020-8-28",
+    "goodFor": "both",
+    "price": "95分鐘"
+  },
+  {
     "id": "atm-28",
+    "name": "父親回來的那一天",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fmen35695538/",
+    "startDate": "2026-8-21",
+    "goodFor": "both",
+    "price": "126分鐘"
+  },
+  {
+    "id": "atm-29",
+    "name": "你的名字。(十周年重映)",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fycn55311514/",
+    "startDate": "2026-8-21",
+    "goodFor": "both",
+    "price": "93分鐘"
+  },
+  {
+    "id": "atm-30",
+    "name": "開放性邀請",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fien14173636/",
+    "startDate": "2024-9-13",
+    "goodFor": "both",
+    "price": "107分鐘"
+  },
+  {
+    "id": "atm-31",
     "name": "藍色監獄",
     "type": "movie",
     "source": "atmovies",
@@ -2829,48 +2868,9 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/fbjp39400168/",
-    "startDate": "2026-8-19",
+    "startDate": "2026-8-28",
     "goodFor": "both",
-    "price": "102分鐘"
-  },
-  {
-    "id": "atm-29",
-    "name": "名偵探柯南 高速公路的墮天使",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fdjp94776409/",
-    "startDate": "2026-8-12",
-    "goodFor": "both",
-    "price": "127分鐘"
-  },
-  {
-    "id": "atm-30",
-    "name": "電影哆啦A夢：新‧大雄的海底鬼岩城",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fnjp38201958/",
-    "startDate": "2026-6-24",
-    "goodFor": "both",
-    "price": "108分鐘"
-  },
-  {
-    "id": "atm-31",
-    "name": "玩具總動員5",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/ften29355505/",
-    "startDate": "2026-7-8",
-    "goodFor": "both",
-    "price": "100分鐘"
+    "price": "106分鐘"
   },
   {
     "id": "atm-32",
@@ -2881,38 +2881,77 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/fnen35522483/",
-    "startDate": "2026-6-17",
+    "startDate": "2026-8-12",
     "goodFor": "both",
-    "price": "102分鐘"
+    "price": "127分鐘"
   },
   {
     "id": "atm-33",
-    "name": "野生狂廚",
+    "name": "名偵探柯南 高速公路的墮天使",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/ften33095251/",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fdjp94776409/",
     "startDate": "2026-8-14",
     "goodFor": "both",
     "price": "99分鐘"
   },
   {
     "id": "atm-34",
-    "name": "Last Man ー全盲搜查官ー 劇場版",
+    "name": "最終樂章 吹響吧！上低音號 前篇",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/flja38691555/",
-    "startDate": "2026-8-21",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fsjp39123182/",
+    "startDate": "2026-6-24",
     "goodFor": "both",
-    "price": "106分鐘"
+    "price": "108分鐘"
   },
   {
     "id": "atm-35",
+    "name": "電影哆啦A夢：新‧大雄的海底鬼岩城",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fnjp38201958/",
+    "startDate": "2026-8-28",
+    "goodFor": "both",
+    "price": "120分鐘"
+  },
+  {
+    "id": "atm-36",
+    "name": "尪某殺必死",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fjen36948232/",
+    "startDate": "2026-7-8",
+    "goodFor": "both",
+    "price": "100分鐘"
+  },
+  {
+    "id": "atm-37",
+    "name": "催眠麥克風",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fhjp34571222/",
+    "startDate": "2026-8-28",
+    "goodFor": "both",
+    "price": "96分鐘"
+  },
+  {
+    "id": "atm-38",
     "name": "電影 Idol光之美少女 你與我♪久等了！",
     "type": "movie",
     "source": "atmovies",
@@ -2920,51 +2959,90 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/fyjp36607192/",
-    "startDate": "2026-8-21",
+    "startDate": "2026-4-29",
     "goodFor": "both",
-    "price": "126分鐘"
+    "price": "328分鐘"
   },
   {
-    "id": "atm-36",
-    "name": "魔法少女小圓劇場版",
+    "id": "atm-39",
+    "name": "一夜限定",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fpjp92457282/",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/foen37853455/",
     "startDate": "2026-8-21",
     "goodFor": "both",
     "price": "71分鐘"
   },
   {
-    "id": "atm-37",
-    "name": "偶像學園！×星光樂園 THE MOVIE -相遇的奇蹟！",
+    "id": "atm-40",
+    "name": "世界末日愛上你",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fajp36635947/",
-    "startDate": "2021-10-3",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fpfr33335204/",
+    "startDate": "2026-8-19",
     "goodFor": "both",
-    "price": "121分鐘"
+    "price": "102分鐘"
   },
   {
-    "id": "atm-38",
-    "name": "在世界的盡頭相遇",
+    "id": "atm-41",
+    "name": "小鯊鯊出門去：大城市的小夥伴",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fmjp38755605/",
-    "startDate": "2026-8-7",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fsja36592995/",
+    "startDate": "2026-8-28",
     "goodFor": "both",
-    "price": "75分鐘"
+    "price": "100分鐘"
   },
   {
-    "id": "atm-39",
+    "id": "atm-42",
+    "name": "野生狂廚",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/ften33095251/",
+    "startDate": "2026-8-28",
+    "goodFor": "both",
+    "price": "72分鐘"
+  },
+  {
+    "id": "atm-43",
+    "name": "炎上",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fbjp39150067/",
+    "startDate": "2026-8-21",
+    "goodFor": "both",
+    "price": "106分鐘"
+  },
+  {
+    "id": "atm-44",
+    "name": "航海王劇場版：強者天下",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fojp99902121/",
+    "startDate": "2026-8-28",
+    "goodFor": "both",
+    "price": "103分鐘"
+  },
+  {
+    "id": "atm-45",
     "name": "愛的魔樣",
     "type": "movie",
     "source": "atmovies",
@@ -2972,12 +3050,38 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/flen39143902/",
-    "startDate": "2026-8-21",
+    "startDate": "2010-1-29",
     "goodFor": "both",
-    "price": "127分鐘"
+    "price": "114分鐘"
   },
   {
-    "id": "atm-40",
+    "id": "atm-46",
+    "name": "玩具總動員5",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/ften29355505/",
+    "startDate": "2026-8-14",
+    "goodFor": "both",
+    "price": "88分鐘"
+  },
+  {
+    "id": "atm-47",
+    "name": "在世界的盡頭相遇",
+    "type": "movie",
+    "source": "atmovies",
+    "category": "indoor",
+    "address": "全台各大影城",
+    "district": "不限",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fmjp38755605/",
+    "startDate": "2026-6-17",
+    "goodFor": "both",
+    "price": "102分鐘"
+  },
+  {
+    "id": "atm-48",
     "name": "終戰那一天",
     "type": "movie",
     "source": "atmovies",
@@ -2985,51 +3089,51 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/fdcn54620499/",
-    "startDate": "2026-8-14",
+    "startDate": "2026-8-21",
     "goodFor": "both",
-    "price": "88分鐘"
+    "price": "127分鐘"
   },
   {
-    "id": "atm-41",
-    "name": "巧虎電影：勇氣之歌",
+    "id": "atm-49",
+    "name": "偶像學園！×星光樂園 THE MOVIE -相遇的奇蹟！",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fszh81116428/",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fajp36635947/",
     "startDate": "2026-8-14",
     "goodFor": "both",
     "price": "96分鐘"
   },
   {
-    "id": "atm-42",
-    "name": "18顆鑽石",
+    "id": "atm-50",
+    "name": "把哥哥變成可以攜帶的尺寸",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fdit32810496/",
-    "startDate": "2026-2-6",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fbja38504671/",
+    "startDate": "2026-8-7",
     "goodFor": "both",
-    "price": "60分鐘"
+    "price": "75分鐘"
   },
   {
-    "id": "atm-43",
-    "name": "愛重奏",
+    "id": "atm-51",
+    "name": "她復出的那天",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/frno50211933/",
-    "startDate": "2026-8-21",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fdko39368030/",
+    "startDate": "2026-8-28",
     "goodFor": "both",
-    "price": "135分鐘"
+    "price": "127分鐘"
   },
   {
-    "id": "atm-44",
+    "id": "atm-52",
     "name": "劇場版 境界的彼方 -I'LL BE HERE- 未來篇",
     "type": "movie",
     "source": "atmovies",
@@ -3037,25 +3141,12 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/fbjp94539114/",
-    "startDate": "2022-9-2",
+    "startDate": "2026-8-28",
     "goodFor": "both",
-    "price": "105分鐘"
+    "price": "84分鐘"
   },
   {
-    "id": "atm-45",
-    "name": "特務搞飛機2",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/foko43669175/",
-    "startDate": "2026-8-21",
-    "goodFor": "both",
-    "price": "90分鐘"
-  },
-  {
-    "id": "atm-46",
+    "id": "atm-53",
     "name": "小小兵&大怪獸",
     "type": "movie",
     "source": "atmovies",
@@ -3063,139 +3154,48 @@
     "address": "全台各大影城",
     "district": "不限",
     "sourceUrl": "https://www.atmovies.com.tw/movie/fmen32890033/",
-    "startDate": "2026-8-12",
+    "startDate": "2026-8-21",
     "goodFor": "both",
-    "price": "108分鐘"
+    "price": "90分鐘"
   },
   {
-    "id": "atm-47",
-    "name": "腎上腺 母侵",
+    "id": "atm-54",
+    "name": "大風殺",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/facn56462904/",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/ftcn36375652/",
     "startDate": "2026-6-30",
     "goodFor": "both",
     "price": "90分鐘"
   },
   {
-    "id": "atm-48",
-    "name": "你的名字。(十周年重映)",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fycn55311514/",
-    "startDate": "2026-6-12",
-    "goodFor": "both",
-    "price": "126分鐘"
-  },
-  {
-    "id": "atm-49",
-    "name": "一個部門的誕生",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fdhk35111865/",
-    "startDate": "2024-9-13",
-    "goodFor": "both",
-    "price": "107分鐘"
-  },
-  {
-    "id": "atm-50",
-    "name": "長尾豹歷險記",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fmfr33029380/",
-    "startDate": "2026-8-21",
-    "goodFor": "both",
-    "price": "109分鐘"
-  },
-  {
-    "id": "atm-51",
-    "name": "TOMORROW X TOGETHER VR CONCERT : ENDLESS",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/ftko99799079/",
-    "startDate": "2026-8-21",
-    "goodFor": "both",
-    "price": "99分鐘"
-  },
-  {
-    "id": "atm-52",
-    "name": "喵喵博物館：埃及寶藏",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fcru30224625/",
-    "startDate": "2026-8-21",
-    "goodFor": "both",
-    "price": "44分鐘"
-  },
-  {
-    "id": "atm-53",
-    "name": "我未許願先吹蠟燭",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/ficn82691592/",
-    "startDate": "2026-8-14",
-    "goodFor": "both",
-    "price": "89分鐘"
-  },
-  {
-    "id": "atm-54",
-    "name": "恐怖冰友",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fien36893729/",
-    "startDate": "2026-8-14",
-    "goodFor": "both",
-    "price": "115分鐘"
-  },
-  {
     "id": "atm-55",
-    "name": "航海王７",
+    "name": "銀河寫手",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fojp91059950/",
-    "startDate": "2026-8-14",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fgcn28350761/",
+    "startDate": "2026-8-28",
     "goodFor": "both",
-    "price": "100分鐘"
+    "price": "130分鐘"
   },
   {
     "id": "atm-56",
-    "name": "父親回來的那一天",
+    "name": "18顆鑽石",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fmen35695538/",
-    "startDate": "2007-9-21",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fdit32810496/",
+    "startDate": "2026-8-28",
     "goodFor": "both",
-    "price": "94分鐘"
+    "price": "104分鐘"
   },
   {
     "id": "atm-57",
@@ -3208,158 +3208,59 @@
     "sourceUrl": "https://www.atmovies.com.tw/movie/fmjp38263629/",
     "startDate": "2026-8-21",
     "goodFor": "both",
-    "price": "93分鐘"
+    "price": "135分鐘"
   },
   {
     "id": "atm-58",
-    "name": "血鬼村",
+    "name": "特務搞飛機2",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fpvi40790250/",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/foko43669175/",
     "startDate": "2026-8-14",
     "goodFor": "both",
     "price": "112分鐘"
   },
   {
     "id": "atm-59",
-    "name": "海洋奇緣(真人版)",
+    "name": "我們要回家",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fmen27419466/",
-    "startDate": "2026-8-7",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fhin26733325/",
+    "startDate": "2026-8-12",
     "goodFor": "both",
-    "price": "120分鐘"
+    "price": "108分鐘"
   },
   {
     "id": "atm-60",
-    "name": "極限攀登2",
+    "name": "愛重奏",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/faen21734000/",
-    "startDate": "2026-7-8",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/frno50211933/",
+    "startDate": "2026-8-7",
     "goodFor": "both",
-    "price": "116分鐘"
+    "price": "122分鐘"
   },
   {
     "id": "atm-61",
-    "name": "迷幻死藤水",
+    "name": "哈利波特：神祕的魔法石",
     "type": "movie",
     "source": "atmovies",
     "category": "indoor",
     "address": "全台各大影城",
     "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/faen12539756/",
-    "startDate": "2022-11-25",
+    "sourceUrl": "https://www.atmovies.com.tw/movie/fhatm0894229/",
+    "startDate": "2022-9-2",
     "goodFor": "both",
-    "price": "60分鐘"
-  },
-  {
-    "id": "atm-62",
-    "name": "幸福的拉札洛",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/flit66752992/",
-    "startDate": "2021-1-8",
-    "goodFor": "both",
-    "price": "17分鐘"
-  },
-  {
-    "id": "atm-63",
-    "name": "指揮大師養成記",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fmen72175858/",
-    "startDate": "2019-4-26",
-    "goodFor": "both",
-    "price": "128分鐘"
-  },
-  {
-    "id": "atm-64",
-    "name": "傑克與孤鳥",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fjfr39381099/",
-    "goodFor": "both",
-    "price": "40分鐘"
-  },
-  {
-    "id": "atm-65",
-    "name": "暗面",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fitw29398992/",
-    "goodFor": "both",
-    "price": "14分鐘"
-  },
-  {
-    "id": "atm-66",
-    "name": "藝妓日記",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fgja40219228/",
-    "goodFor": "both",
-    "price": "25分鐘"
-  },
-  {
-    "id": "atm-67",
-    "name": "極限攀登1",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/faus21734000/",
-    "goodFor": "both",
-    "price": "99分鐘"
-  },
-  {
-    "id": "atm-68",
-    "name": "幕末太陽傳",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/fsja50050162/",
-    "goodFor": "both",
-    "price": "30分鐘"
-  },
-  {
-    "id": "atm-69",
-    "name": "雁之寺",
-    "type": "movie",
-    "source": "atmovies",
-    "category": "indoor",
-    "address": "全台各大影城",
-    "district": "不限",
-    "sourceUrl": "https://www.atmovies.com.tw/movie/ftja30171820/",
-    "startDate": "2026-08-31",
-    "goodFor": "both",
-    "price": "111分鐘"
+    "price": "105分鐘"
   },
   {
     "id": "tpa-001",
