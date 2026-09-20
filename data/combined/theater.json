@@ -12,31 +12,5 @@
     "endDate": "2026-12-23",
     "goodFor": "both",
     "price": "/+150"
-  },
-  {
-    "id": "culture-theater-6a319e2926b3243414ccd37a",
-    "name": "《灰燼×雲端×說書人》身聲劇場×台北曲藝團｜2026戲曲夢工場",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市士林區文林路751號",
-    "district": "臺北市士林區",
-    "sourceUrl": "https://tttc.ncfta.gov.tw/home/zh-tw/activities/13664",
-    "startDate": "2026-09-19",
-    "endDate": "2026-09-20",
-    "goodFor": "both"
-  },
-  {
-    "id": "culture-theater-6a319e3a26b3243414ccd37e",
-    "name": "李清照私人劇團感傷動作派《湘蘭圖》｜2026傳藝金曲劇展",
-    "type": "theater",
-    "source": "culture-theater",
-    "category": "indoor",
-    "address": "臺北市中山區中山北路二段113號3樓",
-    "district": "臺北市中山區",
-    "sourceUrl": "https://tttc.ncfta.gov.tw/home/zh-tw/activities/13683",
-    "startDate": "2026-09-13",
-    "endDate": "2026-09-14",
-    "goodFor": "both"
   }
 ]
