@@ -77,17 +77,6 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-7",
-    "name": "2026國光劇團「微劇場」",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/1993255592112144385",
-    "goodFor": "both"
-  },
-  {
     "id": "opentix-8",
     "name": "卡通大冒險-親子音樂會",
     "type": "music",
@@ -166,17 +155,6 @@
   },
   {
     "id": "opentix-15",
-    "name": "狂美《璀璨經典百老匯》交響音樂會-2026震撼再現",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/1989181657008705537",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-16",
     "name": "2026風動室內樂團《無限》宮崎駿動畫音樂精選",
     "type": "music",
     "source": "opentix",
@@ -187,7 +165,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-17",
+    "id": "opentix-16",
     "name": "新手村 節目",
     "type": "music",
     "source": "opentix",
@@ -198,7 +176,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-18",
+    "id": "opentix-17",
     "name": "2026歌劇院主辦節目免費身障票專區",
     "type": "music",
     "source": "opentix",
@@ -209,7 +187,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-19",
+    "id": "opentix-18",
     "name": "2026風動室內樂團《無限》ACG電玩動漫音樂會",
     "type": "music",
     "source": "opentix",
@@ -220,7 +198,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-20",
+    "id": "opentix-19",
     "name": "2026臺北相聲大會",
     "type": "music",
     "source": "opentix",
@@ -231,7 +209,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-21",
+    "id": "opentix-20",
     "name": "新古典室內樂團《音樂馬戲劇場-邦卡的七彩布裙》",
     "type": "music",
     "source": "opentix",
@@ -242,7 +220,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-22",
+    "id": "opentix-21",
     "name": "娛人時代《班會別鬧！》",
     "type": "music",
     "source": "opentix",
@@ -253,7 +231,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-23",
+    "id": "opentix-22",
     "name": "十方樂集30週年特別企劃：系列音樂會&amp;講座",
     "type": "music",
     "source": "opentix",
@@ -264,7 +242,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-24",
+    "id": "opentix-23",
     "name": "魔幻樂章-銅管村嘉年華",
     "type": "music",
     "source": "opentix",
@@ -275,7 +253,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-25",
+    "id": "opentix-24",
     "name": "果陀劇場《深夜小狗神秘習題》",
     "type": "music",
     "source": "opentix",
@@ -286,7 +264,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-26",
+    "id": "opentix-25",
     "name": "狂美《宮崎駿動畫配樂II》交響音樂會-2026暖心巡演",
     "type": "music",
     "source": "opentix",
@@ -297,18 +275,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-28",
-    "name": "埃及木乃伊—永生傳說",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2053669305775673345",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-29",
+    "id": "opentix-26",
     "name": "圓潤的魔法 波特羅特展",
     "type": "music",
     "source": "opentix",
@@ -319,18 +286,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-30",
-    "name": "新藝境：慕夏百年經典特展",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2058806393864052737",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-31",
+    "id": "opentix-27",
     "name": "《聲之響宴:宮崎駿動畫音樂會》",
     "type": "music",
     "source": "opentix",
@@ -341,7 +297,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-32",
+    "id": "opentix-28",
     "name": "《聲動漫:ACG音樂祭》",
     "type": "music",
     "source": "opentix",
@@ -352,7 +308,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-33",
+    "id": "opentix-29",
     "name": "職男人生11-開始新生活",
     "type": "music",
     "source": "opentix",
@@ -363,18 +319,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-34",
-    "name": "波隆那世界插畫大獎展",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2052225501402693633",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-35",
+    "id": "opentix-30",
     "name": "動物王國大探險展-比薩大學自然史博物館",
     "type": "music",
     "source": "opentix",
@@ -385,7 +330,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-36",
+    "id": "opentix-31",
     "name": "古典光影大師 林布蘭到哥雅－托雷多美術館珍藏展 I",
     "type": "music",
     "source": "opentix",
@@ -396,7 +341,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-37",
+    "id": "opentix-32",
     "name": "「雲在兩千米」｜北師美術館",
     "type": "music",
     "source": "opentix",
@@ -407,7 +352,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-38",
+    "id": "opentix-33",
     "name": "【朱宗慶打擊樂團２】2026豆莢寶寶兒童音樂會《咻咻～魔幻擊樂秀》",
     "type": "music",
     "source": "opentix",
@@ -418,7 +363,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-39",
+    "id": "opentix-34",
     "name": "躍演《勸世三姊妹》中文音樂劇",
     "type": "music",
     "source": "opentix",
@@ -429,7 +374,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-40",
+    "id": "opentix-35",
     "name": "新手村 取票",
     "type": "music",
     "source": "opentix",
@@ -440,7 +385,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-41",
+    "id": "opentix-36",
     "name": "【相聲瓦舍】《啖噓呵嘻吸吹呼》",
     "type": "music",
     "source": "opentix",
@@ -451,7 +396,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-42",
+    "id": "opentix-37",
     "name": "愛上木笛",
     "type": "music",
     "source": "opentix",
@@ -462,29 +407,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-43",
-    "name": "【演出取消】《傳承．希望．愛》Unicque Taiwan 慈善音樂百老匯",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2070386246155898881",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-44",
-    "name": "《咱兜lán tau》雙版本巡演",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2056657152138346497",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-45",
+    "id": "opentix-38",
     "name": "《今夜無法說相聲之大師來了》",
     "type": "music",
     "source": "opentix",
@@ -495,18 +418,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-46",
-    "name": "【府中15】紀錄片放映院《歌劇魅影 20週年經典重映》",
-    "type": "music",
-    "source": "opentix",
-    "category": "indoor",
-    "address": "台北市",
-    "district": "不限",
-    "sourceUrl": "https://www.opentix.life/event/2086015209646903297",
-    "goodFor": "both"
-  },
-  {
-    "id": "opentix-47",
+    "id": "opentix-39",
     "name": "《小小音樂大師課》孩子們的秋季交響樂・臺中",
     "type": "music",
     "source": "opentix",
@@ -517,7 +429,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-48",
+    "id": "opentix-40",
     "name": "優人神鼓×桑布伊《我回來了－做一部作品給自己的靈魂》",
     "type": "music",
     "source": "opentix",
@@ -528,7 +440,7 @@
     "goodFor": "both"
   },
   {
-    "id": "opentix-49",
+    "id": "opentix-41",
     "name": "2026北藝散步：士林街區導覽",
     "type": "music",
     "source": "opentix",
@@ -536,6 +448,94 @@
     "address": "台北市",
     "district": "不限",
     "sourceUrl": "https://www.opentix.life/event/2067154178015539201",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-42",
+    "name": "拾光號｜《OFF/您已離線》 情緒按摩沉浸式體驗",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2065339535983161345",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-43",
+    "name": "拾光號｜《ON/我來開箱》來自比利時互動式劇場",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2064991753921044481",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-44",
+    "name": "【府中15】VR特展《全能元神宮改造王》",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2084488881764413441",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-45",
+    "name": "【府中15】VR特展《女海盜》VR系列作",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2083093985552293888",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-46",
+    "name": "【府中15】VR特展《寂靜》",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2084492015442714625",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-47",
+    "name": "《小小音樂大師課》孩子們的秋季交響樂・高雄",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2079846062269460481",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-48",
+    "name": "鬼王鍾馗",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2059552805450129408",
+    "goodFor": "both"
+  },
+  {
+    "id": "opentix-49",
+    "name": "【府中15】紀錄片放映院《初戀33次》",
+    "type": "music",
+    "source": "opentix",
+    "category": "indoor",
+    "address": "台北市",
+    "district": "不限",
+    "sourceUrl": "https://www.opentix.life/event/2086009127886024705",
     "goodFor": "both"
   }
 ]
